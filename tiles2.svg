@@ -1,0 +1,3273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+viewBox="0 0 320 390"
+   preserveAspectRatio="xMinyMin meet"
+   version="1.1"
+   id="svg1124"
+   sodipodi:docname="tiles2.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata1130">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1128" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="829"
+     id="namedview1126"
+     showgrid="false"
+     inkscape:zoom="0.94666665"
+     inkscape:cx="218.5103"
+     inkscape:cy="89.557219"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1124"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     width="1e-005px" />
+  <g
+     id="g1971"
+     transform="matrix(0.51032503,0,0,0.52144756,0.48967497,-12.174157)">
+    <g
+       transform="translate(-34.83904,-21.647373)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Gujarat">
+      <polygon
+         text="#Kutch"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_1"
+         points="94.024378,301.035 85.476707,305.97 76.929037,301.035 76.929037,291.165 85.476707,286.23 94.024378,291.165 " />
+      <polygon
+         text="#Banaskantha"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_2"
+         points="111.11972,301.035 102.57205,305.97 94.024378,301.035 94.024378,291.165 102.57205,286.23 111.11972,291.165 " />
+      <polygon
+         text="#Rajkot"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_10"
+         points="102.57205,315.84 94.024378,320.775 85.476707,315.84 85.476707,305.97 94.024378,301.035 102.57205,305.97 " />
+      <polygon
+         transform="translate(85.47672)"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_26"
+         points="128.21506,350.385 128.21506,360.255 119.66739,365.19 111.11972,360.255 111.11972,350.385 119.66739,345.45 " />
+      <polygon
+         text="#Patan"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_3"
+         points="128.21506,301.035 119.66739,305.97 111.11972,301.035 111.11972,291.165 119.66739,286.23 128.21506,291.165 " />
+      <polygon
+         text="#Gandhinagar"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_6"
+         points="119.66739,315.84 111.11972,320.775 102.57205,315.84 102.57205,305.97 111.11972,301.035 119.66739,305.97 " />
+      <polygon
+         text="#Junagadh"
+         transform="translate(-34.19068)"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_13"
+         points="128.21506,350.385 136.76273,345.45 145.3104,350.385 145.3104,360.255 136.76273,365.19 128.21506,360.255 " />
+      <polygon
+         text="#Jamnagar"
+         transform="translate(-17.09534)"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_12"
+         points="102.57205,345.45 102.57205,335.58 111.11972,330.645 119.66739,335.58 119.66739,345.45 111.11972,350.385 " />
+      <polygon
+         text="#Mehsana"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_4"
+         points="145.3104,301.035 136.76273,305.97 128.21506,301.035 128.21506,291.165 136.76273,286.23 145.3104,291.165 " />
+      <polygon
+         text="#Ahmedabad_West"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_8"
+         points="136.76273,315.84 128.21506,320.775 119.66739,315.84 119.66739,305.97 128.21506,301.035 136.76273,305.97 " />
+      <polygon
+         text="#Surendranagar"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_9"
+         points="145.3104,330.645 136.76273,335.58 128.21506,330.645 128.21506,320.775 136.76273,315.84 145.3104,320.775 " />
+      <polygon
+         text="#Porbandar"
+         transform="translate(-17.09534)"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_11"
+         points="119.66739,345.45 119.66739,335.58 128.21506,330.645 136.76273,335.58 136.76273,345.45 128.21506,350.385 " />
+      <polygon
+         text="#Amreli"
+         transform="translate(-25.64301,74.025)"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_14"
+         points="145.3104,291.165 136.76273,286.23 136.76273,276.36 145.3104,271.425 153.85807,276.36 153.85807,286.23 " />
+      <polygon
+         text="#Sabarkantha"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_5"
+         points="162.40574,301.035 153.85807,305.97 145.3104,301.035 145.3104,291.165 153.85807,286.23 162.40574,291.165 " />
+      <polygon
+         text="#Ahmedabad_East"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_7"
+         points="153.85807,315.84 145.3104,320.775 136.76273,315.84 136.76273,305.97 145.3104,301.035 153.85807,305.97 " />
+      <polygon
+         text="#Kheda"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_17"
+         points="162.40574,330.645 153.85807,335.58 145.3104,330.645 145.3104,320.775 153.85807,315.84 162.40574,320.775 " />
+      <polygon
+         text="#Bhavnagar"
+         transform="translate(-17.09534)"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_15"
+         points="136.76273,345.45 136.76273,335.58 145.3104,330.645 153.85807,335.58 153.85807,345.45 145.3104,350.385 " />
+      <polygon
+         text="#Bharuch"
+         transform="translate(17.09535,59.22)"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_22"
+         points="153.85807,276.36 162.40574,271.425 170.95341,276.36 170.95341,286.23 162.40574,291.165 153.85807,286.23 " />
+      <polygon
+         text="#Anand"
+         transform="translate(-8.54767,44.415)"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_16"
+         points="162.40574,301.035 162.40574,291.165 170.95341,286.23 179.50109,291.165 179.50109,301.035 170.95341,305.97 " />
+      <polygon
+         text="#Panchmahal"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_18"
+         points="170.95341,315.84 162.40574,320.775 153.85807,315.84 153.85807,305.97 162.40574,301.035 170.95341,305.97 " />
+      <polygon
+         text="#Vadodara"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_20"
+         points="179.50109,330.645 170.95341,335.58 162.40574,330.645 162.40574,320.775 170.95341,315.84 179.50109,320.775 " />
+      <polygon
+         text="#Navsari"
+         transform="translate(17.09535)"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_25"
+         points="162.40574,350.385 170.95341,345.45 179.50109,350.385 179.50109,360.255 170.95341,365.19 162.40574,360.255 " />
+      <polygon
+         text="#Dahod"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_19"
+         points="188.04876,315.84 179.50109,320.775 170.95341,315.84 170.95341,305.97 179.50109,301.035 188.04876,305.97 " />
+      <polygon
+         text="#Chhota_Udaipur"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_21"
+         points="196.59643,330.645 188.04876,335.58 179.50109,330.645 179.50109,320.775 188.04876,315.84 196.59643,320.775 " />
+      <polygon
+         text="#Bardoli"
+         transform="translate(17.09535)"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_23"
+         points="170.95341,345.45 170.95341,335.58 179.50109,330.645 188.04876,335.58 188.04876,345.45 179.50109,350.385 " />
+      <polygon
+         text="#Surat"
+         transform="translate(-17.09534)"
+         style="fill:#f5db70;stroke:#000000;stroke-opacity:1"
+         id="S06_24"
+         points="179.50109,350.385 188.04876,345.45 196.59643,350.385 196.59643,360.255 188.04876,365.19 179.50109,360.255 " />
+    </g>
+    <g
+       inkscape:label="#Lakshadweep"
+       transform="translate(117.87917,104.91591)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Lakshadweep">
+      <polygon
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="U06_1"
+         points="94.024378,616.875 85.476707,611.94 85.476707,602.07 94.024378,597.135 102.57205,602.07 102.57205,611.94 " />
+    </g>
+    <g
+       transform="translate(-75.30249,3.7874974)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Rajasthan">
+      <polygon
+         text="#Sikar"
+         transform="translate(-34.31723,-33.852066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_5"
+         points="153.85807,227.01 153.85807,217.14 162.40574,212.205 170.95341,217.14 170.95341,227.01 162.40574,231.945 " />
+      <polygon
+         text="#Nagaur"
+         transform="translate(-34.31723,-33.852066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_14"
+         points="145.3104,212.205 153.85807,217.14 153.85807,227.01 145.3104,231.945 136.76273,227.01 136.76273,217.14 " />
+      <polygon
+         text="#Dausa"
+         transform="translate(16.9688,-33.852066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_11"
+         points="162.40574,241.815 153.85807,246.75 145.3104,241.815 145.3104,231.945 153.85807,227.01 162.40574,231.945 " />
+      <polygon
+         transform="translate(-51.41257,-33.852066)"
+         text="#Jalore"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_18"
+         points="145.3104,261.555 136.76273,256.62 136.76273,246.75 145.3104,241.815 153.85807,246.75 153.85807,256.62 " />
+      <polygon
+         text="#Udaipur"
+         transform="translate(-42.8649,-48.657066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_19"
+         points="153.85807,276.36 145.3104,271.425 145.3104,261.555 153.85807,256.62 162.40574,261.555 162.40574,271.425 " />
+      <polygon
+         text="#Alwar"
+         transform="translate(-42.8649,-48.657066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_8"
+         points="196.59643,231.945 205.1441,227.01 213.69177,231.945 213.69177,241.815 205.1441,246.75 196.59643,241.815 " />
+      <polygon
+         text="#Jodhpur"
+         transform="translate(-94.15093,-19.047066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_16"
+         points="196.59643,202.335 196.59643,212.205 188.04876,217.14 179.50109,212.205 179.50109,202.335 188.04876,197.4 " />
+      <polygon
+         text="#Jaipur_Rural"
+         transform="translate(-34.31723,-33.852066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_6"
+         points="170.95341,227.01 170.95341,217.14 179.50109,212.205 188.04876,217.14 188.04876,227.01 179.50109,231.945 " />
+      <polygon
+         text="#Pali"
+         transform="translate(-68.50792,-33.852066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_15"
+         points="170.95341,227.01 179.50109,231.945 179.50109,241.815 170.95341,246.75 162.40574,241.815 162.40574,231.945 " />
+      <polygon
+         text="#Rajsamand"
+         transform="translate(-42.8649,-48.657066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_22"
+         points="162.40574,261.555 153.85807,256.62 153.85807,246.75 162.40574,241.815 170.95341,246.75 170.95341,256.62 " />
+      <polygon
+         text="#Chittorgarh"
+         transform="translate(-42.86491,-48.657066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_21"
+         points="170.95341,276.36 162.40574,271.425 162.40574,261.555 170.95341,256.62 179.50109,261.555 179.50109,271.425 " />
+      <polygon
+         text="#Jaipur"
+         transform="translate(-42.8649,-19.047066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_7"
+         points="205.1441,217.14 205.1441,227.01 196.59643,231.945 188.04876,227.01 188.04876,217.14 196.59643,212.205 " />
+      <polygon
+         transform="translate(-51.41258,-33.852066)"
+         text="#Ajmer"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_13"
+         points="188.04876,246.75 179.50109,241.815 179.50109,231.945 188.04876,227.01 196.59643,231.945 196.59643,241.815 " />
+      <polygon
+         text="#Karauli-Dholpur"
+         transform="translate(25.51647,-48.657066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_10"
+         points="188.04876,246.75 188.04876,256.62 179.50109,261.555 170.95341,256.62 170.95341,246.75 179.50109,241.815 " />
+      <polygon
+         text="#Kota"
+         transform="translate(-25.76956,-48.657066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_24"
+         points="188.04876,276.36 179.50109,271.425 179.50109,261.555 188.04876,256.62 196.59643,261.555 196.59643,271.425 " />
+      <polygon
+         inkscape:label="#polygon88"
+         transform="translate(-59.96024,-48.657066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_20"
+         points="179.50109,291.165 170.95341,286.23 170.95341,276.36 179.50109,271.425 188.04876,276.36 188.04876,286.23 " />
+      <polygon
+         text="#Bharatpur"
+         transform="translate(-8.67422,-107.87707)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_9"
+         points="188.04876,305.97 179.50109,301.035 179.50109,291.165 188.04876,286.23 196.59643,291.165 196.59643,301.035 " />
+      <polygon
+         text="#Bhilwara"
+         transform="translate(-51.41258,-33.852066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_23"
+         points="196.59643,261.555 188.04876,256.62 188.04876,246.75 196.59643,241.815 205.1441,246.75 205.1441,256.62 " />
+      <polygon
+         text="#Tonk-Sawai_Madhopur"
+         transform="translate(-17.22189,-63.462066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_12"
+         points="205.1441,256.62 213.69177,261.555 213.69177,271.425 205.1441,276.36 196.59643,271.425 196.59643,261.555 " />
+      <polygon
+         text="#Jhalawar-Baran"
+         transform="translate(-42.8649,-48.657066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_25"
+         points="213.69177,291.165 205.1441,286.23 205.1441,276.36 213.69177,271.425 222.23944,276.36 222.23944,286.23 " />
+      <polygon
+         text="#Jhunjhunu"
+         transform="translate(-17.22188,-33.852066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_4"
+         points="170.95341,197.4 179.50109,202.335 179.50109,212.205 170.95341,217.14 162.40574,212.205 162.40574,202.335 " />
+      <polygon
+         transform="translate(-42.8649,-19.047066)"
+         text="#Bikaner"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_2"
+         points="153.85807,197.4 153.85807,187.53 162.40574,182.595 170.95341,187.53 170.95341,197.4 162.40574,202.335 " />
+      <polygon
+         text="#Barmer"
+         transform="translate(-68.50791,-4.242066)"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_17"
+         points="153.85807,217.14 145.3104,212.205 145.3104,202.335 153.85807,197.4 162.40574,202.335 162.40574,212.205 " />
+      <polygon
+         transform="translate(-42.8649,-19.047066)"
+         text="#Churu"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_3"
+         points="179.50109,182.595 188.04876,187.53 188.04876,197.4 179.50109,202.335 170.95341,197.4 170.95341,187.53 " />
+      <polygon
+         transform="translate(-42.8649,-19.047066)"
+         text="#Ganganagar"
+         style="fill:#f5a270;stroke:#000000;stroke-opacity:1"
+         id="S20_1"
+         points="162.40574,182.595 162.40574,172.725 170.95341,167.79 179.50109,172.725 179.50109,182.595 170.95341,187.53 " />
+    </g>
+    <g
+       transform="translate(-59.72645,5.7747474)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Maharashtra">
+      <polygon
+         transform="translate(17.09534)"
+         text="#Dindori"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_20"
+         points="179.50109,360.255 188.04876,365.19 188.04876,375.06 179.50109,379.995 170.95341,375.06 170.95341,365.19 " />
+      <polygon
+         text="#Pune"
+         transform="translate(42.73835,14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_34"
+         points="188.04876,404.67 179.50109,409.605 170.95341,404.67 170.95341,394.8 179.50109,389.865 188.04876,394.8 " />
+      <polygon
+         text="#Maval"
+         transform="translate(42.73835,14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_33"
+         points="170.95341,404.67 162.40574,409.605 153.85807,404.67 153.85807,394.8 162.40574,389.865 170.95341,394.8 " />
+      <polygon
+         text="#Raigad"
+         transform="translate(42.73835,14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_32"
+         points="179.50109,409.605 179.50109,419.475 170.95341,424.41 162.40574,419.475 162.40574,409.605 170.95341,404.67 " />
+      <polygon
+         text="#Mumbai-North"
+         transform="translate(8.54766,14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_26"
+         points="196.59643,389.865 188.04876,394.8 179.50109,389.865 179.50109,379.995 188.04876,375.06 196.59643,379.995 " />
+      <polygon
+         text="#Nashik"
+         transform="translate(68.38136)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_21"
+         points="179.50109,389.865 170.95341,394.8 162.40574,389.865 162.40574,379.995 170.95341,375.06 179.50109,379.995 " />
+      <polygon
+         text="#Ahmednagar"
+         transform="translate(68.38136)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_37"
+         points="196.59643,419.475 188.04876,424.41 179.50109,419.475 179.50109,409.605 188.04876,404.67 196.59643,409.605 " />
+      <polygon
+         text="#Latur"
+         transform="translate(119.66738)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_41"
+         points="188.04876,424.41 188.04876,434.28 179.50109,439.215 170.95341,434.28 170.95341,424.41 179.50109,419.475 " />
+      <polygon
+         text="#Sangli"
+         transform="translate(85.4767)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_44"
+         points="196.59643,439.215 196.59643,449.085 188.04876,454.02 179.50109,449.085 179.50109,439.215 188.04876,434.28 " />
+      <polygon
+         text="#Hatkanangle"
+         transform="translate(68.38137)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_48"
+         points="179.50109,439.215 179.50109,449.085 170.95341,454.02 162.40574,449.085 162.40574,439.215 170.95341,434.28 " />
+      <polygon
+         text="#Bhiwandi"
+         transform="translate(42.73835,-74.025)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_23"
+         points="188.04876,454.02 188.04876,463.89 179.50109,468.825 170.95341,463.89 170.95341,454.02 179.50109,449.085 " />
+      <polygon
+         text="#Nandurbar"
+         transform="translate(-8.54767,14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_1"
+         points="196.59643,330.645 205.1441,335.58 205.1441,345.45 196.59643,350.385 188.04876,345.45 188.04876,335.58 " />
+      <polygon
+         text="#Dhule"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_2"
+         points="196.59643,350.385 205.1441,345.45 213.69177,350.385 213.69177,360.255 205.1441,365.19 196.59643,360.255 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Aurangabad"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_19"
+         points="196.59643,360.255 205.1441,365.19 205.1441,375.06 196.59643,379.995 188.04876,375.06 188.04876,365.19 " />
+      <polygon
+         text="#Mumbai-North-West"
+         transform="translate(8.54766,14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_27"
+         points="213.69177,389.865 205.1441,394.8 196.59643,389.865 196.59643,379.995 205.1441,375.06 213.69177,379.995 " />
+      <polygon
+         text="#Kalyan"
+         transform="translate(119.66738)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_24"
+         points="205.1441,404.67 196.59643,409.605 188.04876,404.67 188.04876,394.8 196.59643,389.865 205.1441,394.8 " />
+      <polygon
+         transform="translate(85.4767)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="polygon141"
+         points="213.69177,409.605 213.69177,419.475 205.1441,424.41 196.59643,419.475 196.59643,409.605 205.1441,404.67 " />
+      <polygon
+         text="#Osmanabad"
+         transform="translate(85.4767)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_40"
+         points="205.1441,424.41 205.1441,434.28 196.59643,439.215 188.04876,434.28 188.04876,424.41 196.59643,419.475 " />
+      <polygon
+         text="#Kolhapur"
+         transform="translate(51.28602)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_47"
+         points="213.69177,439.215 213.69177,449.085 205.1441,454.02 196.59643,449.085 196.59643,439.215 205.1441,434.28 " />
+      <polygon
+         text="#Palghar"
+         transform="translate(51.28602)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_22"
+         points="162.40574,389.865 153.85807,394.8 145.3104,389.865 145.3104,379.995 153.85807,375.06 162.40574,379.995 " />
+      <polygon
+         text="#Jalgaon"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_3"
+         points="213.69177,350.385 222.23944,345.45 230.78711,350.385 230.78711,360.255 222.23944,365.19 213.69177,360.255 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Jalna"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_18"
+         points="213.69177,360.255 222.23944,365.19 222.23944,375.06 213.69177,379.995 205.1441,375.06 205.1441,365.19 " />
+      <polygon
+         text="#Hingoli"
+         transform="translate(68.38136)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_15"
+         points="222.23944,394.8 213.69177,389.865 213.69177,379.995 222.23944,375.06 230.78711,379.995 230.78711,389.865 " />
+      <polygon
+         text="#Thane"
+         transform="translate(85.4767)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_25"
+         points="222.23944,404.67 213.69177,409.605 205.1441,404.67 205.1441,394.8 213.69177,389.865 222.23944,394.8 " />
+      <polygon
+         text="#Baramati"
+         transform="translate(8.54767,14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_35"
+         points="230.78711,409.605 230.78711,419.475 222.23944,424.41 213.69177,419.475 213.69177,409.605 222.23944,404.67 " />
+      <polygon
+         text="#Madha"
+         transform="translate(51.28602)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_43"
+         points="222.23944,424.41 222.23944,434.28 213.69177,439.215 205.1441,434.28 205.1441,424.41 213.69177,419.475 " />
+      <polygon
+         text="#Raver"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_4"
+         points="230.78711,350.385 239.33478,345.45 247.88245,350.385 247.88245,360.255 239.33478,365.19 230.78711,360.255 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Buldhana"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_5"
+         points="230.78711,360.255 239.33478,365.19 239.33478,375.06 230.78711,379.995 222.23944,375.06 222.23944,365.19 " />
+      <polygon
+         text="#Mumbai-North-East"
+         transform="translate(-8.54767,14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_28"
+         points="230.78711,389.865 230.78711,379.995 239.33478,375.06 247.88245,379.995 247.88245,389.865 239.33478,394.8 " />
+      <polygon
+         text="#Mumbai-South"
+         transform="translate(51.28602)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_31"
+         points="239.33478,404.67 230.78711,409.605 222.23944,404.67 222.23944,394.8 230.78711,389.865 239.33478,394.8 " />
+      <polygon
+         text="#Nanded"
+         transform="translate(51.28602)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_16"
+         points="247.88245,419.475 239.33478,424.41 230.78711,419.475 230.78711,409.605 239.33478,404.67 247.88245,409.605 " />
+      <polygon
+         text="#Satara"
+         transform="translate(17.09534)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_45"
+         points="239.33478,424.41 239.33478,434.28 230.78711,439.215 222.23944,434.28 222.23944,424.41 230.78711,419.475 " />
+      <polygon
+         text="#Amravati"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_7"
+         points="247.88245,350.385 256.43012,345.45 264.97779,350.385 264.97779,360.255 256.43012,365.19 247.88245,360.255 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Akola"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_6"
+         points="247.88245,360.255 256.43012,365.19 256.43012,375.06 247.88245,379.995 239.33478,375.06 239.33478,365.19 " />
+      <polygon
+         transform="translate(-8.54767,14.805)"
+         text="#Mumbai-North-Central"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_29"
+         points="247.88245,389.865 247.88245,379.995 256.43012,375.06 264.97779,379.995 264.97779,389.865 256.43012,394.8 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Mumbai-South-Central"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_30"
+         points="256.43012,404.67 247.88245,409.605 239.33478,404.67 239.33478,394.8 247.88245,389.865 256.43012,394.8 " />
+      <polygon
+         text="#Parbhani"
+         transform="translate(8.54767,-14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_17"
+         points="264.97779,409.605 256.43012,404.67 256.43012,394.8 264.97779,389.865 273.52546,394.8 273.52546,404.67 " />
+      <polygon
+         text="#Wardha"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_8"
+         points="264.97779,350.385 273.52546,345.45 282.07313,350.385 282.07313,360.255 273.52546,365.19 264.97779,360.255 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Yavatmal-Washim"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_14"
+         points="264.97779,360.255 273.52546,365.19 273.52546,375.06 264.97779,379.995 256.43012,375.06 256.43012,365.19 " />
+      <polygon
+         text="#Shirdi"
+         transform="translate(-17.09534)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_38"
+         points="282.07313,389.865 273.52546,394.8 264.97779,389.865 264.97779,379.995 273.52546,375.06 282.07313,379.995 " />
+      <polygon
+         text="#Bhandara-Gondiya"
+         transform="translate(42.73835,-14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_11"
+         points="282.07313,360.255 290.62081,365.19 290.62081,375.06 282.07313,379.995 273.52546,375.06 273.52546,365.19 " />
+      <polygon
+         text="#Gadchiroli-Chimur"
+         transform="translate(25.643,-14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_12"
+         points="299.16848,379.995 299.16848,389.865 290.62081,394.8 282.07313,389.865 282.07313,379.995 290.62081,375.06 " />
+      <polygon
+         text="#Nagpur"
+         transform="translate(-8.54768,-14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_10"
+         points="299.16848,360.255 307.71615,365.19 307.71615,375.06 299.16848,379.995 290.62081,375.06 290.62081,365.19 " />
+      <polygon
+         text="#Chandrapur"
+         transform="translate(-8.54768,-14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_13"
+         points="316.26382,379.995 316.26382,389.865 307.71615,394.8 299.16848,389.865 299.16848,379.995 307.71615,375.06 " />
+      <polygon
+         text="#Ramtek"
+         transform="translate(-8.54768,-14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_9"
+         points="316.26382,360.255 324.81149,365.19 324.81149,375.06 316.26382,379.995 307.71615,375.06 307.71615,365.19 " />
+      <polygon
+         text="#Shirur"
+         transform="translate(85.47671)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_36"
+         points="162.40574,419.475 153.85807,424.41 145.3104,419.475 145.3104,409.605 153.85807,404.67 162.40574,409.605 " />
+      <polygon
+         text="#Beed"
+         transform="translate(17.09534)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_39"
+         points="264.97779,419.475 256.43012,424.41 247.88245,419.475 247.88245,409.605 256.43012,404.67 264.97779,409.605 " />
+      <polygon
+         text="#Ratnagiri-Sindhudurg"
+         transform="translate(59.8337,14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_46"
+         points="170.95341,424.41 170.95341,434.28 162.40574,439.215 153.85807,434.28 153.85807,424.41 162.40574,419.475 " />
+      <polygon
+         text="#Solapur"
+         transform="translate(111.11972,14.805)"
+         style="fill:#f5be70;stroke:#000000;stroke-opacity:1"
+         id="S13_42"
+         points="179.50109,419.475 188.04876,424.41 188.04876,434.28 179.50109,439.215 170.95341,434.28 170.95341,424.41 " />
+    </g>
+    <g
+       transform="translate(23.32377,-15.638063)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Punjab">
+      <polygon
+         text="#Bathinda"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_11"
+         points="179.50109,152.985 179.50109,143.115 188.04876,138.18 196.59643,143.115 196.59643,152.985 188.04876,157.92 " />
+      <polygon
+         text="#Sangrur"
+         transform="translate(25.64301,-14.805)"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_12"
+         points="170.95341,157.92 179.50109,152.985 188.04876,157.92 188.04876,167.79 179.50109,172.725 170.95341,167.79 " />
+      <polygon
+         text="#Hoshiarpur"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_5"
+         points="239.33478,108.57 230.78711,113.505 222.23944,108.57 222.23944,98.7 230.78711,93.765 239.33478,98.7 " />
+      <polygon
+         text="#Jalandhar"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_4"
+         points="213.69177,123.375 205.1441,128.31 196.59643,123.375 196.59643,113.505 205.1441,108.57 213.69177,113.505 " />
+      <polygon
+         text="#Ludhiana"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_7"
+         points="188.04876,138.18 188.04876,128.31 196.59643,123.375 205.1441,128.31 205.1441,138.18 196.59643,143.115 " />
+      <polygon
+         text="#Fatehgarh_Sahib"
+         transform="translate(8.54767,-14.805)"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_8"
+         points="196.59643,143.115 205.1441,138.18 213.69177,143.115 213.69177,152.985 205.1441,157.92 196.59643,152.985 " />
+      <polygon
+         text="#Patiala"
+         transform="translate(25.64301,-14.805)"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_13"
+         points="188.04876,157.92 196.59643,152.985 205.1441,157.92 205.1441,167.79 196.59643,172.725 188.04876,167.79 " />
+      <polygon
+         text="#Faridkot"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_9"
+         points="170.95341,138.18 170.95341,128.31 179.50109,123.375 188.04876,128.31 188.04876,138.18 179.50109,143.115 " />
+      <polygon
+         text="#Gurdaspur"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_1"
+         points="222.23944,108.57 213.69177,113.505 205.1441,108.57 205.1441,98.7 213.69177,93.765 222.23944,98.7 " />
+      <polygon
+         text="#Amritsar"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_2"
+         points="205.1441,108.57 196.59643,113.505 188.04876,108.57 188.04876,98.7 196.59643,93.765 205.1441,98.7 " />
+      <polygon
+         text="#Anandpur_Sahib"
+         transform="translate(8.54767,-14.805)"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_6"
+         points="213.69177,143.115 205.1441,138.18 205.1441,128.31 213.69177,123.375 222.23944,128.31 222.23944,138.18 " />
+      <polygon
+         text="#Ferozpur"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_10"
+         points="162.40574,152.985 162.40574,143.115 170.95341,138.18 179.50109,143.115 179.50109,152.985 170.95341,157.92 " />
+      <polygon
+         text="#Khadoor_Sahib"
+         style="fill:#f5cd70;stroke:#000000;stroke-opacity:1"
+         id="S19_3"
+         points="196.59643,123.375 188.04876,128.31 179.50109,123.375 179.50109,113.505 188.04876,108.57 196.59643,113.505 " />
+    </g>
+    <g
+       transform="translate(19.15037,24.076088)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Haryana">
+      <polygon
+         transform="translate(25.64301,-14.805)"
+         text="#Kurukshetra"
+         style="fill:#f59b70;stroke:#000000;stroke-opacity:1"
+         id="S07_2"
+         points="222.23944,128.31 230.78711,123.375 239.33478,128.31 239.33478,138.18 230.78711,143.115 222.23944,138.18 " />
+      <polygon
+         text="#Sonipat"
+         transform="translate(76.92903,-44.415)"
+         style="fill:#f59b70;stroke:#000000;stroke-opacity:1"
+         id="S07_6"
+         points="179.50109,182.595 179.50109,172.725 188.04876,167.79 196.59643,172.725 196.59643,182.595 188.04876,187.53 " />
+      <polygon
+         text="#Rohtak"
+         transform="translate(25.64301,-74.025)"
+         style="fill:#f59b70;stroke:#000000;stroke-opacity:1"
+         id="S07_7"
+         points="239.33478,227.01 230.78711,231.945 222.23944,227.01 222.23944,217.14 230.78711,212.205 239.33478,217.14 " />
+      <polygon
+         transform="translate(25.64301,-44.415)"
+         text="#Hisar"
+         style="fill:#f59b70;stroke:#000000;stroke-opacity:1"
+         id="S07_4"
+         points="196.59643,172.725 205.1441,167.79 213.69177,172.725 213.69177,182.595 205.1441,187.53 196.59643,182.595 " />
+      <polygon
+         text="#Sirsa"
+         transform="translate(17.09534,-59.22)"
+         style="fill:#f59b70;stroke:#000000;stroke-opacity:1"
+         id="S07_3"
+         points="188.04876,197.4 188.04876,187.53 196.59643,182.595 205.1441,187.53 205.1441,197.4 196.59643,202.335 " />
+      <polygon
+         text="#Gurgaon"
+         transform="translate(42.73835,-44.415)"
+         style="fill:#f59b70;stroke:#000000;stroke-opacity:1"
+         id="S07_9"
+         points="196.59643,212.205 196.59643,202.335 205.1441,197.4 213.69177,202.335 213.69177,212.205 205.1441,217.14 " />
+      <polygon
+         text="#Faridabad"
+         transform="translate(51.28602,-59.22)"
+         style="fill:#f59b70;stroke:#000000;stroke-opacity:1"
+         id="S07_10"
+         points="205.1441,227.01 205.1441,217.14 213.69177,212.205 222.23944,217.14 222.23944,227.01 213.69177,231.945 " />
+      <polygon
+         transform="translate(25.64301,-14.805)"
+         text="#Karnal"
+         style="fill:#f59b70;stroke:#000000;stroke-opacity:1"
+         id="S07_5"
+         points="222.23944,138.18 230.78711,143.115 230.78711,152.985 222.23944,157.92 213.69177,152.985 213.69177,143.115 " />
+      <polygon
+         transform="translate(25.64301,-14.805)"
+         text="#Bhiwani-Mahendragarh"
+         style="fill:#f59b70;stroke:#000000;stroke-opacity:1"
+         id="S07_8"
+         points="205.1441,157.92 213.69177,152.985 222.23944,157.92 222.23944,167.79 213.69177,172.725 205.1441,167.79 " />
+      <polygon
+         transform="translate(34.19068)"
+         text="#Ambala"
+         style="fill:#f59b70;stroke:#000000;stroke-opacity:1"
+         id="S07_1"
+         points="230.78711,113.505 239.33478,108.57 247.88245,113.505 247.88245,123.375 239.33478,128.31 230.78711,123.375 " />
+    </g>
+    <g
+       inkscape:label="#Dadar &amp; Nagar Haveli"
+       transform="translate(-91.226066,-6.3207926)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="DadarandNagar">
+      <polygon
+         transform="translate(-7.8429097,-3.7347189)"
+         style="fill:#70f583;stroke:#000000;stroke-opacity:1"
+         id="U03_1"
+         points="162.40574,379.995 153.85807,375.06 153.85807,365.19 162.40574,360.255 170.95341,365.19 170.95341,375.06 " />
+    </g>
+    <g
+       transform="translate(30.47325,0.1211274)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Goa">
+      <polygon
+         text="#South_Goa"
+         style="fill:#cff570;stroke:#000000;stroke-opacity:1"
+         id="S05_2"
+         points="196.59643,498.435 188.04876,493.5 188.04876,483.63 196.59643,478.695 205.1441,483.63 205.1441,493.5 " />
+      <polygon
+         text="#North_Goa"
+         style="fill:#cff570;stroke:#000000;stroke-opacity:1"
+         id="S05_1"
+         points="188.04876,483.63 179.50109,478.695 179.50109,468.825 188.04876,463.89 196.59643,468.825 196.59643,478.695 " />
+    </g>
+    <g
+       transform="translate(62.41911,-53.118063)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Jammu Kashmir">
+      <polygon
+         text="#Srinagar"
+         transform="translate(17.09534)"
+         style="fill:#70f59f;stroke:#000000;stroke-opacity:1"
+         id="S09_2"
+         points="188.04876,108.57 179.50109,113.505 170.95341,108.57 170.95341,98.7 179.50109,93.765 188.04876,98.7 " />
+      <polygon
+         text="#Baramulla"
+         style="fill:#70f59f;stroke:#000000;stroke-opacity:1"
+         id="S09_1"
+         points="196.59643,83.895 196.59643,93.765 188.04876,98.7 179.50109,93.765 179.50109,83.895 188.04876,78.96 " />
+      <polygon
+         text="#Anantnag"
+         transform="translate(-17.09534)"
+         style="fill:#70f59f;stroke:#000000;stroke-opacity:1"
+         id="S09_3"
+         points="230.78711,93.765 222.23944,98.7 213.69177,93.765 213.69177,83.895 222.23944,78.96 230.78711,83.895 " />
+      <polygon
+         text="#Jammu"
+         transform="translate(-51.28602,29.61)"
+         style="fill:#70f59f;stroke:#000000;stroke-opacity:1"
+         id="S09_6"
+         points="247.88245,93.765 239.33478,98.7 230.78711,93.765 230.78711,83.895 239.33478,78.96 247.88245,83.895 " />
+      <polygon
+         text="#Ladakh"
+         transform="translate(8.54767,14.805)"
+         style="fill:#70f59f;stroke:#000000;stroke-opacity:1"
+         id="S09_4"
+         points="205.1441,98.7 196.59643,93.765 196.59643,83.895 205.1441,78.96 213.69177,83.895 213.69177,93.765 " />
+      <polygon
+         text="#Udhampur"
+         transform="translate(-51.28602,29.61)"
+         style="fill:#70f59f;stroke:#000000;stroke-opacity:1"
+         id="S09_5"
+         points="264.97779,93.765 256.43012,98.7 247.88245,93.765 247.88245,83.895 256.43012,78.96 264.97779,83.895 " />
+    </g>
+    <g
+       transform="translate(90.98406,-20.338913)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="NCT of Delhi">
+      <polygon
+         text="#West_Delhi"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="U05_6"
+         points="205.1441,197.4 205.1441,187.53 213.69177,182.595 222.23944,187.53 222.23944,197.4 213.69177,202.335 " />
+      <polygon
+         text="#New_Delhi"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="U05_4"
+         points="230.78711,212.205 230.78711,202.335 239.33478,197.4 247.88245,202.335 247.88245,212.205 239.33478,217.14 " />
+      <polygon
+         text="#North_West_Delhi"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="U05_5"
+         points="213.69177,182.595 213.69177,172.725 222.23944,167.79 230.78711,172.725 230.78711,182.595 222.23944,187.53 " />
+      <polygon
+         text="#South_Delhi"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="U05_7"
+         points="213.69177,212.205 213.69177,202.335 222.23944,197.4 230.78711,202.335 230.78711,212.205 222.23944,217.14 " />
+      <polygon
+         text="#North_East_Delhi"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="U05_2"
+         points="230.78711,182.595 230.78711,172.725 239.33478,167.79 247.88245,172.725 247.88245,182.595 239.33478,187.53 " />
+      <polygon
+         text="#East_Delhi"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="U05_3"
+         points="239.33478,197.4 239.33478,187.53 247.88245,182.595 256.43012,187.53 256.43012,197.4 247.88245,202.335 " />
+      <polygon
+         text="#Chandni_Chowk"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="U05_1"
+         points="222.23944,197.4 222.23944,187.53 230.78711,182.595 239.33478,187.53 239.33478,197.4 230.78711,202.335 " />
+    </g>
+    <g
+       transform="translate(88.64843,68.750597)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Madhya Pradesh">
+      <polygon
+         text="#Mandsaur"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_23"
+         points="205.1441,276.36 205.1441,286.23 196.59643,291.165 188.04876,286.23 188.04876,276.36 196.59643,271.425 " />
+      <polygon
+         text="#Ujjain"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_22"
+         points="213.69177,291.165 213.69177,301.035 205.1441,305.97 196.59643,301.035 196.59643,291.165 205.1441,286.23 " />
+      <polygon
+         text="#Dewas"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_21"
+         points="205.1441,305.97 205.1441,315.84 196.59643,320.775 188.04876,315.84 188.04876,305.97 196.59643,301.035 " />
+      <polygon
+         text="#Ratlam"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_24"
+         points="213.69177,320.775 213.69177,330.645 205.1441,335.58 196.59643,330.645 196.59643,320.775 205.1441,315.84 " />
+      <polygon
+         text="#Rajgarh"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_20"
+         points="230.78711,291.165 230.78711,301.035 222.23944,305.97 213.69177,301.035 213.69177,291.165 222.23944,286.23 " />
+      <polygon
+         text="#Bhopal"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_19"
+         points="222.23944,305.97 222.23944,315.84 213.69177,320.775 205.1441,315.84 205.1441,305.97 213.69177,301.035 " />
+      <polygon
+         text="#Dhar"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_25"
+         points="230.78711,320.775 230.78711,330.645 222.23944,335.58 213.69177,330.645 213.69177,320.775 222.23944,315.84 " />
+      <polygon
+         text="#Khargone"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_27"
+         points="222.23944,335.58 222.23944,345.45 213.69177,350.385 205.1441,345.45 205.1441,335.58 213.69177,330.645 " />
+      <polygon
+         text="#Guna"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_4"
+         points="247.88245,291.165 247.88245,301.035 239.33478,305.97 230.78711,301.035 230.78711,291.165 239.33478,286.23 " />
+      <polygon
+         text="#Sagar"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_5"
+         points="239.33478,305.97 239.33478,315.84 230.78711,320.775 222.23944,315.84 222.23944,305.97 230.78711,301.035 " />
+      <polygon
+         text="#Indore"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_26"
+         points="247.88245,320.775 247.88245,330.645 239.33478,335.58 230.78711,330.645 230.78711,320.775 239.33478,315.84 " />
+      <polygon
+         text="#Khandwa"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_28"
+         points="239.33478,335.58 239.33478,345.45 230.78711,350.385 222.23944,345.45 222.23944,335.58 230.78711,330.645 " />
+      <polygon
+         text="#Damoh"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_7"
+         points="256.43012,305.97 256.43012,315.84 247.88245,320.775 239.33478,315.84 239.33478,305.97 247.88245,301.035 " />
+      <polygon
+         text="#Vidisha"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_18"
+         points="264.97779,320.775 264.97779,330.645 256.43012,335.58 247.88245,330.645 247.88245,320.775 256.43012,315.84 " />
+      <polygon
+         text="#Betul"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_29"
+         points="256.43012,335.58 256.43012,345.45 247.88245,350.385 239.33478,345.45 239.33478,335.58 247.88245,330.645 " />
+      <polygon
+         text="#Khajuraho"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_8"
+         points="273.52546,305.97 273.52546,315.84 264.97779,320.775 256.43012,315.84 256.43012,305.97 264.97779,301.035 " />
+      <polygon
+         text="#Jabalpur"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_13"
+         points="282.07313,320.775 282.07313,330.645 273.52546,335.58 264.97779,330.645 264.97779,320.775 273.52546,315.84 " />
+      <polygon
+         text="#Hoshangabad"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_17"
+         points="273.52546,335.58 273.52546,345.45 264.97779,350.385 256.43012,345.45 256.43012,335.58 264.97779,330.645 " />
+      <polygon
+         text="#Satna"
+         transform="translate(-8.54767,-14.805)"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_9"
+         points="299.16848,330.645 290.62081,335.58 282.07313,330.645 282.07313,320.775 290.62081,315.84 299.16848,320.775 " />
+      <polygon
+         text="#Mandla"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_14"
+         points="290.62081,335.58 290.62081,345.45 282.07313,350.385 273.52546,345.45 273.52546,335.58 282.07313,330.645 " />
+      <polygon
+         text="#Bhind"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_2"
+         points="256.43012,276.36 256.43012,286.23 247.88245,291.165 239.33478,286.23 239.33478,276.36 247.88245,271.425 " />
+      <polygon
+         text="#Rewa"
+         transform="translate(-8.54767,-14.805)"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_10"
+         points="299.16848,330.645 299.16848,320.775 307.71615,315.84 316.26382,320.775 316.26382,330.645 307.71615,335.58 " />
+      <polygon
+         text="#Tikamgarh"
+         transform="translate(-51.28603,-59.22)"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_6"
+         points="316.26382,360.255 307.71615,365.19 299.16848,360.255 299.16848,350.385 307.71615,345.45 316.26382,350.385 " />
+      <polygon
+         text="#Shahdol"
+         transform="translate(-17.09534)"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_12"
+         points="316.26382,350.385 307.71615,345.45 307.71615,335.58 316.26382,330.645 324.81149,335.58 324.81149,345.45 " />
+      <polygon
+         text="#Chhindwara"
+         transform="translate(-25.64302,14.805)"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_16"
+         points="307.71615,345.45 299.16848,350.385 290.62081,345.45 290.62081,335.58 299.16848,330.645 307.71615,335.58 " />
+      <polygon
+         text="#Balaghat"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_15"
+         points="299.16848,350.385 299.16848,360.255 290.62081,365.19 282.07313,360.255 282.07313,350.385 290.62081,345.45 " />
+      <polygon
+         text="#Morena"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_1"
+         points="247.88245,261.555 247.88245,271.425 239.33478,276.36 230.78711,271.425 230.78711,261.555 239.33478,256.62 " />
+      <polygon
+         text="#Gwalior"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_3"
+         points="239.33478,276.36 239.33478,286.23 230.78711,291.165 222.23944,286.23 222.23944,276.36 230.78711,271.425 " />
+      <polygon
+         text="#Sidhi"
+         transform="translate(-34.19068,-29.61)"
+         style="fill:#ecf570;stroke:#000000;stroke-opacity:1"
+         id="S12_11"
+         points="333.35916,360.255 324.81149,365.19 316.26382,360.255 316.26382,350.385 324.81149,345.45 333.35916,350.385 " />
+    </g>
+    <g
+       transform="translate(20.47325,61.471127)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Karnataka">
+      <polygon
+         text="#Chikkodi"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_1"
+         points="196.59643,468.825 188.04876,463.89 188.04876,454.02 196.59643,449.085 205.1441,454.02 205.1441,463.89 " />
+      <polygon
+         text="#Uttara_Kannada"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_12"
+         points="205.1441,483.63 196.59643,478.695 196.59643,468.825 205.1441,463.89 213.69177,468.825 213.69177,478.695 " />
+      <polygon
+         transform="translate(-8.54767,-14.805)"
+         text="#Chikkaballapur"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_27"
+         points="256.43012,523.11 256.43012,513.24 264.97779,508.305 273.52546,513.24 273.52546,523.11 264.97779,528.045 " />
+      <polygon
+         text="#Bijapur"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_4"
+         points="222.23944,454.02 213.69177,449.085 213.69177,439.215 222.23944,434.28 230.78711,439.215 230.78711,449.085 " />
+      <polygon
+         text="#Belgaum"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_2"
+         points="213.69177,468.825 205.1441,463.89 205.1441,454.02 213.69177,449.085 222.23944,454.02 222.23944,463.89 " />
+      <polygon
+         text="#Dharwad"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_11"
+         points="222.23944,483.63 213.69177,478.695 213.69177,468.825 222.23944,463.89 230.78711,468.825 230.78711,478.695 " />
+      <polygon
+         text="#Shimoga"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_14"
+         points="213.69177,498.435 205.1441,493.5 205.1441,483.63 213.69177,478.695 222.23944,483.63 222.23944,493.5 " />
+      <polygon
+         transform="translate(-17.09534)"
+         text="#Udupi_Chikmagalur"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_15"
+         points="213.69177,508.305 213.69177,498.435 222.23944,493.5 230.78711,498.435 230.78711,508.305 222.23944,513.24 " />
+      <polygon
+         transform="translate(-8.54767,14.805)"
+         text="#Dakshina_Kannada"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_17"
+         points="196.59643,498.435 205.1441,493.5 213.69177,498.435 213.69177,508.305 205.1441,513.24 196.59643,508.305 " />
+      <polygon
+         text="#Bangalore_North"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_24"
+         points="213.69177,528.045 205.1441,523.11 205.1441,513.24 213.69177,508.305 222.23944,513.24 222.23944,523.11 " />
+      <polygon
+         transform="translate(-17.09534)"
+         text="#Mysore"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_21"
+         points="230.78711,537.915 222.23944,542.85 213.69177,537.915 213.69177,528.045 222.23944,523.11 230.78711,528.045 " />
+      <polygon
+         text="#Kolar"
+         transform="translate(-8.54767,-14.805)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_28"
+         points="264.97779,528.045 273.52546,523.11 282.07313,528.045 282.07313,537.915 273.52546,542.85 264.97779,537.915 " />
+      <polygon
+         text="#Gulbarga"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_5"
+         points="239.33478,454.02 230.78711,449.085 230.78711,439.215 239.33478,434.28 247.88245,439.215 247.88245,449.085 " />
+      <polygon
+         text="#Bagalkot"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_3"
+         points="230.78711,468.825 222.23944,463.89 222.23944,454.02 230.78711,449.085 239.33478,454.02 239.33478,463.89 " />
+      <polygon
+         text="#Haveri"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_10"
+         points="239.33478,483.63 230.78711,478.695 230.78711,468.825 239.33478,463.89 247.88245,468.825 247.88245,478.695 " />
+      <polygon
+         text="#Davanagere"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_13"
+         points="230.78711,498.435 222.23944,493.5 222.23944,483.63 230.78711,478.695 239.33478,483.63 239.33478,493.5 " />
+      <polygon
+         transform="translate(-17.09534)"
+         text="#Hassan"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_16"
+         points="230.78711,508.305 230.78711,498.435 239.33478,493.5 247.88245,498.435 247.88245,508.305 239.33478,513.24 " />
+      <polygon
+         text="#Bangalore_South"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_26"
+         points="230.78711,528.045 222.23944,523.11 222.23944,513.24 230.78711,508.305 239.33478,513.24 239.33478,523.11 " />
+      <polygon
+         text="#Bangalore_Rural"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_23"
+         points="230.78711,528.045 239.33478,523.11 247.88245,528.045 247.88245,537.915 239.33478,542.85 230.78711,537.915 " />
+      <polygon
+         text="#Mandya"
+         transform="translate(-8.54767,-14.805)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_20"
+         points="222.23944,552.72 222.23944,542.85 230.78711,537.915 239.33478,542.85 239.33478,552.72 230.78711,557.655 " />
+      <polygon
+         text="#Bidar"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_7"
+         points="247.88245,439.215 239.33478,434.28 239.33478,424.41 247.88245,419.475 256.43012,424.41 256.43012,434.28 " />
+      <polygon
+         text="#Raichur"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_6"
+         points="256.43012,454.02 247.88245,449.085 247.88245,439.215 256.43012,434.28 264.97779,439.215 264.97779,449.085 " />
+      <polygon
+         text="#Koppal"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_8"
+         points="247.88245,468.825 239.33478,463.89 239.33478,454.02 247.88245,449.085 256.43012,454.02 256.43012,463.89 " />
+      <polygon
+         text="#Bangalore_Central"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_25"
+         points="247.88245,528.045 239.33478,523.11 239.33478,513.24 247.88245,508.305 256.43012,513.24 256.43012,523.11 " />
+      <polygon
+         text="#Chitradurga"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_18"
+         points="247.88245,498.435 239.33478,493.5 239.33478,483.63 247.88245,478.695 256.43012,483.63 256.43012,493.5 " />
+      <polygon
+         text="#Chamarajanagar"
+         transform="translate(-17.09534)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_22"
+         points="247.88245,537.915 256.43012,542.85 256.43012,552.72 247.88245,557.655 239.33478,552.72 239.33478,542.85 " />
+      <polygon
+         transform="translate(-25.64301,44.415)"
+         text="#Bellary"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_19"
+         points="264.97779,449.085 273.52546,454.02 273.52546,463.89 264.97779,468.825 256.43012,463.89 256.43012,454.02 " />
+      <polygon
+         text="#Bellary"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S10_9"
+         points="256.43012,483.63 247.88245,478.695 247.88245,468.825 256.43012,463.89 264.97779,468.825 264.97779,478.695 " />
+    </g>
+    <g
+       transform="translate(53.83412,100.45504)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Kerala">
+      <polygon
+         text="#Kasargod"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_1"
+         points="205.1441,523.11 213.69177,528.045 213.69177,537.915 205.1441,542.85 196.59643,537.915 196.59643,528.045 " />
+      <polygon
+         text="#Kannur"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_2"
+         points="213.69177,537.915 222.23944,542.85 222.23944,552.72 213.69177,557.655 205.1441,552.72 205.1441,542.85 " />
+      <polygon
+         text="#Vatakara"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_3"
+         points="196.59643,537.915 205.1441,542.85 205.1441,552.72 196.59643,557.655 188.04876,552.72 188.04876,542.85 " />
+      <polygon
+         text="#Thrissur"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_10"
+         points="205.1441,582.33 213.69177,587.265 213.69177,597.135 205.1441,602.07 196.59643,597.135 196.59643,587.265 " />
+      <polygon
+         text="#Wayanad"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_4"
+         points="222.23944,552.72 230.78711,557.655 230.78711,567.525 222.23944,572.46 213.69177,567.525 213.69177,557.655 " />
+      <polygon
+         text="#Malappuram"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_6"
+         points="205.1441,552.72 213.69177,557.655 213.69177,567.525 205.1441,572.46 196.59643,567.525 196.59643,557.655 " />
+      <polygon
+         text="#Ponnani"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_7"
+         points="196.59643,567.525 205.1441,572.46 205.1441,582.33 196.59643,587.265 188.04876,582.33 188.04876,572.46 " />
+      <polygon
+         text="#Alathur"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_9"
+         points="222.23944,582.33 230.78711,587.265 230.78711,597.135 222.23944,602.07 213.69177,597.135 213.69177,587.265 " />
+      <polygon
+         text="#Palakkad"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_8"
+         points="213.69177,567.525 222.23944,572.46 222.23944,582.33 213.69177,587.265 205.1441,582.33 205.1441,572.46 " />
+      <polygon
+         text="#Ernakulam"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_12"
+         points="213.69177,597.135 222.23944,602.07 222.23944,611.94 213.69177,616.875 205.1441,611.94 205.1441,602.07 " />
+      <polygon
+         text="#Idukki"
+         transform="translate(25.64301,44.415)"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_13"
+         points="239.33478,572.46 239.33478,582.33 230.78711,587.265 222.23944,582.33 222.23944,572.46 230.78711,567.525 " />
+      <polygon
+         text="#Pathanamthitta"
+         transform="translate(25.64301,44.415)"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_17"
+         points="247.88245,597.135 239.33478,602.07 230.78711,597.135 230.78711,587.265 239.33478,582.33 247.88245,587.265 " />
+      <polygon
+         text="#Chalakudy"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_11"
+         points="230.78711,597.135 239.33478,602.07 239.33478,611.94 230.78711,616.875 222.23944,611.94 222.23944,602.07 " />
+      <polygon
+         text="#Kottayam"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_14"
+         points="239.33478,611.94 247.88245,616.875 247.88245,626.745 239.33478,631.68 230.78711,626.745 230.78711,616.875 " />
+      <polygon
+         text="#Mavelikkara"
+         transform="translate(17.09534)"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_16"
+         points="239.33478,641.55 230.78711,646.485 222.23944,641.55 222.23944,631.68 230.78711,626.745 239.33478,631.68 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Attingal"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_19"
+         points="247.88245,656.355 239.33478,661.29 230.78711,656.355 230.78711,646.485 239.33478,641.55 247.88245,646.485 " />
+      <polygon
+         text="#Alappuzha"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_15"
+         points="222.23944,611.94 230.78711,616.875 230.78711,626.745 222.23944,631.68 213.69177,626.745 213.69177,616.875 " />
+      <polygon
+         text="#Kozhikode"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_5"
+         points="188.04876,552.72 196.59643,557.655 196.59643,567.525 188.04876,572.46 179.50109,567.525 179.50109,557.655 " />
+      <polygon
+         transform="translate(-25.64301,-14.805)"
+         text="#Kollam"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_18"
+         points="264.97779,646.485 264.97779,656.355 256.43012,661.29 247.88245,656.355 247.88245,646.485 256.43012,641.55 " />
+      <polygon
+         transform="translate(-8.54767,-14.805)"
+         text="#Thiruvananthapuram"
+         style="fill:#abf570;stroke:#000000;stroke-opacity:1"
+         id="S11_20"
+         points="256.43012,661.29 256.43012,671.16 247.88245,676.095 239.33478,671.16 239.33478,661.29 247.88245,656.355 " />
+    </g>
+    <g
+       transform="translate(-76.93449,-2.2436326)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Uttar Pradesh">
+      <polygon
+         text="#Fatehpur_Sikri"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_19"
+         points="213.69177,231.945 222.23944,227.01 230.78711,231.945 230.78711,241.815 222.23944,246.75 213.69177,241.815 " />
+      <polygon
+         text="#Jhansi"
+         transform="translate(34.19067,29.61)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_46"
+         points="222.23944,256.62 213.69177,261.555 205.1441,256.62 205.1441,246.75 213.69177,241.815 222.23944,246.75 " />
+      <polygon
+         transform="translate(8.54767,14.805)"
+         text="#Kairana"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_2"
+         points="247.88245,143.115 247.88245,152.985 239.33478,157.92 230.78711,152.985 230.78711,143.115 239.33478,138.18 " />
+      <polygon
+         transform="translate(51.28602)"
+         text="#Domariyaganj"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_60"
+         points="384.64518,231.945 384.64518,241.815 376.09751,246.75 367.54984,241.815 367.54984,231.945 376.09751,227.01 " />
+      <polygon
+         text="#Baghpat"
+         transform="translate(-8.54767,14.805)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_11"
+         points="230.78711,172.725 222.23944,167.79 222.23944,157.92 230.78711,152.985 239.33478,157.92 239.33478,167.79 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Firozabad"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_20"
+         points="239.33478,227.01 247.88245,231.945 247.88245,241.815 239.33478,246.75 230.78711,241.815 230.78711,231.945 " />
+      <polygon
+         text="#Hamirpur"
+         transform="translate(34.19067,29.61)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_47"
+         points="239.33478,246.75 239.33478,256.62 230.78711,261.555 222.23944,256.62 222.23944,246.75 230.78711,241.815 " />
+      <polygon
+         transform="translate(17.09534,29.61)"
+         text="#Saharanpur"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_1"
+         points="247.88245,123.375 256.43012,128.31 256.43012,138.18 247.88245,143.115 239.33478,138.18 239.33478,128.31 " />
+      <polygon
+         transform="translate(17.09534,29.61)"
+         text="#Nagina"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_5"
+         points="256.43012,138.18 264.97779,143.115 264.97779,152.985 256.43012,157.92 247.88245,152.985 247.88245,143.115 " />
+      <polygon
+         transform="translate(-8.54767,14.805)"
+         text="#Muzaffarnagar"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_3"
+         points="247.88245,172.725 239.33478,167.79 239.33478,157.92 247.88245,152.985 256.43012,157.92 256.43012,167.79 " />
+      <polygon
+         text="#Bijnor"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_4"
+         points="264.97779,182.595 256.43012,187.53 247.88245,182.595 247.88245,172.725 256.43012,167.79 264.97779,172.725 " />
+      <polygon
+         text="#Mirzapur"
+         transform="translate(42.73835,-14.805)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_79"
+         points="341.90683,335.58 333.35916,330.645 333.35916,320.775 341.90683,315.84 350.4545,320.775 350.4545,330.645 " />
+      <polygon
+         transform="translate(-17.09534)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_13"
+         points="264.97779,202.335 264.97779,212.205 256.43012,217.14 247.88245,212.205 247.88245,202.335 256.43012,197.4 " />
+      <polygon
+         text="#Mathura"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_17"
+         points="239.33478,217.14 247.88245,212.205 256.43012,217.14 256.43012,227.01 247.88245,231.945 239.33478,227.01 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Mainpuri"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_21"
+         points="256.43012,227.01 264.97779,231.945 264.97779,241.815 256.43012,246.75 247.88245,241.815 247.88245,231.945 " />
+      <polygon
+         transform="translate(-17.09534)"
+         text="#Etawah"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_41"
+         points="247.88245,241.815 256.43012,246.75 256.43012,256.62 247.88245,261.555 239.33478,256.62 239.33478,246.75 " />
+      <polygon
+         text="#Kaiserganj"
+         transform="translate(17.09534,29.61)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_57"
+         points="350.4545,202.335 359.00217,197.4 367.54984,202.335 367.54984,212.205 359.00217,217.14 350.4545,212.205 " />
+      <polygon
+         text="#Allahabad"
+         transform="translate(102.57205)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_52"
+         points="264.97779,291.165 264.97779,301.035 256.43012,305.97 247.88245,301.035 247.88245,291.165 256.43012,286.23 " />
+      <polygon
+         text="#Ghaziabad"
+         transform="translate(-34.19068,29.61)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_12"
+         points="273.52546,157.92 273.52546,167.79 264.97779,172.725 256.43012,167.79 256.43012,157.92 264.97779,152.985 " />
+      <polygon
+         text="#Meerut"
+         transform="translate(-25.64301,14.805)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_10"
+         points="282.07313,172.725 282.07313,182.595 273.52546,187.53 264.97779,182.595 264.97779,172.725 273.52546,167.79 " />
+      <polygon
+         text="#Amroha"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_9"
+         points="273.52546,187.53 273.52546,197.4 264.97779,202.335 256.43012,197.4 256.43012,187.53 264.97779,182.595 " />
+      <polygon
+         text="#Bulandshahr"
+         transform="translate(-17.09534)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_14"
+         points="282.07313,202.335 282.07313,212.205 273.52546,217.14 264.97779,212.205 264.97779,202.335 273.52546,197.4 " />
+      <polygon
+         text="#Hathras"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_16"
+         points="256.43012,217.14 264.97779,212.205 273.52546,217.14 273.52546,227.01 264.97779,231.945 256.43012,227.01 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Farrukhabad"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_40"
+         points="273.52546,227.01 282.07313,231.945 282.07313,241.815 273.52546,246.75 264.97779,241.815 264.97779,231.945 " />
+      <polygon
+         transform="translate(-17.09534)"
+         text="#Kannauj"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_42"
+         points="264.97779,241.815 273.52546,246.75 273.52546,256.62 264.97779,261.555 256.43012,256.62 256.43012,246.75 " />
+      <polygon
+         transform="translate(34.19069)"
+         text="#Fatehpur"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_49"
+         points="273.52546,256.62 282.07313,261.555 282.07313,271.425 273.52546,276.36 264.97779,271.425 264.97779,261.555 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Banda"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_48"
+         points="256.43012,286.23 256.43012,276.36 264.97779,271.425 273.52546,276.36 273.52546,286.23 264.97779,291.165 " />
+      <polygon
+         text="#Bhadohi"
+         transform="translate(102.57205)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_78"
+         points="282.07313,291.165 282.07313,301.035 273.52546,305.97 264.97779,301.035 264.97779,291.165 273.52546,286.23 " />
+      <polygon
+         text="#Jalaun"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_45"
+         points="247.88245,261.555 256.43012,256.62 264.97779,261.555 264.97779,271.425 256.43012,276.36 247.88245,271.425 " />
+      <polygon
+         text="#Moradabad"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_6"
+         points="290.62081,187.53 290.62081,197.4 282.07313,202.335 273.52546,197.4 273.52546,187.53 282.07313,182.595 " />
+      <polygon
+         text="#Rampur"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_7"
+         points="299.16848,202.335 299.16848,212.205 290.62081,217.14 282.07313,212.205 282.07313,202.335 290.62081,197.4 " />
+      <polygon
+         text="#Aligarh"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_15"
+         points="273.52546,217.14 282.07313,212.205 290.62081,217.14 290.62081,227.01 282.07313,231.945 273.52546,227.01 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Hardoi"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_31"
+         points="290.62081,227.01 299.16848,231.945 299.16848,241.815 290.62081,246.75 282.07313,241.815 282.07313,231.945 " />
+      <polygon
+         transform="translate(-17.09534)"
+         text="#Misrikh"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_32"
+         points="282.07313,241.815 290.62081,246.75 290.62081,256.62 282.07313,261.555 273.52546,256.62 273.52546,246.75 " />
+      <polygon
+         transform="translate(34.19069)"
+         text="#Rae_Bareli"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_36"
+         points="290.62081,256.62 299.16848,261.555 299.16848,271.425 290.62081,276.36 282.07313,271.425 282.07313,261.555 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Kaushambi"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_50"
+         points="273.52546,286.23 273.52546,276.36 282.07313,271.425 290.62081,276.36 290.62081,286.23 282.07313,291.165 " />
+      <polygon
+         text="#Sant_Kabir_Nagar"
+         transform="translate(111.11972,-44.415)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_62"
+         points="290.62081,286.23 299.16848,291.165 299.16848,301.035 290.62081,305.97 282.07313,301.035 282.07313,291.165 " />
+      <polygon
+         text="#Ballia"
+         transform="translate(153.85807,-29.61)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_72"
+         points="273.52546,305.97 282.07313,301.035 290.62081,305.97 290.62081,315.84 282.07313,320.775 273.52546,315.84 " />
+      <polygon
+         transform="translate(51.286031)"
+         text="#Maharajganj"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_63"
+         points="401.74052,241.815 393.19285,246.75 384.64518,241.815 384.64518,231.945 393.19285,227.01 401.74052,231.945 " />
+      <polygon
+         text="#Sambhal"
+         transform="translate(-25.64302,14.805)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_8"
+         points="307.71615,187.53 307.71615,197.4 299.16848,202.335 290.62081,197.4 290.62081,187.53 299.16848,182.595 " />
+      <polygon
+         text="#Gorakhpur"
+         transform="translate(111.11972,44.415)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_64"
+         points="299.16848,212.205 299.16848,202.335 307.71615,197.4 316.26382,202.335 316.26382,212.205 307.71615,217.14 " />
+      <polygon
+         text="#Shahjahanpur"
+         transform="translate(51.28602)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_27"
+         points="307.71615,227.01 299.16848,231.945 290.62081,227.01 290.62081,217.14 299.16848,212.205 307.71615,217.14 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Dhaurahra"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_29"
+         points="307.71615,227.01 316.26382,231.945 316.26382,241.815 307.71615,246.75 299.16848,241.815 299.16848,231.945 " />
+      <polygon
+         text="#Mohanlalganj"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_34"
+         points="307.71615,246.75 307.71615,256.62 299.16848,261.555 290.62081,256.62 290.62081,246.75 299.16848,241.815 " />
+      <polygon
+         transform="translate(34.19069)"
+         text="#Amethi"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_37"
+         points="307.71615,256.62 316.26382,261.555 316.26382,271.425 307.71615,276.36 299.16848,271.425 299.16848,261.555 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Phulpur"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_51"
+         points="290.62081,286.23 290.62081,276.36 299.16848,271.425 307.71615,276.36 307.71615,286.23 299.16848,291.165 " />
+      <polygon
+         text="#Akbarpur"
+         transform="translate(-17.09534,-29.61)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_44"
+         points="316.26382,301.035 307.71615,305.97 299.16848,301.035 299.16848,291.165 307.71615,286.23 316.26382,291.165 " />
+      <polygon
+         text="#Varanasi"
+         transform="translate(94.02437,-14.805)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_77"
+         points="307.71615,315.84 299.16848,320.775 290.62081,315.84 290.62081,305.97 299.16848,301.035 307.71615,305.97 " />
+      <polygon
+         text="#Agra"
+         transform="translate(-128.21506,-74.025)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_18"
+         points="376.09751,305.97 376.09751,315.84 367.54984,320.775 359.00217,315.84 359.00217,305.97 367.54984,301.035 " />
+      <polygon
+         text="#Robertsganj"
+         transform="translate(68.38136,-29.61)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_80"
+         points="324.81149,345.45 324.81149,335.58 333.35916,330.645 341.90683,335.58 341.90683,345.45 333.35916,350.385 " />
+      <polygon
+         text="#Badaun"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_23"
+         points="324.81149,217.14 324.81149,227.01 316.26382,231.945 307.71615,227.01 307.71615,217.14 316.26382,212.205 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Sitapur"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_30"
+         points="324.81149,227.01 333.35916,231.945 333.35916,241.815 324.81149,246.75 316.26382,241.815 316.26382,231.945 " />
+      <polygon
+         text="#Lucknow"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_35"
+         points="324.81149,246.75 324.81149,256.62 316.26382,261.555 307.71615,256.62 307.71615,246.75 316.26382,241.815 " />
+      <polygon
+         transform="translate(34.19069)"
+         text="#Sultanpur"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_38"
+         points="324.81149,256.62 333.35916,261.555 333.35916,271.425 324.81149,276.36 316.26382,271.425 316.26382,261.555 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Pratapgarh"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_39"
+         points="307.71615,286.23 307.71615,276.36 316.26382,271.425 324.81149,276.36 324.81149,286.23 316.26382,291.165 " />
+      <polygon
+         text="#Kanpur"
+         transform="translate(-51.28603,-29.61)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_43"
+         points="316.26382,291.165 324.81149,286.23 333.35916,291.165 333.35916,301.035 324.81149,305.97 316.26382,301.035 " />
+      <polygon
+         text="#Deoria"
+         transform="translate(111.11971,-44.415)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_66"
+         points="316.26382,301.035 324.81149,305.97 324.81149,315.84 316.26382,320.775 307.71615,315.84 307.71615,305.97 " />
+      <polygon
+         text="#Bareilly"
+         transform="translate(-42.73835,-14.805)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_25"
+         points="350.4545,212.205 359.00217,217.14 359.00217,227.01 350.4545,231.945 341.90683,227.01 341.90683,217.14 " />
+      <polygon
+         text="#Aonla"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_24"
+         points="341.90683,217.14 341.90683,227.01 333.35916,231.945 324.81149,227.01 324.81149,217.14 333.35916,212.205 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Bahraich"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_56"
+         points="341.90683,227.01 350.4545,231.945 350.4545,241.815 341.90683,246.75 333.35916,241.815 333.35916,231.945 " />
+      <polygon
+         text="#Salempur"
+         transform="translate(85.4767,29.61)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_71"
+         points="333.35916,241.815 341.90683,246.75 341.90683,256.62 333.35916,261.555 324.81149,256.62 324.81149,246.75 " />
+      <polygon
+         transform="translate(34.19069)"
+         text="#Lalganj"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_68"
+         points="341.90683,256.62 350.4545,261.555 350.4545,271.425 341.90683,276.36 333.35916,271.425 333.35916,261.555 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Jaunpur"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_73"
+         points="324.81149,286.23 324.81149,276.36 333.35916,271.425 341.90683,276.36 341.90683,286.23 333.35916,291.165 " />
+      <polygon
+         text="#Etah"
+         transform="translate(-42.73835,-74.025)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_22"
+         points="350.4545,291.165 350.4545,301.035 341.90683,305.97 333.35916,301.035 333.35916,291.165 341.90683,286.23 " />
+      <polygon
+         text="#Ambedkar_Nagar"
+         transform="translate(51.28602,-59.22)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_55"
+         points="341.90683,315.84 333.35916,320.775 324.81149,315.84 324.81149,305.97 333.35916,301.035 341.90683,305.97 " />
+      <polygon
+         text="#Kheri"
+         transform="translate(-17.09534)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_28"
+         points="393.19285,217.14 393.19285,227.01 384.64518,231.945 376.09751,227.01 376.09751,217.14 384.64518,212.205 " />
+      <polygon
+         text="#Unnao"
+         transform="translate(59.8337,-14.805)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_33"
+         points="213.69177,271.425 213.69177,261.555 222.23944,256.62 230.78711,261.555 230.78711,271.425 222.23944,276.36 " />
+      <polygon
+         transform="translate(34.19068)"
+         text="#Shravasti"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_58"
+         points="367.54984,231.945 367.54984,241.815 359.00217,246.75 350.4545,241.815 350.4545,231.945 359.00217,227.01 " />
+      <polygon
+         transform="translate(-17.09534)"
+         text="#Barabanki"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_53"
+         points="359.00217,256.62 350.4545,261.555 341.90683,256.62 341.90683,246.75 350.4545,241.815 359.00217,246.75 " />
+      <polygon
+         transform="translate(34.19069)"
+         text="#Azamgarh"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_69"
+         points="359.00217,256.62 367.54984,261.555 367.54984,271.425 359.00217,276.36 350.4545,271.425 350.4545,261.555 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Machhlishahr"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_74"
+         points="341.90683,286.23 341.90683,276.36 350.4545,271.425 359.00217,276.36 359.00217,286.23 350.4545,291.165 " />
+      <polygon
+         text="#Ghazipur"
+         transform="translate(25.64301,-14.805)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_75"
+         points="350.4545,291.165 359.00217,286.23 367.54984,291.165 367.54984,301.035 359.00217,305.97 350.4545,301.035 " />
+      <polygon
+         text="#Bansgaon"
+         transform="translate(59.83369,-44.415)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_67"
+         points="350.4545,301.035 359.00217,305.97 359.00217,315.84 350.4545,320.775 341.90683,315.84 341.90683,305.97 " />
+      <polygon
+         text="#Chandauli"
+         transform="translate(85.4767,-29.61)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_76"
+         points="316.26382,330.645 316.26382,320.775 324.81149,315.84 333.35916,320.775 333.35916,330.645 324.81149,335.58 " />
+      <polygon
+         transform="translate(25.64301,14.805)"
+         text="#Ghosi"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_70"
+         points="367.54984,271.425 367.54984,261.555 376.09751,256.62 384.64518,261.555 384.64518,271.425 376.09751,276.36 " />
+      <polygon
+         text="#Kushi_Nagar"
+         transform="translate(59.833711,44.415)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_65"
+         points="376.09751,197.4 384.64518,202.335 384.64518,212.205 376.09751,217.14 367.54984,212.205 367.54984,202.335 " />
+      <polygon
+         transform="translate(-17.09534)"
+         text="#Faizabad"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_54"
+         points="376.09751,256.62 367.54984,261.555 359.00217,256.62 359.00217,246.75 367.54984,241.815 376.09751,246.75 " />
+      <polygon
+         text="#Gonda"
+         transform="translate(42.73835,-44.415)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_59"
+         points="376.09751,286.23 367.54984,291.165 359.00217,286.23 359.00217,276.36 367.54984,271.425 376.09751,276.36 " />
+      <polygon
+         transform="translate(-17.09534)"
+         text="#Basti"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_61"
+         points="376.09751,256.62 376.09751,246.75 384.64518,241.815 393.19285,246.75 393.19285,256.62 384.64518,261.555 " />
+      <polygon
+         text="#Pilibhit"
+         transform="translate(-42.73835,-14.805)"
+         style="fill:#baf570;stroke:#000000;stroke-opacity:1"
+         id="S24_26"
+         points="367.54984,212.205 376.09751,217.14 376.09751,227.01 367.54984,231.945 359.00217,227.01 359.00217,217.14 " />
+    </g>
+    <g
+       transform="translate(40.7761,-28.443063)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Himachal Pradesh">
+      <polygon
+         text="#Kangra"
+         style="fill:#70f5e0;stroke:#000000;stroke-opacity:1"
+         id="S08_1"
+         points="256.43012,98.7 256.43012,108.57 247.88245,113.505 239.33478,108.57 239.33478,98.7 247.88245,93.765 " />
+      <polygon
+         text="#Hamirpur"
+         style="fill:#70f5e0;stroke:#000000;stroke-opacity:1"
+         id="S08_3"
+         points="264.97779,113.505 264.97779,123.375 256.43012,128.31 247.88245,123.375 247.88245,113.505 256.43012,108.57 " />
+      <polygon
+         text="#Mandi"
+         style="fill:#70f5e0;stroke:#000000;stroke-opacity:1"
+         id="S08_2"
+         points="273.52546,98.7 273.52546,108.57 264.97779,113.505 256.43012,108.57 256.43012,98.7 264.97779,93.765 " />
+      <polygon
+         text="#Shimla"
+         style="fill:#70f5e0;stroke:#000000;stroke-opacity:1"
+         id="S08_4"
+         points="282.07313,113.505 282.07313,123.375 273.52546,128.31 264.97779,123.375 264.97779,113.505 273.52546,108.57 " />
+    </g>
+    <g
+       transform="translate(42.47646,-0.7821826)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Chandigarh">
+      <polygon
+         inkscape:label="#polygon617"
+         style="fill:#70f5c3;stroke:#000000;stroke-opacity:1"
+         id="U02_1"
+         points="222.23944,108.57 230.78711,113.505 230.78711,123.375 222.23944,128.31 213.69177,123.375 213.69177,113.505 " />
+    </g>
+    <g
+       transform="translate(70.17965,85.838347)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Tamil Nadu">
+      <polygon
+         text="#Nilgiris"
+         transform="translate(-8.54767,14.805)"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_19"
+         points="230.78711,557.655 239.33478,552.72 247.88245,557.655 247.88245,567.525 239.33478,572.46 230.78711,567.525 " />
+      <polygon
+         text="#Dharmapuri"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_10"
+         points="247.88245,567.525 247.88245,557.655 256.43012,552.72 264.97779,557.655 264.97779,567.525 256.43012,572.46 " />
+      <polygon
+         text="#Tiruppur"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_18"
+         points="256.43012,582.33 247.88245,587.265 239.33478,582.33 239.33478,572.46 247.88245,567.525 256.43012,572.46 " />
+      <polygon
+         text="#Erode"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_17"
+         points="264.97779,597.135 256.43012,602.07 247.88245,597.135 247.88245,587.265 256.43012,582.33 264.97779,587.265 " />
+      <polygon
+         text="#Pollachi"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_21"
+         points="256.43012,611.94 247.88245,616.875 239.33478,611.94 239.33478,602.07 247.88245,597.135 256.43012,602.07 " />
+      <polygon
+         text="#Madurai"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_32"
+         points="264.97779,626.745 256.43012,631.68 247.88245,626.745 247.88245,616.875 256.43012,611.94 264.97779,616.875 " />
+      <polygon
+         text="#Theni"
+         transform="translate(-17.09534,-29.61)"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_33"
+         points="239.33478,631.68 247.88245,626.745 256.43012,631.68 256.43012,641.55 247.88245,646.485 239.33478,641.55 " />
+      <polygon
+         transform="translate(-59.8337,-14.805)"
+         text="#Sriperumbudur"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_5"
+         points="324.81149,572.46 316.26382,567.525 316.26382,557.655 324.81149,552.72 333.35916,557.655 333.35916,567.525 " />
+      <polygon
+         text="#Krishnagiri"
+         transform="translate(17.09534)"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_9"
+         points="256.43012,542.85 247.88245,537.915 247.88245,528.045 256.43012,523.11 264.97779,528.045 264.97779,537.915 " />
+      <polygon
+         text="#Tiruvannamalai"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_11"
+         points="264.97779,567.525 264.97779,557.655 273.52546,552.72 282.07313,557.655 282.07313,567.525 273.52546,572.46 " />
+      <polygon
+         text="#Namakkal"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_16"
+         points="273.52546,582.33 264.97779,587.265 256.43012,582.33 256.43012,572.46 264.97779,567.525 273.52546,572.46 " />
+      <polygon
+         text="#Karur"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_23"
+         points="282.07313,597.135 273.52546,602.07 264.97779,597.135 264.97779,587.265 273.52546,582.33 282.07313,587.265 " />
+      <polygon
+         text="#Dindigul"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_22"
+         points="273.52546,611.94 264.97779,616.875 256.43012,611.94 256.43012,602.07 264.97779,597.135 273.52546,602.07 " />
+      <polygon
+         text="#Sivaganga"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_31"
+         points="282.07313,626.745 273.52546,631.68 264.97779,626.745 264.97779,616.875 273.52546,611.94 282.07313,616.875 " />
+      <polygon
+         text="#Tenkasi"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_37"
+         points="273.52546,641.55 264.97779,646.485 256.43012,641.55 256.43012,631.68 264.97779,626.745 273.52546,631.68 " />
+      <polygon
+         text="#Tirunelveli"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_38"
+         points="282.07313,656.355 273.52546,661.29 264.97779,656.355 264.97779,646.485 273.52546,641.55 282.07313,646.485 " />
+      <polygon
+         text="#Coimbatore"
+         transform="translate(-25.64301,-74.025)"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_20"
+         points="264.97779,676.095 256.43012,671.16 256.43012,661.29 264.97779,656.355 273.52546,661.29 273.52546,671.16 " />
+      <polygon
+         text="#Tiruvallur"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_1"
+         points="333.35916,537.915 324.81149,542.85 316.26382,537.915 316.26382,528.045 324.81149,523.11 333.35916,528.045 " />
+      <polygon
+         text="#Chennai_North"
+         transform="translate(17.09535)"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_2"
+         points="264.97779,557.655 256.43012,552.72 256.43012,542.85 264.97779,537.915 273.52546,542.85 273.52546,552.72 " />
+      <polygon
+         text="#Arani"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_12"
+         points="282.07313,567.525 282.07313,557.655 290.62081,552.72 299.16848,557.655 299.16848,567.525 290.62081,572.46 " />
+      <polygon
+         text="#Salem"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_15"
+         points="290.62081,582.33 282.07313,587.265 273.52546,582.33 273.52546,572.46 282.07313,567.525 290.62081,572.46 " />
+      <polygon
+         text="#Perambalur"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_25"
+         points="299.16848,597.135 290.62081,602.07 282.07313,597.135 282.07313,587.265 290.62081,582.33 299.16848,587.265 " />
+      <polygon
+         text="#Tiruchirapalli"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_24"
+         points="290.62081,611.94 282.07313,616.875 273.52546,611.94 273.52546,602.07 282.07313,597.135 290.62081,602.07 " />
+      <polygon
+         text="#Thanjavur"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_30"
+         points="299.16848,626.745 290.62081,631.68 282.07313,626.745 282.07313,616.875 290.62081,611.94 299.16848,616.875 " />
+      <polygon
+         text="#Virudhunagar"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_34"
+         points="290.62081,641.55 282.07313,646.485 273.52546,641.55 273.52546,631.68 282.07313,626.745 290.62081,631.68 " />
+      <polygon
+         text="#Thoothukudi"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_36"
+         points="299.16848,656.355 290.62081,661.29 282.07313,656.355 282.07313,646.485 290.62081,641.55 299.16848,646.485 " />
+      <polygon
+         text="#Kanniyakumari"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_39"
+         points="290.62081,671.16 282.07313,676.095 273.52546,671.16 273.52546,661.29 282.07313,656.355 290.62081,661.29 " />
+      <polygon
+         text="#Villupuram"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_13"
+         points="324.81149,582.33 316.26382,587.265 307.71615,582.33 307.71615,572.46 316.26382,567.525 324.81149,572.46 " />
+      <polygon
+         text="#Vellore"
+         transform="translate(8.54768,-14.805)"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_8"
+         points="282.07313,557.655 273.52546,552.72 273.52546,542.85 282.07313,537.915 290.62081,542.85 290.62081,552.72 " />
+      <polygon
+         text="#Kancheepuram"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_6"
+         points="299.16848,567.525 299.16848,557.655 307.71615,552.72 316.26382,557.655 316.26382,567.525 307.71615,572.46 " />
+      <polygon
+         text="Kallakurichi"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_14"
+         points="307.71615,582.33 299.16848,587.265 290.62081,582.33 290.62081,572.46 299.16848,567.525 307.71615,572.46 " />
+      <polygon
+         text="#Cuddalore"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_26"
+         points="316.26382,597.135 307.71615,602.07 299.16848,597.135 299.16848,587.265 307.71615,582.33 316.26382,587.265 " />
+      <polygon
+         text="#Mayiladuthurai"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_28"
+         points="307.71615,611.94 299.16848,616.875 290.62081,611.94 290.62081,602.07 299.16848,597.135 307.71615,602.07 " />
+      <polygon
+         text="#Nagapattinam"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_29"
+         points="316.26382,626.745 307.71615,631.68 299.16848,626.745 299.16848,616.875 307.71615,611.94 316.26382,616.875 " />
+      <polygon
+         text="#Ramanathapuram"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_35"
+         points="307.71615,641.55 299.16848,646.485 290.62081,641.55 290.62081,631.68 299.16848,626.745 307.71615,631.68 " />
+      <polygon
+         text="#Chennai_South"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_3"
+         points="324.81149,552.72 316.26382,557.655 307.71615,552.72 307.71615,542.85 316.26382,537.915 324.81149,542.85 " />
+      <polygon
+         text="#Chennai_Central"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_4"
+         points="307.71615,552.72 299.16848,557.655 290.62081,552.72 290.62081,542.85 299.16848,537.915 307.71615,542.85 " />
+      <polygon
+         text="#Chidambaram"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_27"
+         points="324.81149,611.94 316.26382,616.875 307.71615,611.94 307.71615,602.07 316.26382,597.135 324.81149,602.07 " />
+      <polygon
+         text="#Arakkonam"
+         style="fill:#70f5a7;stroke:#000000;stroke-opacity:1"
+         id="S22_7"
+         points="316.26382,537.915 307.71615,542.85 299.16848,537.915 299.16848,528.045 307.71615,523.11 316.26382,528.045 " />
+    </g>
+    <g
+       transform="translate(53.92555,-31.675403)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Uttarakhand">
+      <polygon
+         text="#Almora"
+         transform="translate(34.19069,29.61)"
+         style="fill:#70f5b5;stroke:#000000;stroke-opacity:1"
+         id="S28_3"
+         points="273.52546,128.31 273.52546,138.18 264.97779,143.115 256.43012,138.18 256.43012,128.31 264.97779,123.375 " />
+      <polygon
+         text="#Hardwar"
+         style="fill:#70f5b5;stroke:#000000;stroke-opacity:1"
+         id="S28_5"
+         points="273.52546,138.18 282.07313,143.115 282.07313,152.985 273.52546,157.92 264.97779,152.985 264.97779,143.115 " />
+      <polygon
+         text="#Nainital-Udhamsingh Nagar"
+         style="fill:#70f5b5;stroke:#000000;stroke-opacity:1"
+         id="S28_4"
+         points="282.07313,152.985 290.62081,157.92 290.62081,167.79 282.07313,172.725 273.52546,167.79 273.52546,157.92 " />
+      <polygon
+         text="#Garhwal"
+         style="fill:#70f5b5;stroke:#000000;stroke-opacity:1"
+         id="S28_2"
+         points="290.62081,138.18 299.16848,143.115 299.16848,152.985 290.62081,157.92 282.07313,152.985 282.07313,143.115 " />
+      <polygon
+         text="#Tehri_Garhwal"
+         style="fill:#70f5b5;stroke:#000000;stroke-opacity:1"
+         id="S28_1"
+         points="282.07313,123.375 290.62081,128.31 290.62081,138.18 282.07313,143.115 273.52546,138.18 273.52546,128.31 " />
+    </g>
+    <g
+       transform="translate(43.00144,82.972367)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Telangana">
+      <polygon
+         text="#Adilabad"
+         transform="translate(-34.190662,-51.610011)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_1"
+         points="333.35916,439.215 324.81149,434.28 324.81149,424.41 333.35916,419.475 341.90683,424.41 341.90683,434.28 " />
+      <polygon
+         text="#Malkajgiri"
+         transform="translate(34.190708,-51.610011)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_7"
+         points="273.52546,463.89 273.52546,454.02 282.07313,449.085 290.62081,454.02 290.62081,463.89 282.07313,468.825 " />
+      <polygon
+         transform="translate(1.7973348e-5,-22.000011)"
+         text="#Medak"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_6"
+         points="282.07313,419.475 273.52546,424.41 264.97779,419.475 264.97779,409.605 273.52546,404.67 282.07313,409.605 " />
+      <polygon
+         text="#Zahirabad"
+         transform="matrix(1.0000012,0,0,1.0000012,-8.5479803,-36.805532)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_5"
+         points="256.43012,424.41 264.97779,419.475 273.52546,424.41 273.52546,434.28 264.97779,439.215 256.43012,434.28 " />
+      <polygon
+         text="#Chelvella"
+         transform="translate(-8.547663,-36.805011)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_10"
+         points="282.07313,449.085 273.52546,454.02 264.97779,449.085 264.97779,439.215 273.52546,434.28 282.07313,439.215 " />
+      <polygon
+         text="#Hyderabad"
+         transform="translate(1.8e-5,-51.610011)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_9"
+         points="299.16848,468.825 290.62081,463.89 290.62081,454.02 299.16848,449.085 307.71615,454.02 307.71615,463.89 " />
+      <polygon
+         text="#Nizamabad"
+         transform="translate(1.7973348e-5,-22.000011)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_4"
+         points="282.07313,389.865 290.62081,394.8 290.62081,404.67 282.07313,409.605 273.52546,404.67 273.52546,394.8 " />
+      <polygon
+         transform="translate(17.095358,-22.000011)"
+         text="#Warangal"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_15"
+         points="299.16848,409.605 299.16848,419.475 290.62081,424.41 282.07313,419.475 282.07313,409.605 290.62081,404.67 " />
+      <polygon
+         text="#Secunderabad"
+         transform="translate(7e-6,-22.000011)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_8"
+         points="273.52546,434.28 273.52546,424.41 282.07313,419.475 290.62081,424.41 290.62081,434.28 282.07313,439.215 " />
+      <polygon
+         transform="translate(-17.095343,-22.000011)"
+         text="#Mahabubnagar"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_11"
+         points="290.62081,434.28 299.16848,439.215 299.16848,449.085 290.62081,454.02 282.07313,449.085 282.07313,439.215 " />
+      <polygon
+         transform="translate(-25.642992,-36.805011)"
+         text="#Bhongir"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_14"
+         points="324.81149,454.02 324.81149,463.89 316.26382,468.825 307.71615,463.89 307.71615,454.02 316.26382,449.085 " />
+      <polygon
+         text="#Karimnagar"
+         transform="translate(-8.547662,-7.195011)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_3"
+         points="290.62081,404.67 290.62081,394.8 299.16848,389.865 307.71615,394.8 307.71615,404.67 299.16848,409.605 " />
+      <polygon
+         text="#Peddapalli"
+         transform="translate(8.547688,-36.805011)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_2"
+         points="316.26382,409.605 316.26382,419.475 307.71615,424.41 299.16848,419.475 299.16848,409.605 307.71615,404.67 " />
+      <polygon
+         transform="translate(34.190708,-22.000011)"
+         text="#Khammam"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_17"
+         points="307.71615,434.28 299.16848,439.215 290.62081,434.28 290.62081,424.41 299.16848,419.475 307.71615,424.41 " />
+      <polygon
+         transform="translate(-8.547652,-7.195011)"
+         text="#Nagarkurnool"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_12"
+         points="316.26382,439.215 316.26382,449.085 307.71615,454.02 299.16848,449.085 299.16848,439.215 307.71615,434.28 " />
+      <polygon
+         text="#Mahabubabad"
+         transform="translate(8.547688,-36.805011)"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_16"
+         points="316.26382,439.215 307.71615,434.28 307.71615,424.41 316.26382,419.475 324.81149,424.41 324.81149,434.28 " />
+      <polygon
+         transform="translate(-17.095322,-22.000011)"
+         text="#Nalgonda"
+         style="fill:#70f575;stroke:#000000;stroke-opacity:1"
+         id="S29_13"
+         points="324.81149,434.28 333.35916,439.215 333.35916,449.085 324.81149,454.02 316.26382,449.085 316.26382,439.215 " />
+    </g>
+    <g
+       transform="translate(79.71908,47.069157)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Andhra Pradesh">
+      <polygon
+         text="#Narsapuram"
+         transform="translate(85.47671,-29.61)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_9"
+         points="247.88245,508.305 247.88245,498.435 256.43012,493.5 264.97779,498.435 264.97779,508.305 256.43012,513.24 " />
+      <polygon
+         text="#Ongole"
+         transform="translate(1e-5)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_16"
+         points="307.71615,523.11 307.71615,513.24 316.26382,508.305 324.81149,513.24 324.81149,523.11 316.26382,528.045 " />
+      <polygon
+         text="#Guntur"
+         transform="translate(25.64301,14.805)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_13"
+         points="273.52546,483.63 282.07313,478.695 290.62081,483.63 290.62081,493.5 282.07313,498.435 273.52546,493.5 " />
+      <polygon
+         text="#Narasaraopet"
+         transform="translate(17.09534)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_14"
+         points="273.52546,493.5 282.07313,498.435 282.07313,508.305 273.52546,513.24 264.97779,508.305 264.97779,498.435 " />
+      <polygon
+         text="#Bapatla"
+         transform="translate(34.19069,-29.61)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_15"
+         points="282.07313,528.045 290.62081,523.11 299.16848,528.045 299.16848,537.915 290.62081,542.85 282.07313,537.915 " />
+      <polygon
+         text="#Kadapa"
+         transform="translate(8.54766,44.415)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_21"
+         points="290.62081,493.5 290.62081,483.63 299.16848,478.695 307.71615,483.63 307.71615,493.5 299.16848,498.435 " />
+      <polygon
+         text="#Anantapur"
+         transform="translate(-1e-5,29.61)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_19"
+         points="282.07313,508.305 282.07313,498.435 290.62081,493.5 299.16848,498.435 299.16848,508.305 290.62081,513.24 " />
+      <polygon
+         text="#Nellore"
+         transform="translate(51.28604)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_22"
+         points="273.52546,523.11 273.52546,513.24 282.07313,508.305 290.62081,513.24 290.62081,523.11 282.07313,528.045 " />
+      <polygon
+         text="#Eluru"
+         transform="translate(51.28603)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_10"
+         points="264.97779,478.695 264.97779,468.825 273.52546,463.89 282.07313,468.825 282.07313,478.695 273.52546,483.63 " />
+      <polygon
+         text="#Vijayawada"
+         transform="translate(51.28603)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_12"
+         points="256.43012,493.5 256.43012,483.63 264.97779,478.695 273.52546,483.63 273.52546,493.5 264.97779,498.435 " />
+      <polygon
+         text="#Tirupati"
+         transform="translate(17.09533,59.22)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_23"
+         points="299.16848,478.695 299.16848,468.825 307.71615,463.89 316.26382,468.825 316.26382,478.695 307.71615,483.63 " />
+      <polygon
+         text="#Hindupur"
+         transform="translate(-34.19069,59.22)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_20"
+         points="307.71615,493.5 307.71615,483.63 316.26382,478.695 324.81149,483.63 324.81149,493.5 316.26382,498.435 " />
+      <polygon
+         text="#Kurnool"
+         transform="translate(-25.64302,14.805)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_18"
+         points="299.16848,508.305 299.16848,498.435 307.71615,493.5 316.26382,498.435 316.26382,508.305 307.71615,513.24 " />
+      <polygon
+         text="#Kakinada"
+         transform="translate(25.64301,-14.805)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_6"
+         points="333.35916,468.825 324.81149,463.89 324.81149,454.02 333.35916,449.085 341.90683,454.02 341.90683,463.89 " />
+      <polygon
+         text="#Machilipatnam"
+         transform="translate(42.73836,14.805)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_11"
+         points="282.07313,478.695 282.07313,468.825 290.62081,463.89 299.16848,468.825 299.16848,478.695 290.62081,483.63 " />
+      <polygon
+         text="#Amalapuram"
+         transform="translate(8.54767,-14.805)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_8"
+         points="324.81149,483.63 316.26382,478.695 316.26382,468.825 324.81149,463.89 333.35916,468.825 333.35916,478.695 " />
+      <polygon
+         text="#Nandyal"
+         transform="translate(-1e-5)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_17"
+         points="290.62081,523.11 290.62081,513.24 299.16848,508.305 307.71615,513.24 307.71615,523.11 299.16848,528.045 " />
+      <polygon
+         text="#Anakapalli"
+         transform="translate(-8.54767,-14.805)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_5"
+         points="350.4545,468.825 341.90683,463.89 341.90683,454.02 350.4545,449.085 359.00217,454.02 359.00217,463.89 " />
+      <polygon
+         text="#Amalapuram"
+         transform="translate(8.54767,-14.805)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_7"
+         points="341.90683,483.63 333.35916,478.695 333.35916,468.825 341.90683,463.89 350.4545,468.825 350.4545,478.695 " />
+      <polygon
+         text="#Srikakulam"
+         transform="translate(17.09534,-29.61)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_2"
+         points="359.00217,454.02 350.4545,449.085 350.4545,439.215 359.00217,434.28 367.54984,439.215 367.54984,449.085 " />
+      <polygon
+         text="#Vizianagaram"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_3"
+         points="359.00217,434.28 350.4545,439.215 341.90683,434.28 341.90683,424.41 350.4545,419.475 359.00217,424.41 " />
+      <polygon
+         text="#Visakhapatnam"
+         transform="translate(25.64301,-14.805)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_4"
+         points="341.90683,454.02 333.35916,449.085 333.35916,439.215 341.90683,434.28 350.4545,439.215 350.4545,449.085 " />
+      <polygon
+         text="#Aruku"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_1"
+         points="367.54984,419.475 359.00217,424.41 350.4545,419.475 350.4545,409.605 359.00217,404.67 367.54984,409.605 " />
+      <polygon
+         text="#Rajampet"
+         transform="translate(-34.19069,59.22)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_24"
+         points="324.81149,493.5 324.81149,483.63 333.35916,478.695 341.90683,483.63 341.90683,493.5 333.35916,498.435 " />
+      <polygon
+         text="#Chittoor"
+         transform="translate(-34.19069,59.22)"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="S01_25"
+         points="341.90683,493.5 341.90683,483.63 350.4545,478.695 359.00217,483.63 359.00217,493.5 350.4545,498.435 " />
+    </g>
+    <g
+       transform="translate(95.71883,-10.540373)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Chhattisgarh">
+      <polygon
+         text="#Raipur"
+         style="fill:#f5b070;stroke:#000000;stroke-opacity:1"
+         id="S26_8"
+         points="316.26382,379.995 324.81149,375.06 333.35916,379.995 333.35916,389.865 324.81149,394.8 316.26382,389.865 " />
+      <polygon
+         text="#Kanker"
+         style="fill:#f5b070;stroke:#000000;stroke-opacity:1"
+         id="S26_11"
+         points="307.71615,394.8 316.26382,389.865 324.81149,394.8 324.81149,404.67 316.26382,409.605 307.71615,404.67 " />
+      <polygon
+         text="#Bastar"
+         style="fill:#f5b070;stroke:#000000;stroke-opacity:1"
+         id="S26_10"
+         points="316.26382,409.605 324.81149,404.67 333.35916,409.605 333.35916,419.475 324.81149,424.41 316.26382,419.475 " />
+      <polygon
+         text="#Bilaspur"
+         style="fill:#f5b070;stroke:#000000;stroke-opacity:1"
+         id="S26_5"
+         points="333.35916,350.385 341.90683,345.45 350.4545,350.385 350.4545,360.255 341.90683,365.19 333.35916,360.255 " />
+      <polygon
+         text="#Rajnandgaon"
+         style="fill:#f5b070;stroke:#000000;stroke-opacity:1"
+         id="S26_6"
+         points="324.81149,365.19 333.35916,360.255 341.90683,365.19 341.90683,375.06 333.35916,379.995 324.81149,375.06 " />
+      <polygon
+         text="#Janjgir-Champa"
+         style="fill:#f5b070;stroke:#000000;stroke-opacity:1"
+         id="S26_3"
+         points="333.35916,379.995 341.90683,375.06 350.4545,379.995 350.4545,389.865 341.90683,394.8 333.35916,389.865 " />
+      <polygon
+         text="#Mahasamund"
+         style="fill:#f5b070;stroke:#000000;stroke-opacity:1"
+         id="S26_9"
+         points="324.81149,394.8 333.35916,389.865 341.90683,394.8 341.90683,404.67 333.35916,409.605 324.81149,404.67 " />
+      <polygon
+         text="#Korba"
+         style="fill:#f5b070;stroke:#000000;stroke-opacity:1"
+         id="S26_4"
+         points="341.90683,335.58 350.4545,330.645 359.00217,335.58 359.00217,345.45 350.4545,350.385 341.90683,345.45 " />
+      <polygon
+         text="#Raigarh"
+         style="fill:#f5b070;stroke:#000000;stroke-opacity:1"
+         id="S26_2"
+         points="350.4545,350.385 359.00217,345.45 367.54984,350.385 367.54984,360.255 359.00217,365.19 350.4545,360.255 " />
+      <polygon
+         text="#Durg"
+         style="fill:#f5b070;stroke:#000000;stroke-opacity:1"
+         id="S26_7"
+         points="341.90683,365.19 350.4545,360.255 359.00217,365.19 359.00217,375.06 350.4545,379.995 341.90683,375.06 " />
+      <polygon
+         text="#Surguja"
+         style="fill:#f5b070;stroke:#000000;stroke-opacity:1"
+         id="S26_1"
+         points="359.00217,335.58 367.54984,330.645 376.09751,335.58 376.09751,345.45 367.54984,350.385 359.00217,345.45 " />
+    </g>
+    <g
+       inkscape:label="#U07_1"
+       text="#Puducherry"
+       transform="translate(70.17965,85.838347)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Puduchery">
+      <polygon
+         inkscape:label="#polygon819"
+         style="fill:#f58c70;stroke:#000000;stroke-opacity:1"
+         id="U07_1"
+         points="324.81149,582.33 333.35916,587.265 333.35916,597.135 324.81149,602.07 316.26382,597.135 316.26382,587.265 " />
+    </g>
+    <g
+       transform="translate(74.07581,35.309047)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Odisha">
+      <polygon
+         text="#Puri"
+         transform="translate(85.47672,-30.784426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_17"
+         points="333.35916,409.605 341.90683,404.67 350.4545,409.605 350.4545,419.475 341.90683,424.41 333.35916,419.475 " />
+      <polygon
+         text="#Nabarangpur"
+         transform="translate(25.64302,13.630574)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_12"
+         points="367.54984,379.995 367.54984,389.865 359.00217,394.8 350.4545,389.865 350.4545,379.995 359.00217,375.06 " />
+      <polygon
+         text="#Koraput"
+         transform="translate(42.73836,-15.979426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_21"
+         points="341.90683,394.8 350.4545,389.865 359.00217,394.8 359.00217,404.67 350.4545,409.605 341.90683,404.67 " />
+      <polygon
+         text="#Kandhamal"
+         transform="translate(8.54768,-15.979426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_13"
+         points="393.19285,365.19 401.74052,360.255 410.2882,365.19 410.2882,375.06 401.74052,379.995 393.19285,375.06 " />
+      <polygon
+         text="#Kalahandi"
+         transform="translate(17.09535,-1.174426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_11"
+         points="359.00217,365.19 367.54984,360.255 376.09751,365.19 376.09751,375.06 367.54984,379.995 359.00217,375.06 " />
+      <polygon
+         text="#Bhubaneswar"
+         transform="translate(25.64302,-15.979426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_18"
+         points="367.54984,379.995 376.09751,375.06 384.64518,379.995 384.64518,389.865 376.09751,394.8 367.54984,389.865 " />
+      <polygon
+         text="#Berhampur"
+         transform="translate(42.73836,-15.979426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_20"
+         points="359.00217,394.8 367.54984,389.865 376.09751,394.8 376.09751,404.67 367.54984,409.605 359.00217,404.67 " />
+      <polygon
+         text="#Bolangir"
+         transform="translate(8.54768,-15.979426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_10"
+         points="376.09751,365.19 384.64518,360.255 393.19285,365.19 393.19285,375.06 384.64518,379.995 376.09751,375.06 " />
+      <polygon
+         transform="translate(-17.09534,-1.174426)"
+         text="#Sambalpur"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_3"
+         points="435.93121,330.645 444.47888,335.58 444.47888,345.45 435.93121,350.385 427.38354,345.45 427.38354,335.58 " />
+      <polygon
+         text="#Jagatsinghpur"
+         transform="translate(25.64302,-15.979426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_16"
+         points="401.74052,379.995 410.2882,375.06 418.83587,379.995 418.83587,389.865 410.2882,394.8 401.74052,389.865 " />
+      <polygon
+         text="#Bhadrak"
+         transform="translate(8.54767,-15.979426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_7"
+         points="444.47888,335.58 453.02655,330.645 461.57422,335.58 461.57422,345.45 453.02655,350.385 444.47888,345.45 " />
+      <polygon
+         text="#Bargarh"
+         transform="translate(-25.64301,-15.979426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_1"
+         points="435.93121,360.255 427.38354,365.19 418.83587,360.255 418.83587,350.385 427.38354,345.45 435.93121,350.385 " />
+      <polygon
+         transform="translate(-17.09534,-1.174426)"
+         text="#Keonjhar"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_4"
+         points="453.02655,330.645 453.02655,320.775 461.57422,315.84 470.12189,320.775 470.12189,330.645 461.57422,335.58 " />
+      <polygon
+         text="#Balasore"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_6"
+         points="470.12189,320.775 461.57422,315.84 461.57422,305.97 470.12189,301.035 478.66956,305.97 478.66956,315.84 " />
+      <polygon
+         transform="translate(-17.09534,-1.174426)"
+         text="#Sundargarh"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_2"
+         points="435.93121,330.645 435.93121,320.775 444.47888,315.84 453.02655,320.775 453.02655,330.645 444.47888,335.58 " />
+      <polygon
+         text="#Dhenkanal"
+         transform="translate(25.64302,-15.979426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_9"
+         points="410.2882,345.45 418.83587,350.385 418.83587,360.255 410.2882,365.19 401.74052,360.255 401.74052,350.385 " />
+      <polygon
+         text="#Mayurbhanj"
+         transform="translate(-25.64301,-14.805)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_5"
+         points="470.12189,330.645 470.12189,320.775 478.66956,315.84 487.21723,320.775 487.21723,330.645 478.66956,335.58 " />
+      <polygon
+         text="#Jajpur"
+         transform="translate(59.8337,-15.979426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_8"
+         points="393.19285,345.45 401.74052,350.385 401.74052,360.255 393.19285,365.19 384.64518,360.255 384.64518,350.385 " />
+      <polygon
+         text="#Aska"
+         transform="translate(25.64302,-15.979426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_19"
+         points="384.64518,379.995 393.19285,375.06 401.74052,379.995 401.74052,389.865 393.19285,394.8 384.64518,389.865 " />
+      <polygon
+         text="#Kendrapara"
+         transform="translate(68.38138,-1.174426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_15"
+         points="376.09751,345.45 384.64518,350.385 384.64518,360.255 376.09751,365.19 367.54984,360.255 367.54984,350.385 " />
+      <polygon
+         text="#Cuttack"
+         transform="translate(8.54768,-15.979426)"
+         style="fill:#ddf570;stroke:#000000;stroke-opacity:1"
+         id="S18_14"
+         points="410.2882,365.19 418.83587,360.255 427.38354,365.19 427.38354,375.06 418.83587,379.995 410.2882,375.06 " />
+    </g>
+    <g
+       transform="translate(-5.80624,-91.824083)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Bihar">
+      <polygon
+         text="#Aurangabad"
+         transform="translate(17.09534)"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_37"
+         points="367.54984,291.165 376.09751,286.23 384.64518,291.165 384.64518,301.035 376.09751,305.97 367.54984,301.035 " />
+      <polygon
+         text="#Buxar"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_33"
+         points="384.64518,271.425 384.64518,261.555 393.19285,256.62 401.74052,261.555 401.74052,271.425 393.19285,276.36 " />
+      <polygon
+         text="#Sasaram"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_34"
+         points="376.09751,286.23 376.09751,276.36 384.64518,271.425 393.19285,276.36 393.19285,286.23 384.64518,291.165 " />
+      <polygon
+         text="#Valmiki_Nagar"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_1"
+         points="384.64518,212.205 384.64518,202.335 393.19285,197.4 401.74052,202.335 401.74052,212.205 393.19285,217.14 " />
+      <polygon
+         text="#Paschim_Champaran"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_2"
+         points="401.74052,212.205 401.74052,202.335 410.2882,197.4 418.83587,202.335 418.83587,212.205 410.2882,217.14 " />
+      <polygon
+         text="#Gopalganj"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_17"
+         points="393.19285,227.01 393.19285,217.14 401.74052,212.205 410.2882,217.14 410.2882,227.01 401.74052,231.945 " />
+      <polygon
+         text="#Siwan"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_18"
+         points="401.74052,241.815 401.74052,231.945 410.2882,227.01 418.83587,231.945 418.83587,241.815 410.2882,246.75 " />
+      <polygon
+         text="#Arrah"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_32"
+         points="401.74052,271.425 401.74052,261.555 410.2882,256.62 418.83587,261.555 418.83587,271.425 410.2882,276.36 " />
+      <polygon
+         text="#Karakat"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_35"
+         points="393.19285,286.23 393.19285,276.36 401.74052,271.425 410.2882,276.36 410.2882,286.23 401.74052,291.165 " />
+      <polygon
+         text="#Gaya"
+         transform="translate(17.09534)"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_38"
+         points="384.64518,291.165 393.19285,286.23 401.74052,291.165 401.74052,301.035 393.19285,305.97 384.64518,301.035 " />
+      <polygon
+         text="#Nawada"
+         transform="translate(17.09534)"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_39"
+         points="401.74052,291.165 410.2882,286.23 418.83587,291.165 418.83587,301.035 410.2882,305.97 401.74052,301.035 " />
+      <polygon
+         text="#Madhepura"
+         transform="translate(-17.09534,29.61)"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_13"
+         points="512.86024,227.01 521.40791,231.945 521.40791,241.815 512.86024,246.75 504.31257,241.815 504.31257,231.945 " />
+      <polygon
+         text="#Purvi_Champaran"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_3"
+         points="410.2882,227.01 410.2882,217.14 418.83587,212.205 427.38354,217.14 427.38354,227.01 418.83587,231.945 " />
+      <polygon
+         text="#Maharajganj"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_19"
+         points="418.83587,241.815 418.83587,231.945 427.38354,227.01 435.93121,231.945 435.93121,241.815 427.38354,246.75 " />
+      <polygon
+         text="#Hajipur"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_21"
+         points="410.2882,256.62 410.2882,246.75 418.83587,241.815 427.38354,246.75 427.38354,256.62 418.83587,261.555 " />
+      <polygon
+         text="#Pataliputra"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_31"
+         points="418.83587,271.425 418.83587,261.555 427.38354,256.62 435.93121,261.555 435.93121,271.425 427.38354,276.36 " />
+      <polygon
+         text="#Jahanabad"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_36"
+         points="410.2882,286.23 410.2882,276.36 418.83587,271.425 427.38354,276.36 427.38354,286.23 418.83587,291.165 " />
+      <polygon
+         text="#Jamui"
+         transform="translate(59.83369,-14.805)"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_40"
+         points="384.64518,301.035 393.19285,305.97 393.19285,315.84 384.64518,320.775 376.09751,315.84 376.09751,305.97 " />
+      <polygon
+         text="#Araria"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_9"
+         points="495.7649,256.62 495.7649,246.75 504.31257,241.815 512.86024,246.75 512.86024,256.62 504.31257,261.555 " />
+      <polygon
+         text="#Sheohar"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_4"
+         points="427.38354,227.01 427.38354,217.14 435.93121,212.205 444.47888,217.14 444.47888,227.01 435.93121,231.945 " />
+      <polygon
+         text="#Vaishali"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_16"
+         points="435.93121,241.815 435.93121,231.945 444.47888,227.01 453.02655,231.945 453.02655,241.815 444.47888,246.75 " />
+      <polygon
+         text="#Ujiarpur"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_22"
+         points="427.38354,256.62 427.38354,246.75 435.93121,241.815 444.47888,246.75 444.47888,256.62 435.93121,261.555 " />
+      <polygon
+         text="#Patna_Sahib"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_30"
+         points="435.93121,271.425 435.93121,261.555 444.47888,256.62 453.02655,261.555 453.02655,271.425 444.47888,276.36 " />
+      <polygon
+         text="#Nalanda"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_29"
+         points="427.38354,286.23 427.38354,276.36 435.93121,271.425 444.47888,276.36 444.47888,286.23 435.93121,291.165 " />
+      <polygon
+         text="#Saran"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_20"
+         points="393.19285,256.62 393.19285,246.75 401.74052,241.815 410.2882,246.75 410.2882,256.62 401.74052,261.555 " />
+      <polygon
+         text="#Purnia"
+         transform="translate(42.73835,-14.805)"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_12"
+         points="461.57422,276.36 470.12189,271.425 478.66956,276.36 478.66956,286.23 470.12189,291.165 461.57422,286.23 " />
+      <polygon
+         text="#Sitamarhi"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_5"
+         points="444.47888,227.01 444.47888,217.14 453.02655,212.205 461.57422,217.14 461.57422,227.01 453.02655,231.945 " />
+      <polygon
+         text="#Muzaffarpur"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_15"
+         points="453.02655,241.815 453.02655,231.945 461.57422,227.01 470.12189,231.945 470.12189,241.815 461.57422,246.75 " />
+      <polygon
+         text="#Samastipur"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_23"
+         points="444.47888,256.62 444.47888,246.75 453.02655,241.815 461.57422,246.75 461.57422,256.62 453.02655,261.555 " />
+      <polygon
+         text="#Begusarai"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_24"
+         points="453.02655,271.425 453.02655,261.555 461.57422,256.62 470.12189,261.555 470.12189,271.425 461.57422,276.36 " />
+      <polygon
+         text="#Jhanjharpur"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_7"
+         points="487.21723,241.815 487.21723,231.945 495.7649,227.01 504.31257,231.945 504.31257,241.815 495.7649,246.75 " />
+      <polygon
+         text="#Kishanganj"
+         transform="translate(51.28602,29.61)"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_10"
+         points="470.12189,212.205 478.66956,217.14 478.66956,227.01 470.12189,231.945 461.57422,227.01 461.57422,217.14 " />
+      <polygon
+         text="#Darbhanga"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_14"
+         points="461.57422,256.62 461.57422,246.75 470.12189,241.815 478.66956,246.75 478.66956,256.62 470.12189,261.555 " />
+      <polygon
+         text="#Madhubani"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_6"
+         points="470.12189,241.815 470.12189,231.945 478.66956,227.01 487.21723,231.945 487.21723,241.815 478.66956,246.75 " />
+      <polygon
+         text="#Khagaria"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_25"
+         points="470.12189,271.425 470.12189,261.555 478.66956,256.62 487.21723,261.555 487.21723,271.425 478.66956,276.36 " />
+      <polygon
+         text="#Banka"
+         transform="translate(59.83369,-14.805)"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_27"
+         points="401.74052,301.035 410.2882,305.97 410.2882,315.84 401.74052,320.775 393.19285,315.84 393.19285,305.97 " />
+      <polygon
+         text="#Katihar"
+         transform="translate(76.92903,-14.805)"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_11"
+         points="444.47888,276.36 453.02655,271.425 461.57422,276.36 461.57422,286.23 453.02655,291.165 444.47888,286.23 " />
+      <polygon
+         text="#Bhagalpur"
+         transform="translate(42.73835,-14.805)"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_26"
+         points="418.83587,291.165 427.38354,286.23 435.93121,291.165 435.93121,301.035 427.38354,305.97 418.83587,301.035 " />
+      <polygon
+         text="#Munger"
+         transform="translate(8.54767,-14.805)"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_28"
+         points="435.93121,291.165 444.47888,286.23 453.02655,291.165 453.02655,301.035 444.47888,305.97 435.93121,301.035 " />
+      <polygon
+         text="#Supaul"
+         style="fill:#8ff570;stroke:#000000;stroke-opacity:1"
+         id="S04_8"
+         points="478.66956,256.62 478.66956,246.75 487.21723,241.815 495.7649,246.75 495.7649,256.62 487.21723,261.555 " />
+    </g>
+    <g
+       transform="translate(31.00937,-68.990733)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Jharkhand">
+      <polygon
+         text="#Palamu"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_13"
+         points="359.00217,335.58 350.4545,330.645 350.4545,320.775 359.00217,315.84 367.54984,320.775 367.54984,330.645 " />
+      <polygon
+         text="#Chatra"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_4"
+         points="376.09751,335.58 367.54984,330.645 367.54984,320.775 376.09751,315.84 384.64518,320.775 384.64518,330.645 " />
+      <polygon
+         text="#Lohardaga"
+         transform="translate(-59.8337,14.805)"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_12"
+         points="418.83587,330.645 418.83587,320.775 427.38354,315.84 435.93121,320.775 435.93121,330.645 427.38354,335.58 " />
+      <polygon
+         text="#Singhbhum"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_10"
+         points="401.74052,350.385 393.19285,345.45 393.19285,335.58 401.74052,330.645 410.2882,335.58 410.2882,345.45 " />
+      <polygon
+         text="#Hazaribagh"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_14"
+         points="393.19285,335.58 384.64518,330.645 384.64518,320.775 393.19285,315.84 401.74052,320.775 401.74052,330.645 " />
+      <polygon
+         text="#Khunti"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_11"
+         points="384.64518,350.385 376.09751,345.45 376.09751,335.58 384.64518,330.645 393.19285,335.58 393.19285,345.45 " />
+      <polygon
+         text="#Ranchi"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_8"
+         points="410.2882,335.58 401.74052,330.645 401.74052,320.775 410.2882,315.84 418.83587,320.775 418.83587,330.645 " />
+      <polygon
+         text="#Giridih"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_6"
+         points="435.93121,320.775 427.38354,315.84 427.38354,305.97 435.93121,301.035 444.47888,305.97 444.47888,315.84 " />
+      <polygon
+         text="#Kodarma"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_5"
+         points="418.83587,320.775 410.2882,315.84 410.2882,305.97 418.83587,301.035 427.38354,305.97 427.38354,315.84 " />
+      <polygon
+         text="#Godda"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_3"
+         points="461.57422,305.97 453.02655,301.035 453.02655,291.165 461.57422,286.23 470.12189,291.165 470.12189,301.035 " />
+      <polygon
+         text="#Dhanbad"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_7"
+         points="453.02655,320.775 444.47888,315.84 444.47888,305.97 453.02655,301.035 461.57422,305.97 461.57422,315.84 " />
+      <polygon
+         transform="translate(-8.54767,-14.805)"
+         text="#Rajmahal"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_1"
+         points="478.66956,286.23 478.66956,276.36 487.21723,271.425 495.7649,276.36 495.7649,286.23 487.21723,291.165 " />
+      <polygon
+         transform="translate(-8.54767,-14.805)"
+         text="#Dumka"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_2"
+         points="470.12189,301.035 470.12189,291.165 478.66956,286.23 487.21723,291.165 487.21723,301.035 478.66956,305.97 " />
+      <polygon
+         text="#Jamshedpur"
+         style="fill:#70f5f5;stroke:#000000;stroke-opacity:1"
+         id="S27_9"
+         points="418.83587,350.385 410.2882,345.45 410.2882,335.58 418.83587,330.645 427.38354,335.58 427.38354,345.45 " />
+    </g>
+    <g
+       transform="translate(-15.11704,-2.3837426)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="West Bengal">
+      <polygon
+         transform="translate(17.09534)"
+         text="#Kanthi"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_31"
+         points="495.7649,305.97 495.7649,315.84 487.21723,320.775 478.66956,315.84 478.66956,305.97 487.21723,301.035 " />
+      <polygon
+         text="#Jhargram"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_33"
+         points="504.31257,271.425 512.86024,276.36 512.86024,286.23 504.31257,291.165 495.7649,286.23 495.7649,276.36 " />
+      <polygon
+         transform="translate(-8.54767,14.805)"
+         text="#Medinipur"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_34"
+         points="504.31257,291.165 504.31257,301.035 495.7649,305.97 487.21723,301.035 487.21723,291.165 495.7649,286.23 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Tamluk"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_30"
+         points="512.86024,305.97 512.86024,315.84 504.31257,320.775 495.7649,315.84 495.7649,305.97 504.31257,301.035 " />
+      <polygon
+         text="#Jaynagar"
+         transform="translate(85.47671)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_19"
+         points="487.21723,320.775 495.7649,315.84 504.31257,320.775 504.31257,330.645 495.7649,335.58 487.21723,330.645 " />
+      <polygon
+         text="#Arambagh"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_29"
+         points="521.40791,271.425 529.95559,276.36 529.95559,286.23 521.40791,291.165 512.86024,286.23 512.86024,276.36 " />
+      <polygon
+         transform="translate(-17.09534)"
+         text="#Ghatal"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_32"
+         points="521.40791,291.165 521.40791,301.035 512.86024,305.97 504.31257,301.035 504.31257,291.165 512.86024,286.23 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Diamond_Harbour"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_21"
+         points="529.95559,305.97 529.95559,315.84 521.40791,320.775 512.86024,315.84 512.86024,305.97 521.40791,301.035 " />
+      <polygon
+         text="#Jadavpur"
+         transform="translate(51.28603)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_22"
+         points="504.31257,320.775 512.86024,315.84 521.40791,320.775 521.40791,330.645 512.86024,335.58 504.31257,330.645 " />
+      <polygon
+         text="#Murshidabad"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_11"
+         points="564.14627,227.01 572.69394,231.945 572.69394,241.815 564.14627,246.75 555.5986,241.815 555.5986,231.945 " />
+      <polygon
+         text="#Bishnupur"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_37"
+         points="529.95559,256.62 538.50326,261.555 538.50326,271.425 529.95559,276.36 521.40791,271.425 521.40791,261.555 " />
+      <polygon
+         text="#Hooghly"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_28"
+         points="538.50326,271.425 547.05093,276.36 547.05093,286.23 538.50326,291.165 529.95559,286.23 529.95559,276.36 " />
+      <polygon
+         transform="translate(-17.09534)"
+         text="#Uluberia"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_26"
+         points="538.50326,291.165 538.50326,301.035 529.95559,305.97 521.40791,301.035 521.40791,291.165 529.95559,286.23 " />
+      <polygon
+         transform="translate(17.09534)"
+         text="#Kolkata_Dakshin"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_23"
+         points="547.05093,305.97 547.05093,315.84 538.50326,320.775 529.95559,315.84 529.95559,305.97 538.50326,301.035 " />
+      <polygon
+         text="#Dum_Dum"
+         transform="translate(-17.09534,-29.61)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_16"
+         points="589.78928,330.645 581.24161,335.58 572.69394,330.645 572.69394,320.775 581.24161,315.84 589.78928,320.775 " />
+      <polygon
+         text="#Basirhat"
+         transform="translate(25.64301,-14.805)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_18"
+         points="564.14627,315.84 572.69394,320.775 572.69394,330.645 564.14627,335.58 555.5986,330.645 555.5986,320.775 " />
+      <polygon
+         text="#Birbhum"
+         transform="translate(8.54768,-14.805)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_42"
+         points="529.95559,246.75 529.95559,256.62 521.40791,261.555 512.86024,256.62 512.86024,246.75 521.40791,241.815 " />
+      <polygon
+         text="#Bardhaman-Durgapur"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_39"
+         points="547.05093,256.62 555.5986,261.555 555.5986,271.425 547.05093,276.36 538.50326,271.425 538.50326,261.555 " />
+      <polygon
+         text="#Ranaghat"
+         transform="translate(25.64301,-14.805)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_13"
+         points="564.14627,276.36 564.14627,286.23 555.5986,291.165 547.05093,286.23 547.05093,276.36 555.5986,271.425 " />
+      <polygon
+         transform="translate(-17.09534)"
+         text="#Howrah"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_25"
+         points="555.5986,291.165 555.5986,301.035 547.05093,305.97 538.50326,301.035 538.50326,291.165 547.05093,286.23 " />
+      <polygon
+         text="#Serampore"
+         transform="translate(-8.54767,-14.805)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_27"
+         points="564.14627,315.84 555.5986,320.775 547.05093,315.84 547.05093,305.97 555.5986,301.035 564.14627,305.97 " />
+      <polygon
+         text="#Mathurapur"
+         transform="translate(17.09534)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_20"
+         points="521.40791,320.775 529.95559,315.84 538.50326,320.775 538.50326,330.645 529.95559,335.58 521.40791,330.645 " />
+      <polygon
+         text="#Raiganj"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_5"
+         points="538.50326,212.205 547.05093,217.14 547.05093,227.01 538.50326,231.945 529.95559,227.01 529.95559,217.14 " />
+      <polygon
+         text="#Maldaha_Uttar"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_7"
+         points="572.69394,212.205 581.24161,217.14 581.24161,227.01 572.69394,231.945 564.14627,227.01 564.14627,217.14 " />
+      <polygon
+         transform="translate(-8.54767,14.805)"
+         text="#Asansol"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_40"
+         points="538.50326,241.815 529.95559,246.75 521.40791,241.815 521.40791,231.945 529.95559,227.01 538.50326,231.945 " />
+      <polygon
+         text="#Bolpur"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_41"
+         points="538.50326,241.815 547.05093,246.75 547.05093,256.62 538.50326,261.555 529.95559,256.62 529.95559,246.75 " />
+      <polygon
+         text="#Krishnanagar"
+         transform="translate(8.54767,-14.805)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_12"
+         points="572.69394,261.555 572.69394,271.425 564.14627,276.36 555.5986,271.425 555.5986,261.555 564.14627,256.62 " />
+      <polygon
+         text="#Bardhaman_Purba"
+         transform="translate(-8.54767,-14.805)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_38"
+         points="581.24161,276.36 581.24161,286.23 572.69394,291.165 564.14627,286.23 564.14627,276.36 572.69394,271.425 " />
+      <polygon
+         text="#Barrackpore"
+         transform="translate(-8.54767,-14.805)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_15"
+         points="572.69394,291.165 572.69394,301.035 564.14627,305.97 555.5986,301.035 555.5986,291.165 564.14627,286.23 " />
+      <polygon
+         text="#Bangaon"
+         transform="translate(0,-29.61)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_14"
+         points="581.24161,315.84 572.69394,320.775 564.14627,315.84 564.14627,305.97 572.69394,301.035 581.24161,305.97 " />
+      <polygon
+         text="#Darjeeling"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_4"
+         points="547.05093,197.4 555.5986,202.335 555.5986,212.205 547.05093,217.14 538.50326,212.205 538.50326,202.335 " />
+      <polygon
+         text="#Balurghat"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_6"
+         points="555.5986,212.205 564.14627,217.14 564.14627,227.01 555.5986,231.945 547.05093,227.01 547.05093,217.14 " />
+      <polygon
+         text="#Alipurduars"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_2"
+         points="581.24161,197.4 589.78928,202.335 589.78928,212.205 581.24161,217.14 572.69394,212.205 572.69394,202.335 " />
+      <polygon
+         text="#Purulia"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_35"
+         points="495.7649,256.62 504.31257,261.555 504.31257,271.425 495.7649,276.36 487.21723,271.425 487.21723,261.555 " />
+      <polygon
+         transform="translate(8.54767,14.805)"
+         text="#Baharampur"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_10"
+         points="555.5986,241.815 547.05093,246.75 538.50326,241.815 538.50326,231.945 547.05093,227.01 555.5986,231.945 " />
+      <polygon
+         text="#Jangipur"
+         transform="translate(-8.54767,-14.805)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_9"
+         points="564.14627,246.75 564.14627,256.62 555.5986,261.555 547.05093,256.62 547.05093,246.75 555.5986,241.815 " />
+      <polygon
+         text="#Kolkata_Uttar"
+         transform="translate(25.64301,-14.805)"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_24"
+         points="555.5986,330.645 547.05093,335.58 538.50326,330.645 538.50326,320.775 547.05093,315.84 555.5986,320.775 " />
+      <polygon
+         text="#Cooch_Behar"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_1"
+         points="598.33695,197.4 606.88462,202.335 606.88462,212.205 598.33695,217.14 589.78928,212.205 589.78928,202.335 " />
+      <polygon
+         text="#Barasat"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_17"
+         points="581.24161,286.23 589.78928,291.165 589.78928,301.035 581.24161,305.97 572.69394,301.035 572.69394,291.165 " />
+      <polygon
+         text="#Maldaha_Dakshin"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_8"
+         points="589.78928,212.205 598.33695,217.14 598.33695,227.01 589.78928,231.945 581.24161,227.01 581.24161,217.14 " />
+      <polygon
+         text="#Jalpaiguri"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_3"
+         points="564.14627,197.4 572.69394,202.335 572.69394,212.205 564.14627,217.14 555.5986,212.205 555.5986,202.335 " />
+      <polygon
+         text="#Bankura"
+         style="fill:#f5f070;stroke:#000000;stroke-opacity:1"
+         id="S25_36"
+         points="512.86024,256.62 521.40791,261.555 521.40791,271.425 512.86024,276.36 504.31257,271.425 504.31257,261.555 " />
+    </g>
+    <g
+       inkscape:label="#S21_1"
+       text="#Sikkim"
+       transform="translate(75.66242,4.9303274)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Sikkim">
+      <polygon
+         inkscape:label="#polygon1060"
+         transform="translate(-26.94577,7.490932)"
+         style="fill:#70f5e7;stroke:#000000;stroke-opacity:1"
+         id="S21_1"
+         points="547.05093,187.53 555.5986,182.595 564.14627,187.53 564.14627,197.4 555.5986,202.335 547.05093,197.4 " />
+    </g>
+    <g
+       transform="translate(7.2718,13.707217)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Assam">
+      <polygon
+         text="#Gauhati"
+         transform="translate(19.639219,-16.885141)"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_7"
+         points="623.97996,212.205 623.97996,202.335 632.52763,197.4 641.07531,202.335 641.07531,212.205 632.52763,217.14 " />
+      <polygon
+         text="#Silchar"
+         transform="translate(79.472929,-2.080141)"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_2"
+         points="615.43229,227.01 606.88462,231.945 598.33695,227.01 598.33695,217.14 606.88462,212.205 615.43229,217.14 " />
+      <polygon
+         text="#Jorhat"
+         transform="translate(53.829899,-16.885141)"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_12"
+         points="649.62298,217.14 641.07531,212.205 641.07531,202.335 649.62298,197.4 658.17065,202.335 658.17065,212.205 " />
+      <polygon
+         text="#Barpeta"
+         transform="translate(11.091549,-31.690141)"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_6"
+         points="615.43229,227.01 615.43229,217.14 623.97996,212.205 632.52763,217.14 632.52763,227.01 623.97996,231.945 " />
+      <polygon
+         text="#Mangaldoi"
+         transform="translate(45.282229,-31.690141)"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_8"
+         points="658.17065,202.335 666.71832,197.4 675.26599,202.335 675.26599,212.205 666.71832,217.14 658.17065,212.205 " />
+      <polygon
+         inkscape:label="#S03_5__"
+         text="#Kokrajhar"
+         transform="translate(53.829889,-46.495141)"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_5"
+         points="649.62298,227.01 641.07531,231.945 632.52763,227.01 632.52763,217.14 641.07531,212.205 649.62298,217.14 " />
+      <polygon
+         text="#Tezpur"
+         transform="translate(45.282229,-31.690141)"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_9"
+         points="675.26599,202.335 683.81366,197.4 692.36133,202.335 692.36133,212.205 683.81366,217.14 675.26599,212.205 " />
+      <polygon
+         text="#Kaliabor"
+         transform="translate(28.186869,-31.690141)"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_11"
+         points="666.71832,227.01 658.17065,231.945 649.62298,227.01 649.62298,217.14 658.17065,212.205 666.71832,217.14 " />
+      <polygon
+         transform="translate(-48.742151,-46.495141)"
+         text="#Dhubri"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_4"
+         points="666.71832,246.75 658.17065,241.815 658.17065,231.945 666.71832,227.01 675.26599,231.945 675.26599,241.815 " />
+      <polygon
+         transform="translate(19.639229,-16.885141)"
+         text="#Karimganj"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_1"
+         points="666.71832,246.75 666.71832,256.62 658.17065,261.555 649.62298,256.62 649.62298,246.75 658.17065,241.815 " />
+      <polygon
+         transform="translate(53.829899,-16.885141)"
+         text="#Nawgong"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_10"
+         points="606.88462,212.205 606.88462,202.335 615.43229,197.4 623.97996,202.335 623.97996,212.205 615.43229,217.14 " />
+      <polygon
+         text="#Lakhimpur"
+         transform="translate(45.282229,-31.690141)"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_14"
+         points="692.36133,202.335 700.909,197.4 709.45667,202.335 709.45667,212.205 700.909,217.14 692.36133,212.205 " />
+      <polygon
+         transform="translate(45.282229,-31.690141)"
+         text="#Dibrugarh"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_13"
+         points="675.26599,231.945 666.71832,227.01 666.71832,217.14 675.26599,212.205 683.81366,217.14 683.81366,227.01 " />
+      <polygon
+         text="#Autonomous_District"
+         transform="translate(-14.551451,-16.885141)"
+         style="fill:#70f591;stroke:#000000;stroke-opacity:1"
+         id="S03_3"
+         points="700.909,217.14 709.45667,212.205 718.00434,217.14 718.00434,227.01 709.45667,231.945 700.909,227.01 " />
+    </g>
+    <g
+       transform="translate(-25.99317,7.3786474)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Meghalaya">
+      <polygon
+         text="#Tura"
+         style="fill:#70f5c3;stroke:#000000;stroke-opacity:1"
+         id="S15_2"
+         points="623.97996,241.815 623.97996,231.945 632.52763,227.01 641.07531,231.945 641.07531,241.815 632.52763,246.75 " />
+      <polygon
+         text="#Shillong"
+         style="fill:#70f5c3;stroke:#000000;stroke-opacity:1"
+         id="S15_1"
+         points="641.07531,241.815 641.07531,231.945 649.62298,227.01 658.17065,231.945 658.17065,241.815 649.62298,246.75 " />
+    </g>
+    <g
+       transform="translate(-41.82732,7.7570774)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Tripura">
+      <polygon
+         text="#Tripura_West"
+         style="fill:#79f570;stroke:#000000;stroke-opacity:1"
+         id="S23_1"
+         points="649.62298,256.62 658.17065,261.555 658.17065,271.425 649.62298,276.36 641.07531,271.425 641.07531,261.555 " />
+      <polygon
+         text="#Tripura_East"
+         style="fill:#79f570;stroke:#000000;stroke-opacity:1"
+         id="S23_2"
+         points="658.17065,271.425 666.71832,276.36 666.71832,286.23 658.17065,291.165 649.62298,286.23 649.62298,276.36 " />
+    </g>
+    <g
+       text="#Mizoram"
+       transform="translate(-33.82732,7.7570774)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Mizoram">
+      <polygon
+         style="fill:#70f583;stroke:#000000;stroke-opacity:1"
+         id="S16_1"
+         points="666.71832,256.62 675.26599,261.555 675.26599,271.425 666.71832,276.36 658.17065,271.425 658.17065,261.555 " />
+    </g>
+    <g
+       inkscape:label="#S17_1"
+       text="#Nagaland"
+       transform="translate(-25.82732,1.7570774)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Nagaland">
+      <polygon
+         inkscape:label="#polygon1105"
+         style="fill:#9df570;stroke:#000000;stroke-opacity:1"
+         id="S17_1"
+         points="683.81366,217.14 692.36133,212.205 700.909,217.14 700.909,227.01 692.36133,231.945 683.81366,227.01 " />
+    </g>
+    <g
+       transform="translate(-29.82732,5.7570774)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Manipur">
+      <polygon
+         text="#Inner_Manipur"
+         style="fill:#f57e70;stroke:#000000;stroke-opacity:1"
+         id="S14_1"
+         points="675.26599,261.555 666.71832,256.62 666.71832,246.75 675.26599,241.815 683.81366,246.75 683.81366,256.62 " />
+      <polygon
+         text="#Outer_Manipur"
+         style="fill:#f57e70;stroke:#000000;stroke-opacity:1"
+         id="S14_2"
+         points="683.81366,246.75 675.26599,241.815 675.26599,231.945 683.81366,227.01 692.36133,231.945 692.36133,241.815 " />
+    </g>
+    <g
+       transform="translate(23.45869,-25.982923)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Arunachal Pradesh">
+      <polygon
+         text="#Arunachal_West"
+         style="fill:#70f5d1;stroke:#000000;stroke-opacity:1"
+         id="S02_1"
+         points="666.71832,197.4 666.71832,187.53 675.26599,182.595 683.81366,187.53 683.81366,197.4 675.26599,202.335 " />
+      <polygon
+         text="#Arunachal_East"
+         style="fill:#70f5d1;stroke:#000000;stroke-opacity:1"
+         id="S02_2"
+         points="683.81366,197.4 683.81366,187.53 692.36133,182.595 700.909,187.53 700.909,197.4 692.36133,202.335 " />
+    </g>
+    <g
+       inkscape:label="#Daman &amp; Diu"
+       transform="translate(-116.16432,19.554498)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="DamanandDiu">
+      <polygon
+         style="fill:#9df570;stroke:#000000;stroke-opacity:1"
+         id="U04_1"
+         points="162.40574,350.385 153.85807,345.45 153.85807,335.58 162.40574,330.645 170.95341,335.58 170.95341,345.45 " />
+    </g>
+    <g
+       inkscape:label="#Andaman &amp; Nicobar Islands"
+       transform="translate(-68.36591,105.68118)"
+       style="stroke:#000000;stroke-opacity:1"
+       id="Andaman">
+      <polygon
+         transform="translate(-108.80282,-12.940141)"
+         style="fill:#f57e70;stroke:#000000;stroke-opacity:1"
+         id="U01_1"
+         points="649.62298,552.72 658.17065,557.655 658.17065,567.525 649.62298,572.46 641.07531,567.525 641.07531,557.655 " />
+    </g>
+  </g>
+</svg>

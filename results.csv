@@ -1,0 +1,543 @@
+concat,constName,stateName,winner,winParty,Winvotes,Votesharewinner,Runner,runParty,Runvotes,Votesharerunner,Marginabs,absMarginText,marginPC
+S06_25,Navsari,Gujarat,C.R. Patil,BJP,972739,74.37,Patel Dharmeshbhai Bhimbhai,INC,283071,21.64,689668,6.9L,52.73
+S07_5,Karnal,Haryana,Sanjay Bhatia,BJP,911594,70.08,Kuldip Sharma,INC,255452,19.64,656142,6.56L,50.44
+S07_10,Faridabad,Haryana,Krishan Pal,BJP,913222,68.8,Avtar Singh Bhadana,INC,274983,20.72,638239,6.38L,48.08
+S20_23,Bhilwara,Rajasthan,Subhash Chandra Baheria,BJP,938160,71.59,Ram Pal Sharma,INC,326160,24.89,612000,6.12L,46.7
+S06_20,Vadodara,Gujarat,Ranjanben Bhatt,BJP,883719,72.3,Prashant Patel (Tiko),INC,294542,24.1,589177,5.89L,48.2
+U05_6,West Delhi,Nct Of Delhi,Parvesh Sahib Singh Verma,BJP,865648,60.05,Mahabal Mishra,INC,287162,19.92,578486,5.78L,40.13
+S20_21,Chittorgarh,Rajasthan,Chandra Prakash Joshi,BJP,982942,67.38,Gopal Singh Shekhawat,INC,406695,27.88,576247,5.76L,39.5
+S06_6,Gandhinagar,Gujarat,Amit Shah,BJP,894624,69.67,Dr. C. J. Chavda,INC,337610,26.29,557014,5.57L,43.38
+U05_5,North West Delhi,Nct Of Delhi,Hans Raj Hans,BJP,848663,60.49,Gugan Singh,Aam Aadmi Party,294766,21.01,553897,5.54L,39.48
+S12_17,Hoshangabad,Madhya Pradesh,Uday Pratap Singh,BJP,877927,69.35,Shailendra Diwan Chandarbhan Singh,INC,324245,25.61,553682,5.54L,43.74
+S20_22,Rajsamand,Rajasthan,Diya Kumari,BJP,863039,69.61,Devkinandan (Kaka),INC,311123,25.09,551916,5.52L,44.52
+S06_24,Surat,Gujarat,Darshana Vikram Jardosh,BJP,795651,74.47,Ashok Patel (Adhevada),INC,247421,23.16,548230,5.48L,51.31
+S12_26,Indore,Madhya Pradesh,Shankar Lalwani,BJP,1068569,65.59,Pankaj Sanghvi,INC,520815,31.97,547754,5.48L,33.62
+S22_22,Dindigul,Tamil Nadu,Velusamy P. ,Dravida Munnetra Kazhagam,746523,64.35,"Jothimuthu, K.",Pattali Makkal Katchi,207551,17.89,538972,5.39L,46.46
+S22_5,Sriperumbudur,Tamil Nadu,Baalu T.R. ,Dravida Munnetra Kazhagam,793281,56.39,Vaithilingam A,Pattali Makkal Katchi,285326,20.28,507955,5.08L,36.11
+S12_18,Vidisha,Madhya Pradesh,Ramakant Bhargava,BJP,853022,68.23,Shailendra Rameshchandra Patel,INC,349938,27.99,503084,5.03L,40.24
+S24_12,Ghaziabad,Uttar Pradesh,Vijay Kumar Singh,BJP,944503,61.96,Suresh Bansal,Samajwadi Party,443003,29.06,501500,5.02L,32.9
+S24_19,Fatehpur Sikri,Uttar Pradesh,Rajkumar Chahar,BJP,667147,64.32,Raj Babbar,INC,172082,16.59,495065,4.95L,47.73
+S12_8,Khajuraho,Madhya Pradesh,V.D. Sharma (Vishnu Datt Sharma),BJP,811135,64.49,Maharani Kavita Singh Natiraja,INC,318753,25.34,492382,4.92L,39.15
+S27_7,Dhanbad,Jharkhand,Pashupati Nath Singh,BJP,827234,66.03,Kirti Azad,INC,341040,27.22,486194,4.86L,38.81
+S20_15,Pali,Rajasthan,P.P. Chaudhary,BJP,900149,66.2,Badriram Jakhar,INC,418552,30.78,481597,4.82L,35.42
+S10_12,Uttara Kannada,Karnataka,Anantkumar Hegde,BJP,786042,68.15,Anand Asnotikar,Janata Dal  (Secular),306393,26.56,479649,4.8L,41.59
+S27_14,Hazaribagh,Jharkhand,Jayant Sinha,BJP,728798,67.42,Gopal Prasad Sahu,INC,249250,23.06,479548,4.8L,44.36
+S24_77,Varanasi,Uttar Pradesh,Narendra Modi,BJP,674664,63.62,Shalini Yadav,Samajwadi Party,195159,18.4,479505,4.8L,45.22
+S08_1,Kangra,Himachal Pradesh,Kishan Kapoor,BJP,725218,72.02,Pawan Kajal,INC,247595,24.59,477623,4.78L,47.43
+S27_13,Palamau,Jharkhand,Vishnu Dayal Ram,BJP,755659,62.46,Ghuran Ram,Rashtriya Janata Dal,278053,22.98,477606,4.78L,39.48
+S13_26,Mumbai North,Maharashtra,Gopal Shetty,BJP,706678,71.4,Urmila Matondkar,INC,241431,24.39,465247,4.65L,47.01
+S22_2,Chennai North,Tamil Nadu,Dr. Kalanidhi Veeraswamy,Dravida Munnetra Kazhagam,590986,61.85,Alagaapuram R. Mohanraj,Desiya Murpokku Dravida Kazhagam,129468,13.55,461518,4.62L,48.3
+S22_24,Tiruchirappalli,Tamil Nadu,Thirunavukkarasar. Su,INC,621285,59.28,Dr.elangovan. V,Desiya Murpokku Dravida Kazhagam,161999,15.46,459286,4.59L,43.82
+S27_5,Kodarma,Jharkhand,Annpurna Devi,BJP,753016,62.26,Babu Lal Marandi,Jharkhand Vikas Morcha (Prajatantrik),297416,24.59,455600,4.56L,37.67
+S04_6,Madhubani,Bihar,Ashok Kumar Yadav,BJP,595843,61.83,Badri Kumar Purbey,Vikassheel Insaan Party,140903,14.62,454940,4.55L,47.21
+S12_13,Jabalpur,Madhya Pradesh,Rakesh Singh,BJP,826454,65.41,Pt. Vivek Krishna Tankha,INC,371710,29.42,454744,4.55L,35.99
+S20_25,Jhalawar-baran,Rajasthan,Dushyant Singh,BJP,887400,64.78,Pramod Sharma,INC,433472,31.64,453928,4.54L,33.14
+S07_8,Bhiwani-mahendragarh,Haryana,Dharambir Singh,BJP,736699,63.45,Shruti Choudhry,INC,292236,25.17,444463,4.44L,38.28
+S20_19,Udaipur,Rajasthan,Arjunlal Meena,BJP,871548,59.92,Raghuvir Singh Meena,INC,433634,29.81,437914,4.38L,30.11
+S06_7,Ahmedabad East,Gujarat,Patel Hasmukhbhai Somabhai,BJP,749834,67.17,Gitaben Patel,INC,315504,28.26,434330,4.34L,38.91
+S11_4,Wayanad,Kerala,Rahul Gandhi,INC,706367,64.67,P.p. Suneer,Communist Party Of India,274597,25.14,431770,4.32L,39.53
+S12_20,Rajgarh,Madhya Pradesh,Rodmal Nagar,BJP,823824,65.37,Mona Sustani,INC,392805,31.17,431019,4.31L,34.2
+S20_7,Jaipur,Rajasthan,Ramcharan Bohra,BJP,924065,63.45,Jyoti Khandelwal,INC,493439,33.88,430626,4.31L,29.57
+S06_18,Panchmahal,Gujarat,Ratansinh Magansinh Rathod,BJP,732136,67.56,Khant Vechatbhai Kuberbhai,INC,303595,28.02,428541,4.29L,39.54
+S04_24,Begusarai,Bihar,Giriraj Singh,BJP,692193,56.48,Kanhaiya Kumar,Communist Party Of India,269976,22.03,422217,4.22L,34.45
+S22_23,Karur,Tamil Nadu,Jothimani S.,INC,695697,63.06,Thambidurai M,All India Anna Dravida Munnetra Kazhagam,275151,24.94,420546,4.21L,38.12
+S20_13,Ajmer,Rajasthan,Bhagirath Chaudhary,BJP,815076,64.58,Riju Jhunjhunwala,INC,398652,31.58,416424,4.16L,33
+S25_4,Darjeeling,West Bengal,Raju Bista,BJP,750067,59.19,Amar Singh Rai,All India Trinamool Congress,336624,26.56,413443,4.13L,32.63
+S13_25,Thane,Maharashtra,Rajan Baburao Vichare,Shivsena,740969,63.3,Anand Prakash Paranjpe,Nationalist Congress Party,328824,28.09,412145,4.12L,35.21
+S13_3,Jalgaon,Maharashtra,Unmesh Bhaiyyasaheb Patil,BJP,713874,65.6,Gulabrao Baburao Deokar,Nationalist Congress Party,302257,27.77,411617,4.12L,37.83
+S04_15,Muzaffarpur,Bihar,Ajay Nishad,BJP,666878,63.03,Raj Bhushan Choudhary,Vikassheel Insaan Party,256890,24.28,409988,4.1L,38.75
+S20_1,Ganganagar,Rajasthan,Nihal Chand,BJP,897177,61.8,Bharat Ram Meghwal,INC,490199,33.77,406978,4.07L,28.03
+S08_2,Mandi,Himachal Pradesh,Ram Swaroop Sharma,BJP,647189,68.75,Aashray Sharma,INC,241730,25.68,405459,4.05L,43.07
+S22_25,Perambalur,Tamil Nadu,Dr. Paarivendhar T.R.,Dravida Munnetra Kazhagam,683697,62,"Sivapathy, N.r",All India Anna Dravida Munnetra Kazhagam,280179,25.41,403518,4.04L,36.59
+S12_12,Shahdol,Madhya Pradesh,Himadri Singh,BJP,747977,60.43,Pramila Singh,INC,344644,27.84,403333,4.03L,32.59
+S24_33,Unnao,Uttar Pradesh,Swami Sakshi Ji Maharaj,BJP,703507,56.87,Arun Shanker Shukla,Samajwadi Party,302551,24.46,400956,4.01L,32.41
+S22_14,Kallakurichi,Tamil Nadu,Gautham Sigamani Pon,Dravida Munnetra Kazhagam,721713,59.92,Sudhish L K,Desiya Murpokku Dravida Kazhagam,321794,26.72,399919,4L,33.2
+S08_3,Hamirpur,Himachal Pradesh,Anurag Singh Thakur,BJP,682692,69.04,Ram Lal Thakur,INC,283120,28.63,399572,4L,40.41
+S20_6,Jaipur Rural,Rajasthan,Col. Rajyavardhan Rathore,BJP,820132,64.24,Krishna Poonia,INC,426961,33.44,393171,3.93L,30.8
+S26_7,Durg,Chhattisgarh,Vijay Baghel,BJP,849374,61.02,Pratima Chandrakar,INC,457396,32.86,391978,3.92L,28.16
+S10_2,Belgaum,Karnataka,Angadi Suresh Channabasappa,BJP,761991,63.22,Dr.sadhunavar,INC,370687,30.76,391304,3.91L,32.46
+U05_3,East Delhi,Nct Of Delhi,Gautam Gambhir,BJP,696156,55.35,Arvinder Singh Lovely,INC,304934,24.24,391222,3.91L,31.11
+S07_9,Gurgaon,Haryana,Rao Inderjit Singh,BJP,881546,60.94,Capt. Ajay Singh,INC,495290,34.24,386256,3.86L,26.7
+S07_2,Kurukshetra,Haryana,Nayab Singh,BJP,688629,55.98,Nirmal Singh,INC,304038,24.71,384591,3.85L,31.27
+S01_21,Kadapa,Andhra Pradesh,Y.S. Avinash Reddy,Yuvajana Sramika Rythu Congress Party,783799,63.8,Chadipirala Adi Narayana Reddy,Telugu Desam,402823,32.79,380976,3.81L,31.01
+S06_21,Chhota Udaipur,Gujarat,Rathva Gitaben Vajesingbhai,BJP,764445,62.03,Rathava Ranjitsinh Mohansinh,INC,386502,31.36,377943,3.78L,30.67
+S27_4,Chatra,Jharkhand,Sunil Kumar Singh,BJP,528077,57.03,Manoj Kumar Yadav,INC,150206,16.22,377871,3.78L,40.81
+S12_23,Mandsour,Madhya Pradesh,Sudheer Gupta,BJP,847786,61.85,Meenakshi Natarajan,INC,471052,34.37,376734,3.77L,27.48
+S12_21,Dewas,Madhya Pradesh,Mahendra Singh Solanky,BJP,862429,61.65,Prahlad Singh Tipanya,INC,490180,35.04,372249,3.72L,26.61
+S06_10,Rajkot,Gujarat,Kundaria Mohanbhai Kalyanjibhai,BJP,758645,63.47,Kagathara Lalitbhai,INC,390238,32.65,368407,3.68L,30.82
+S06_2,Banaskantha,Gujarat,Parbatbhai Savabhai Patel,BJP,679108,61.62,Parthibhai Galbabhai Bhatol,INC,310812,28.2,368296,3.68L,33.42
+S22_30,Thanjavur,Tamil Nadu,Palanimanickam S.S. ,Dravida Munnetra Kazhagam,588978,55.6,"Natarajan,n.r .",Tamil Maanila Congress  (Moopanar),220849,20.85,368129,3.68L,34.75
+S06_17,Kheda,Gujarat,Chauhan Devusinh,BJP,714572,65.04,Bimal Shah,INC,347427,31.62,367145,3.67L,33.42
+U05_7,South Delhi,Nct Of Delhi,Ramesh Bidhuri,BJP,687014,56.58,Raghav Chadha,Aam Aadmi Party,319971,26.35,367043,3.67L,30.23
+U05_2,North East Delhi,Nct Of Delhi,Manoj Tiwari,BJP,787799,53.9,Sheila Dikshit,INC,421697,28.85,366102,3.66L,25.05
+S24_46,Jhansi,Uttar Pradesh,Anurag Sharma,BJP,809272,58.61,Shyam Sundar Singh,Samajwadi Party,443589,32.12,365683,3.66L,26.49
+S12_22,Ujjain,Madhya Pradesh,Anil Firojiya,BJP,791663,63.21,Babulal Malviya,INC,426026,34.01,365637,3.66L,29.2
+S12_19,Bhopal,Madhya Pradesh,Sadhvi Pragya Singh Thakur,BJP,866482,61.54,Digvijaya Singh,INC,501660,35.63,364822,3.65L,25.91
+S03_13,Dibrugarh,Assam,Rameswar Teli,BJP,659583,64.94,Paban Singh Ghatowar,INC,295017,29.04,364566,3.65L,35.9
+S12_29,Betul,Madhya Pradesh,Durga Das Uikey,BJP,811248,59.74,Ramu Tekam (Advocate),INC,451007,33.21,360241,3.6L,26.53
+S09_5,Udhampur,Jammu & Kashmir,Dr. Jitendra Singh,BJP,724311,61.38,Vikramaditya Singh,INC,367059,31.1,357252,3.57L,30.28
+S22_1,Thiruvallur,Tamil Nadu,Dr. K. Jayakumar,INC,767292,54.49,Dr.p.venugopal,All India Anna Dravida Munnetra Kazhagam,410337,29.14,356955,3.57L,25.35
+S04_1,Valmiki Nagar,Bihar,Baidyanath Prasad Mahto,Janata Dal  (United),602660,58.39,Shashwat Kedar,INC,248044,24.03,354616,3.55L,34.36
+S06_26,Valsad,Gujarat,Dr. K.C. Patel,BJP,771980,61.25,Chaudhari Jitubhai Harjibhai,INC,418183,33.18,353797,3.54L,28.07
+S12_7,Damoh,Madhya Pradesh,Prahalad Singh Patel,BJP,704524,60.51,Pratap Singh,INC,351113,30.16,353411,3.53L,30.35
+S03_14,Lakhimpur,Assam,Pradan Baruah,BJP,776406,60.49,Anil Borgohain,INC,425855,33.18,350551,3.51L,27.31
+S25_18,Basirhat,West Bengal,Nusrat Jahan Ruhi,All India Trinamool Congress,782078,54.56,Sayantan Basu,BJP,431709,30.12,350369,3.5L,24.44
+S29_15,Warangal,Telangana,Dayakar Pasunoori,Telangana Rashtra Samithi,612498,57.69,Dommati Sambaiah,INC,262200,24.7,350298,3.5L,32.99
+S10_15,Udupi Chikmagalur,Karnataka,Shobha Karandlaje,BJP,718916,62.46,Pramod Madhwaraj,Janata Dal  (Secular),369317,32.09,349599,3.5L,30.37
+S26_8,Raipur,Chhattisgarh,Sunil Kumar Soni,BJP,837902,60.01,Pramod Dubey,INC,489664,35.07,348238,3.48L,24.94
+S12_6,Tikamgarh,Madhya Pradesh,Dr. Virendra Kumar,BJP,672248,61.3,Ahirwar Kiran,INC,324189,29.56,348059,3.48L,31.74
+S24_35,Lucknow,Uttar Pradesh,Rajnath Singh,BJP,633026,56.7,Poonam Shatrughan Sinha,Samajwadi Party,285724,25.59,347302,3.47L,31.11
+S22_36,Thoothukkudi,Tamil Nadu,Kanimozhi Karunanidhi,Dravida Munnetra Kazhagam,563143,56.81,Dr. Tamilisai Soundararajan,BJP,215934,21.78,347209,3.47L,35.03
+S03_7,Gauhati,Assam,Queen Oja,BJP,1008936,57.2,Bobbeeta Sharma,INC,663330,37.61,345606,3.46L,19.59
+S13_24,Kalyan,Maharashtra,Dr. Shrikant Eknath Shinde,Shivsena,559723,62.87,Babaji Balaram Patil,Nationalist Congress Party,215380,24.19,344343,3.44L,38.68
+S07_1,Ambala,Haryana,Rattan Lal Kataria,BJP,746508,56.72,Selja,INC,404163,30.71,342345,3.42L,26.01
+S24_63,Maharajganj,Uttar Pradesh,Pankaj Choudhary,BJP,726349,59.2,Akhilesh,Samajwadi Party,385925,31.45,340424,3.4L,27.75
+S04_4,Sheohar,Bihar,Rama Devi,BJP,608678,60.59,Syed Faisal Ali,Rashtriya Janata Dal,268318,26.71,340360,3.4L,33.88
+S28_4,Nainital-udhamsingh Nagar,Uttarakhand,Ajay Bhatt,BJP,772195,61.35,Harish Rawat,INC,433099,34.41,339096,3.39L,26.94
+S24_65,Kushi Nagar,Uttar Pradesh,Vijay Kumar Dubey,BJP,597039,56.69,N.p. Kushwaha Alias Nathuni Prasad Kushwaha,Samajwadi Party,259479,24.64,337560,3.38L,32.05
+S24_13,Gautam Buddha Nagar,Uttar Pradesh,Dr. Mahesh Sharma,BJP,830812,59.64,Satveer,Bahujan Samaj Party,493890,35.46,336922,3.37L,24.18
+S13_4,Raver,Maharashtra,Khadse Raksha Nikhil,BJP,655386,59.96,Dr.ulhas Vasudeo Patil,INC,319504,29.23,335882,3.36L,30.73
+S20_3,Churu,Rajasthan,Rahul Kaswan,BJP,792999,59.69,Rafique Mandelia,INC,458597,34.52,334402,3.34L,25.17
+S06_22,Bharuch,Gujarat,Mansukhbhai Dhanjibhai Vasava,BJP,637795,55.47,Sherkhan Abdulsakur Pathan,INC,303581,26.4,334214,3.34L,29.07
+S13_18,Jalna,Maharashtra,Danve Raosaheb Dadarao,BJP,698019,57.78,Autade Vilas Keshavrao,INC,365204,30.23,332815,3.33L,27.55
+S22_31,Sivaganga,Tamil Nadu,Karti P Chidambaram,INC,566104,52.2,H.raja,BJP,233860,21.56,332244,3.32L,30.64
+S10_26,Bangalore South,Karnataka,Tejasvi Surya,BJP,739229,62.2,B.k.hariprasad,INC,408037,34.33,331192,3.31L,27.87
+S20_8,Alwar,Rajasthan,Balak Nath,BJP,760201,60.06,Bhanwar Jitendra Singh,INC,430230,33.99,329971,3.3L,26.07
+S06_15,Bhavnagar,Gujarat,Dr. Bharatiben Dhirubhai Shiyal,BJP,661273,63.51,Patel Manharbhai Nagjibhai (Vasani),INC,331754,31.86,329519,3.3L,31.65
+S22_7,Arakkonam,Tamil Nadu,S. Jagathrakshakan,Dravida Munnetra Kazhagam,672190,57.06,A.k. Moorthy,Pattali Makkal Katchi,343234,29.14,328956,3.29L,27.92
+S08_4,Shimla,Himachal Pradesh,Suresh Kumar Kashyap,BJP,606183,66.35,Dhani Ram Shandil,INC,278668,30.5,327515,3.28L,35.85
+S13_34,Pune,Maharashtra,Girish Bhalchandra Bapat,BJP,632835,61.13,Mohan Joshi,INC,308207,29.77,324628,3.25L,31.36
+S20_17,Barmer,Rajasthan,Kailash Choudhary,BJP,846526,59.52,Manvendra Singh,INC,522718,36.75,323808,3.24L,22.77
+S04_7,Jhanjharpur,Bihar,Ramprit Mandal,Janata Dal  (United),602391,56.8,Gulab Yadav,Rashtriya Janata Dal,279440,26.35,322951,3.23L,30.45
+S06_8,Ahmedabad West,Gujarat,Dr. Kirit P. Solanki,BJP,641622,64.35,Raju Parmar,INC,320076,32.1,321546,3.22L,32.25
+S25_21,Diamond Harbour,West Bengal,Abhishek Banerjee,All India Trinamool Congress,791127,56.15,Nilanjan Roy,BJP,470533,33.39,320594,3.21L,22.76
+S20_9,Bharatpur,Rajasthan,Ranjeeta Koli,BJP,707992,61.74,Abhijeet Kumar Jatav,INC,389593,33.97,318399,3.18L,27.77
+S25_19,Joynagar,West Bengal,Pratima Mondal,All India Trinamool Congress,761202,56.13,Dr. Ashok Kandary,BJP,444427,32.77,316775,3.17L,23.36
+S29_6,Medak,Telangana,Kotha Prabhakar Reddy,Telangana Rashtra Samithi,596048,51.82,Anil Kumar Gali,INC,279621,24.31,316427,3.16L,27.51
+S07_4,Hisar,Haryana,Brijendra Singh,BJP,603289,51.13,Dushyant Chautala,Jannayak Janta Party,289221,24.51,314068,3.14L,26.62
+S12_10,Rewa,Madhya Pradesh,Janardan Mishra,BJP,583745,57.61,"Siddharth Tiwari ""Raj""",INC,270938,26.74,312807,3.13L,30.87
+S07_3,Sirsa,Haryana,Sunita Duggal,BJP,714351,52.16,Ashok Tanwar,INC,404433,29.53,309918,3.1L,22.63
+S23_1,Tripura West,Tripura,Pratima Bhoumik,BJP,573532,51.77,Subal Bhowmik,INC,267843,24.18,305689,3.06L,27.59
+S12_5,Sagar,Madhya Pradesh,Rajbahadur Singh,BJP,646231,62.31,Prabhu Singh Thakur,INC,340689,32.85,305542,3.06L,29.46
+S06_1,Kachchh,Gujarat,Chavda Vinod Lakhamshi,BJP,637034,62.26,Naresh Naranbhai Maheshwari,INC,331521,32.4,305513,3.06L,29.86
+S20_20,Banswara,Rajasthan,Kanakmal Katara,BJP,711709,49.44,Tarachand Bhagora,INC,406245,28.22,305464,3.05L,21.22
+S22_11,Tiruvannamalai,Tamil Nadu,Annadurai C.N.,Dravida Munnetra Kazhagam,666272,57.85,Agri Krishnamurthy S S,All India Anna Dravida Munnetra Kazhagam,362085,31.44,304187,3.04L,26.41
+S09_6,Jammu,Jammu & Kashmir,Jugal Kishore,BJP,858066,58.02,Raman Bhalla,INC,555191,37.54,302875,3.03L,20.48
+S28_2,Garhwal,Uttarakhand,Tirath Singh Rawat,BJP,506980,68.25,Manish Khanduri,INC,204311,27.51,302669,3.03L,40.74
+S20_4,Jhunjhunu,Rajasthan,Narendra Kumar,BJP,738163,61.57,Sharwan Kumar S/o Gokal Ram,INC,435616,36.33,302547,3.03L,25.24
+S27_9,Jamshedpur,Jharkhand,Bidyut Baran Mahato,BJP,679632,59.4,Champai Soren,Jharkhand Mukti Morcha,377542,33,302090,3.02L,26.4
+S24_64,Gorakhpur,Uttar Pradesh,Ravindra Shyamnarayan Shukla (Ravi Kishan),BJP,717122,60.54,Rambhual Nishad,Samajwadi Party,415458,35.07,301664,3.02L,25.47
+S04_13,Madhepura,Bihar,Dinesh Chandra Yadav,Janata Dal  (United),624334,54.42,Sharad Yadav,Rashtriya Janata Dal,322807,28.14,301527,3.02L,26.28
+S22_4,Chennai Central,Tamil Nadu,Dayanidhi Maran,Dravida Munnetra Kazhagam,448911,57.15,Sam Paul. S.r.,Pattali Makkal Katchi,147391,18.77,301520,3.02L,38.38
+S28_1,Tehri Garhwal,Uttarakhand,Mala Rajya Laxmi Shah,BJP,565333,64.53,Pritam Singh,INC,264747,30.22,300586,3.01L,34.31
+S20_5,Sikar,Rajasthan,Sumedhanand Saraswati,BJP,772104,58.19,Subhash Maharia,INC,474948,35.79,297156,2.97L,22.4
+S25_22,Jadavpur,West Bengal,Mimi Chakraborty,All India Trinamool Congress,688472,47.91,Anupam Hazra,BJP,393233,27.37,295239,2.95L,20.54
+S04_2,Paschim Champaran,Bihar,Dr. Sanjay Jaiswal,BJP,603706,59.6,Brijesh Kumar Kushwaha,Rashtriya Lok Samta Party,309800,30.58,293906,2.94L,29.02
+S04_3,Purvi Champaran,Bihar,Radha Mohan Singh,BJP,577787,57.81,Aakash Kumar Singh,Rashtriya Lok Samta Party,284139,28.43,293648,2.94L,29.38
+S24_17,Mathura,Uttar Pradesh,Hema Malini,BJP,671293,60.88,Kunwar Narendra Singh,Rashtriya Lok Dal,377822,34.26,293471,2.93L,26.62
+S13_21,Nashik,Maharashtra,Godse Hemant Tukaram,Shivsena,563599,50.27,Sameer Magan Bhujbal,Nationalist Congress Party,271395,24.21,292204,2.92L,26.06
+S24_14,Bulandshahr,Uttar Pradesh,Bhola Singh,BJP,681321,60.64,Yogesh Verma,Bahujan Samaj Party,391264,34.82,290057,2.9L,25.82
+S13_41,Latur,Maharashtra,Sudhakar Tukaram Shrangare,BJP,661495,56.22,Kamant Machhindra Gunwantrao,INC,372384,31.65,289111,2.89L,24.57
+S22_6,Kancheepuram,Tamil Nadu,Selvam G.,Dravida Munnetra Kazhagam,684004,55.27,Maragatham K,All India Anna Dravida Munnetra Kazhagam,397372,32.11,286632,2.87L,23.16
+S12_11,Sidhi,Madhya Pradesh,Riti Pathak,BJP,698342,54.44,Ajay Arjun Singh,INC,411818,32.11,286524,2.87L,22.33
+S04_17,Gopalganj (Sc),Bihar,Dr. Alok Kumar Suman,Janata Dal  (United),568150,55.44,Surendra Ram,Rashtriya Janata Dal,281716,27.49,286434,2.86L,27.95
+S04_30,Patna Sahib,Bihar,Ravi Shankar Prasad,BJP,607506,61.85,Shatrughan Sinha,INC,322849,32.87,284657,2.85L,28.98
+S27_8,Ranchi,Jharkhand,Sanjay Seth,BJP,706828,57.21,Subodh Kant Sahay,INC,423802,34.3,283026,2.83L,22.91
+S29_9,Hyderabad,Telangana,Asaduddin Owaisi,All India Majlis-e-ittehadul Muslimeen,517471,58.95,Dr. Bhagavanth Rao,BJP,235285,26.8,282186,2.82L,32.15
+S06_4,Mahesana,Gujarat,Shardaben Anilbhai Patel,BJP,659525,60.96,A. J. Patel,INC,378006,34.94,281519,2.82L,26.02
+S13_37,Ahmadnagar,Maharashtra,Dr. Sujay Radhakrishna Vikhepatil,BJP,704660,58.54,Sangram Arunkaka Jagtap,Nationalist Congress Party,423186,35.15,281474,2.81L,23.39
+S20_24,Kota,Rajasthan,Om Birla,BJP,800051,58.52,Ramnarain Meena,INC,520374,38.07,279677,2.8L,20.45
+S13_15,Hingoli,Maharashtra,Hemant Patil,Shivsena,586312,50.65,Wankhede Subhashrao Bapurao,INC,308456,26.65,277856,2.78L,24
+S04_26,Bhagalpur,Bihar,Ajay Kumar Mandal,Janata Dal  (United),618254,59.3,Shailesh Kumar Alias Vulo Mandal,Rashtriya Janata Dal,340624,32.67,277630,2.78L,26.63
+S06_9,Surendranagar,Gujarat,Dr. Munjapara Mahendrabhai,BJP,631844,58.63,Koli Patel Somabhai Gandalal,INC,354407,32.88,277437,2.77L,25.75
+S04_22,Ujiarpur,Bihar,Nityanand Rai,BJP,543906,56.11,Upendra Kushwaha,Rashtriya Lok Samta Party,266628,27.51,277278,2.77L,28.6
+S13_6,Akola,Maharashtra,Dhotre Sanjay Shamrao,BJP,554444,49.53,Ambedkar (Adv) Prakash Yashwant,Vanchit Bahujan Aaghadi,278848,24.91,275596,2.76L,24.62
+S24_44,Akbarpur,Uttar Pradesh,Devendra Singh 'bhole',BJP,581282,56.69,Nisha Sachan,Bahujan Samaj Party,306140,29.86,275142,2.75L,26.83
+S10_17,Dakshina Kannada,Karnataka,Nalin Kumar Kateel,BJP,774285,57.57,Mithun M Rai,INC,499664,37.15,274621,2.75L,20.42
+S20_16,Jodhpur,Rajasthan,Gajendra Singh Shekhawat,BJP,788888,58.6,Vaibhav Gehlot,INC,514448,38.21,274440,2.74L,20.39
+S12_28,Khandwa,Madhya Pradesh,Nandkumar Singh Chouhan (Nandu Bhaiya),BJP,838909,57.14,Arun Subhash Chandra Yadav,INC,565566,38.52,273343,2.73L,18.62
+S18_16,Jagatsinghpur,Odisha,Rajashree Mallick,Biju Janata Dal,619985,50.44,Bibhu Prasad Tarai,BJP,348330,28.34,271655,2.72L,22.1
+S13_47,Kolhapur,Maharashtra,Sanjay Sadashivrao Mandlik,Shivsena,749085,56.29,Dhananjay Mahadik,Nationalist Congress Party,478517,35.96,270568,2.71L,20.33
+S06_5,Sabarkantha,Gujarat,Rathod Dipsinh Shankarsinh,BJP,701984,57.62,Thakor Rajendrasinh Shivsinh,INC,432997,35.54,268987,2.69L,22.08
+S24_27,Shahjahanpur,Uttar Pradesh,Arun Kumar Sagar,BJP,688990,58.09,Amar Chandra Jauhar,Bahujan Samaj Party,420572,35.46,268418,2.68L,22.63
+S01_24,Rajampet,Andhra Pradesh,P.V. Midhun Reddy,Yuvajana Sramika Rythu Congress Party,702211,57.35,D A Sathya Prabha,Telugu Desam,433927,35.44,268284,2.68L,21.91
+S04_14,Darbhanga,Bihar,Gopal Jee Thakur,BJP,586668,60.79,Abdul Bari Siddiqui,Rashtriya Janata Dal,318689,33.02,267979,2.68L,27.77
+S04_8,Supaul,Bihar,Dileshwar Kamait,Janata Dal  (United),597377,53.78,Ranjeet Ranjan,INC,330524,29.76,266853,2.67L,24.02
+S22_16,Namakkal,Tamil Nadu,Chinraj A.K.P.,Dravida Munnetra Kazhagam,626293,55.24,Kaliappan P,All India Anna Dravida Munnetra Kazhagam,361142,31.85,265151,2.65L,23.39
+S20_2,Bikaner (Sc),Rajasthan,Arjun Ram Meghwal,BJP,657743,59.82,Madan Gopal Meghwal,INC,393662,35.8,264081,2.64L,24.02
+S04_12,Purnia,Bihar,Santosh Kumar,Janata Dal  (United),632924,54.85,Uday Singh Alias Pappu Singh,INC,369463,32.02,263461,2.63L,22.83
+S22_3,Chennai South,Tamil Nadu,T. Sumathy (Thamizhachi Thangapandian),Dravida Munnetra Kazhagam,564872,50.17,Dr.j.jayavardhan,All India Anna Dravida Munnetra Kazhagam,302649,26.88,262223,2.62L,23.29
+S24_57,Kaiserganj,Uttar Pradesh,Brijbhusan Sharan Singh,BJP,581358,59.24,Chandradev Ram Yadav,Bahujan Samaj Party,319757,32.58,261601,2.62L,26.66
+S22_28,Mayiladuthurai,Tamil Nadu,Ramalingam  S.,Dravida Munnetra Kazhagam,599292,54.62,Asaimani. S,All India Anna Dravida Munnetra Kazhagam,337978,30.8,261314,2.61L,23.82
+S20_18,Jalore,Rajasthan,Devaji Patel,BJP,772833,56.76,Ratan Devasi,INC,511723,37.58,261110,2.61L,19.18
+S13_27,Mumbai North West,Maharashtra,Gajanan Kirtikar,Shivsena,570063,60.55,Sanjay Nirupam,INC,309735,32.9,260328,2.6L,27.65
+S24_16,Hathras,Uttar Pradesh,Rajvir Diler,BJP,684299,59.49,Ramji Lal Suman,Samajwadi Party,424091,36.87,260208,2.6L,22.62
+S11_6,Malappuram,Kerala,P.K. Kunhalikutty,Indian Union Muslim League,589873,57.01,V.p. Sanu,Communist Party Of India  (Marxist),329720,31.87,260153,2.6L,25.14
+S22_39,Kanniyakumari,Tamil Nadu,Vasanthakumar  H.,INC,627235,59.83,Radhakrishnan. P,BJP,367302,35.04,259933,2.6L,24.79
+S24_69,Azamgarh,Uttar Pradesh,Akhilesh Yadav,Samajwadi Party,621578,60.4,Dinesh Lal Yadav Nirahua,BJP,361704,35.15,259874,2.6L,25.25
+S28_5,Hardwar,Uttarakhand,Ramesh Pokhriyal,BJP,665674,52.37,Ambrish Kumar,INC,406945,32.02,258729,2.59L,20.35
+S10_4,Bijapur,Karnataka,Jigajinagi Ramesh Chandappa,BJP,635867,57.22,Dr. Sunita Devanand Chavan,Janata Dal  (Secular),377829,34,258038,2.58L,23.22
+U05_4,New Delhi,Nct Of Delhi,Meenakashi Lekhi,BJP,504206,54.77,Ajay Makan,INC,247702,26.91,256504,2.57L,27.86
+S04_29,Nalanda,Bihar,Kaushlendra Kumar,Janata Dal  (United),540888,52.45,Ashok Kumar Azad,Hindustani Awam Morcha (Secular),284751,27.61,256137,2.56L,24.84
+S24_26,Pilibhit,Uttar Pradesh,Feroze Varun Gandhi,BJP,704549,59.38,Hemraj Verma,Samajwadi Party,448922,37.83,255627,2.56L,21.55
+S04_23,Samastipur (Sc),Bihar,Ramchandra Paswan,Lok Jan Shakti Party,562443,55.19,Dr. Ashok Kumar,INC,310800,30.5,251643,2.52L,24.69
+S04_5,Sitamarhi,Bihar,Sunil Kumar Pintu,Janata Dal  (United),567745,54.65,Arjun Ray,Rashtriya Janata Dal,317206,30.53,250539,2.51L,24.12
+S01_17,Nandyal,Andhra Pradesh,Pocha Brahmananda Reddy,Yuvajana Sramika Rythu Congress Party,720888,55.49,Mandra Sivananda Reddy,Telugu Desam,470769,36.24,250119,2.5L,19.25
+S24_66,Deoria,Uttar Pradesh,Ramapati Ram Tripathi,BJP,580644,57.19,Binod Kumar Jaiswal,Bahujan Samaj Party,330713,32.57,249931,2.5L,24.62
+S24_47,Hamirpur,Uttar Pradesh,Kunwar Pushpendra Singh Chandel,BJP,575122,52.77,Dilip Kumar Singh,Bahujan Samaj Party,326470,29.96,248652,2.49L,22.81
+S04_25,Khagaria,Bihar,Choudhary Mehboob Ali Kaiser,Lok Jan Shakti Party,510193,52.77,Mukesh Sahani,Vikassheel Insaan Party,261623,27.06,248570,2.49L,25.71
+S27_6,Giridih,Jharkhand,Chandra Prakash Choudhary,Ajsu Party,648277,58.57,Jagarnath Mahto,Jharkhand Mukti Morcha,399930,36.13,248347,2.48L,22.44
+S25_9,Jangipur,West Bengal,Khalilur Rahaman,All India Trinamool Congress,562838,43.15,Mafuja Khatun,BJP,317056,24.3,245782,2.46L,18.85
+S25_2,Alipurduars,West Bengal,John Barla,BJP,750804,54.4,Dasrath Tirkey,All India Trinamool Congress,506815,36.72,243989,2.44L,17.68
+S03_9,Tezpur,Assam,Pallab Lochan Das,BJP,684166,57.48,M.g.v.k. Bhanu,INC,441325,37.08,242841,2.43L,20.4
+S12_15,Balaghat,Madhya Pradesh,Dr Dhal Singh Bisen,BJP,696102,50.74,Madhu Bhagat,INC,454036,33.09,242066,2.42L,17.65
+S04_40,Jamui (Sc),Bihar,Chirag Kumar Paswan,Lok Jan Shakti Party,529134,55.75,Bhudeo Choudhary,Rashtriya Lok Samta Party,288085,30.35,241049,2.41L,25.4
+S03_3,Autonomous District,Assam,Horen Sing Bey,BJP,381316,61.73,Biren Singh Engti,INC,141690,22.94,239626,2.4L,38.79
+S06_12,Jamnagar,Gujarat,Poonamben Hematbhai Maadam,BJP,591588,58.52,Kandoriya Mulubhai Ranmalbhai,INC,354784,35.09,236804,2.37L,23.43
+S04_16,Vaishali,Bihar,Veena Devi,Lok Jan Shakti Party,568215,52.87,Raghuvansh Prasad Singh,Rashtriya Janata Dal,333631,31.04,234584,2.35L,21.83
+S25_13,Ranaghat,West Bengal,Jagannath Sarkar,BJP,783253,52.78,Rupali Biswas,All India Trinamool Congress,549825,37.05,233428,2.33L,15.73
+S28_3,Almora,Uttarakhand,Ajay Tamta,BJP,444651,64.03,Pradeep Tamta,INC,211665,30.48,232986,2.33L,33.55
+S24_79,Mirzapur,Uttar Pradesh,Anupriya Singh Patel,Apna Dal (Soneylal),591564,53.34,Ramcharitra Nishad,Samajwadi Party,359556,32.42,232008,2.32L,20.92
+S12_9,Satna,Madhya Pradesh,Ganesh Singh,BJP,588753,52.87,Rajaram Tripathi,INC,357280,32.08,231473,2.31L,20.79
+S22_12,Arani,Tamil Nadu,Vishnu Prasad M. K.,INC,617760,54,Elumalai V,All India Anna Dravida Munnetra Kazhagam,386954,33.83,230806,2.31L,20.17
+S04_19,Maharajganj,Bihar,Janardan Singh,BJP,546352,56.17,Randhir Kumar Singh,Rashtriya Janata Dal,315580,32.44,230772,2.31L,23.73
+S06_11,Porbandar,Gujarat,Rameshbhai Lavjibhai Dhaduk,BJP,563881,59.36,Lalit Vasoya,INC,334058,35.17,229823,2.3L,24.19
+S24_15,Aligarh,Uttar Pradesh,Satish Kumar Gautam,BJP,656215,56.42,Dr. Ajeet Baliyan,Bahujan Samaj Party,426954,36.71,229261,2.29L,19.71
+S13_2,Dhule,Maharashtra,Bhamre Subhash Ramrao,BJP,613533,56.54,Kunalbaba Rohidas Patil,INC,384290,35.42,229243,2.29L,21.12
+S01_23,Tirupati,Andhra Pradesh,Balli Durga Prasad Rao,Yuvajana Sramika Rythu Congress Party,722877,55.03,Panabaka Lakshmi,Telugu Desam,494501,37.65,228376,2.28L,17.38
+U05_1,Chandni Chowk,Nct Of Delhi,Harsh Vardhan,BJP,519055,52.94,Jai Prakash Agarwal,INC,290910,29.67,228145,2.28L,23.27
+S13_28,Mumbai North East,Maharashtra,Manoj Kotak,BJP,514599,56.61,Patil Sanjay Dina,Nationalist Congress Party,288113,31.7,226486,2.26L,24.91
+S25_11,Murshidabad,West Bengal,Abu Taher Khan,All India Trinamool Congress,604346,41.57,"Abu Hena, S/o - Late Abdus Sattar",INC,377929,26,226417,2.26L,15.57
+S03_4,Dhubri,Assam,Badruddin Ajmal,All India United Democratic Front,718764,42.66,Abu Taher Bepari,INC,492506,29.23,226258,2.26L,13.43
+S10_14,Shimoga,Karnataka,B.Y. Raghavendra ,BJP,729872,56.86,S.madhubangarappa,Janata Dal  (Secular),506512,39.46,223360,2.23L,17.4
+S18_2,Sundargarh,Odisha,Jual Oram,BJP,500056,45.45,Sunita Biswal,Biju Janata Dal,276991,25.18,223065,2.23L,20.27
+S24_40,Farrukhabad,Uttar Pradesh,Mukesh Rajput,BJP,569880,56.82,Manoj Agarwal,Bahujan Samaj Party,348178,34.72,221702,2.22L,22.1
+S01_1,Aruku,Andhra Pradesh,Goddeti Madhavi,Yuvajana Sramika Rythu Congress Party,557561,52.26,Kishore Chandra Deo,Telugu Desam,336163,31.51,221398,2.21L,20.75
+S24_28,Kheri,Uttar Pradesh,Ajay Kumar,BJP,609589,53.63,Dr. Purvi Verma,Samajwadi Party,390782,34.38,218807,2.19L,19.25
+S13_10,Nagpur,Maharashtra,Nitin Jairam Gadkari,BJP,660221,55.67,Nana Patole,INC,444212,37.45,216009,2.16L,18.22
+S13_33,Maval,Maharashtra,Shrirang Appa Chandu Barne,Shivsena,720663,52.65,Parth Ajit Pawar,Nationalist Congress Party,504750,36.87,215913,2.16L,15.78
+S06_23,Bardoli,Gujarat,Parbhubhai Nagarbhai Vasava,BJP,742273,55.06,Chaudhari Dr. Tusharbhai Amarsinhbhai,INC,526826,39.08,215447,2.15L,15.98
+S25_26,Uluberia,West Bengal,Sajda Ahmed,All India Trinamool Congress,694945,53,Joy Banerjee,BJP,479586,36.58,215359,2.15L,16.42
+S01_16,Ongole,Andhra Pradesh,Magunta Sreenivasulu Reddy,Yuvajana Sramika Rythu Congress Party,739202,55.07,Sidda Raghava Rao,Telugu Desam,524351,39.06,214851,2.15L,16.01
+S24_18,Agra,Uttar Pradesh,Satyapal Singh Baghel,BJP,646875,56.48,Manoj Kumar Soni,Bahujan Samaj Party,435329,38.01,211546,2.12L,18.47
+S22_29,Nagapattinam,Tamil Nadu,Selvaraj M.,Communist Party Of India,522892,52.17,Saravanan M,All India Anna Dravida Munnetra Kazhagam,311539,31.09,211353,2.11L,21.08
+S22_17,Erode,Tamil Nadu,Ganeshamurthi A.,Dravida Munnetra Kazhagam,563591,52.78,Manimaran G,All India Anna Dravida Munnetra Kazhagam,352973,33.05,210618,2.11L,19.73
+S10_28,Kolar,Karnataka,S. Muniswamy,BJP,709165,56.35,K.h. Muniyappa,INC,499144,39.66,210021,2.1L,16.69
+S03_11,Kaliabor,Assam,Gaurav Gogoi,INC,786092,55.18,Moni Madhab Mahanta,Asom Gana Parishad,576098,40.44,209994,2.1L,14.74
+S10_23,Bangalore Rural,Karnataka,D.K. Suresh,INC,878258,54.15,Ashwathnarayangowda,BJP,671388,41.4,206870,2.07L,12.75
+S22_19,Nilgiris,Tamil Nadu,Raja A. ,Dravida Munnetra Kazhagam,547832,54.2,"Thiyagarajan, M.",All India Anna Dravida Munnetra Kazhagam,342009,33.84,205823,2.06L,20.36
+S04_21,Hajipur (Sc),Bihar,Pashu Pati Kumar Paras,Lok Jan Shakti Party,541310,53.76,Shiv Chandra Ram,Rashtriya Janata Dal,335861,33.36,205449,2.05L,20.4
+S10_11,Dharwad,Karnataka,Pralhad Joshi,BJP,684837,56.43,Vinay Kulkarni,INC,479765,39.54,205072,2.05L,16.89
+S25_35,Purulia,West Bengal,Jyotirmay Singh Mahato,BJP,668107,49.3,Dr. Mriganka Mahato,All India Trinamool Congress,463375,34.19,204732,2.05L,15.11
+S18_19,Aska,Odisha,Pramila Bisoyi,Biju Janata Dal,552749,54.52,Anita Subhadarshini,BJP,348042,34.33,204707,2.05L,20.19
+S23_2,Tripura East,Tripura,Rebati Tripura,BJP,482126,46.12,Maharaj Kumari Pragya Debburman,INC,277836,26.58,204290,2.04L,19.54
+S25_20,Mathurapur,West Bengal,Choudhury Mohan Jatua,All India Trinamool Congress,726828,51.84,Shyamaprasad Halder,BJP,522854,37.29,203974,2.04L,14.55
+S12_27,Khargone,Madhya Pradesh,Gajendra Umrao Singh Patel,BJP,773550,54.19,Dr. Govind Subhan Mujalda,INC,571040,40,202510,2.03L,14.19
+S06_14,Amreli,Gujarat,Kachhadiya Naranbhai Bhikhabhai,BJP,529035,58.19,Paresh Dhanani,INC,327604,36.03,201431,2.01L,22.16
+S04_27,Banka,Bihar,Giridhari Yadav,Janata Dal  (United),477788,47.98,Jai Prakash Narayan Yadav,Rashtriya Janata Dal,277256,27.84,200532,2.01L,20.14
+S12_2,Bhind,Madhya Pradesh,Sandhya Ray,BJP,527694,54.93,Devashish,INC,327809,34.12,199885,2L,20.81
+S19_10,Firozpur,Punjab,Sukhbir Singh Badal,Shiromani Akali Dal,633427,54.05,Sher Singh Ghubaya,INC,434577,37.08,198850,1.99L,16.97
+S13_20,Dindori,Maharashtra,Dr. Bharati Pravin Pawar,BJP,567470,49.88,Dhanraj Haribhau Mahale,Nationalist Congress Party,368691,32.41,198779,1.99L,17.47
+S24_49,Fatehpur,Uttar Pradesh,Niranjan Jyoti,BJP,566040,54.24,Sukhdev Prasad Verma,Bahujan Samaj Party,367835,35.24,198205,1.98L,19
+S06_16,Anand,Gujarat,Patel Mitesh Rameshbhai (Bakabhai),BJP,633097,57.1,Bharatbhai Madhavsinh Solanki,INC,435379,39.27,197718,1.98L,17.83
+S25_40,Asansol,West Bengal,Babul Supriyo,BJP,633378,51.16,Moon Moon Sen,All India Trinamool Congress,435741,35.19,197637,1.98L,15.97
+S13_11,Bhandara - Gondiya,Maharashtra,Sunil Baburao Mendhe,BJP,650243,52.23,Panchabudhe Nana Jairam,Nationalist Congress Party,452849,36.38,197394,1.97L,15.85
+U07_1,Puducherry,Puducherry,Ve. Vaithilingam,INC,444981,56.27,Dr. Narayanasamy Kesavan,All India N.r. Congress,247956,31.36,197025,1.97L,24.91
+S06_3,Patan,Gujarat,Dabhi Bharatsinhji Shankarji,BJP,633368,56.24,Jagdish Thakor,INC,439489,39.02,193879,1.94L,17.22
+S11_7,Ponnani,Kerala,E.T. Mohammed Basheer,Indian Union Muslim League,521824,51.3,P.v. Anvar Puthan Veetil,Independent,328551,32.3,193273,1.93L,19
+S25_30,Tamluk,West Bengal,Adhikari Dibyendu,All India Trinamool Congress,724433,50.08,Sidharthashankar Naskar,BJP,534268,36.94,190165,1.9L,13.14
+S29_12,Nagarkurnool,Telangana,Pothuganti Ramulu,Telangana Rashtra Samithi,499672,50.48,Dr Mallu Ravi,INC,309924,31.31,189748,1.9L,19.17
+S13_8,Wardha,Maharashtra,Ramdas Chandrabhanji Tadas,BJP,578364,53.92,Charulata Rao Tokas,INC,391173,36.47,187191,1.87L,17.45
+S22_38,Tirunelveli,Tamil Nadu,Gnanathiraviam S.,Dravida Munnetra Kazhagam,522623,50.26,Paul Manoj Pandian,All India Anna Dravida Munnetra Kazhagam,337166,32.43,185457,1.85L,17.83
+S24_52,Allahabad,Uttar Pradesh,Rita Bahuguna Joshi,BJP,494454,55.62,Rajendra Singh Patel,Samajwadi Party,310179,34.89,184275,1.84L,20.73
+S27_3,Godda,Jharkhand,Nishikant Dubey,BJP,637610,53.4,Pradeep Yadav,Jharkhand Vikas Morcha (Prajatantrik),453383,37.97,184227,1.84L,15.43
+S25_3,Jalpaiguri,West Bengal,Dr. Jayanta Kumar Roy,BJP,760145,50.65,Bijoy Chandra Barman,All India Trinamool Congress,576141,38.39,184004,1.84L,12.26
+S10_27,Chikkballapur,Karnataka,B.N. Bache Gowda,BJP,745912,53.78,M.veerappa Moily,INC,563802,40.65,182110,1.82L,13.13
+S20_14,Nagaur,Rajasthan,Hanuman Beniwal,Rashtriya Loktantrik Party,660051,54.86,Dr. Jyoti Mirdha,INC,478791,39.8,181260,1.81L,15.06
+S22_20,Coimbatore,Tamil Nadu,Natarajan P.R.,Communist Party Of India  (Marxist),571150,45.66,Radhakrishnan. C.p,BJP,392007,31.34,179143,1.79L,14.32
+S13_46,Ratnagiri - Sindhudurg,Maharashtra,Vinayak Raut,Shivsena,458022,50.83,Nilesh Narayan Rane,"Maharashtra Swabhimaan Paksh,",279700,31.04,178322,1.78L,19.79
+S22_21,Pollachi,Tamil Nadu,Shanmuga Sundaram  K.,Dravida Munnetra Kazhagam,554230,51.23,Mahendran. C,All India Anna Dravida Munnetra Kazhagam,378347,34.97,175883,1.76L,16.26
+S24_8,Sambhal,Uttar Pradesh,Dr. Shafiqur Rehman Barq,Samajwadi Party,658006,55.6,Parameshvar Lal Saini,BJP,483180,40.83,174826,1.75L,14.77
+S25_36,Bankura,West Bengal,Dr. Subhas Sarkar,BJP,675319,49.23,Subrata Mukherjee,All India Trinamool Congress,500986,36.52,174333,1.74L,12.71
+S24_51,Phulpur,Uttar Pradesh,Keshari Devi Patel,BJP,544701,55.68,Pandhari Yadav,Samajwadi Party,372733,38.1,171968,1.72L,17.58
+S11_13,Idukki,Kerala,Dean Kuriakose,INC,498493,54.23,"Adv, Joice George",Independent,327440,35.62,171053,1.71L,18.61
+S10_13,Davanagere,Karnataka,G.M. Siddeshwar,BJP,652996,54.66,H B Manjappa,INC,483294,40.46,169702,1.7L,14.2
+S11_12,Ernakulam,Kerala,Hibi Eden,INC,491263,50.79,P Rajeev,Communist Party Of India  (Marxist),322110,33.3,169153,1.69L,17.49
+S13_39,Beed,Maharashtra,Pritam Gopinathrao Munde,BJP,678175,50.15,Bajrang Manohar Sonwane,Nationalist Congress Party,509807,37.7,168368,1.68L,12.45
+S10_3,Bagalkot,Karnataka,Gaddigoudar Parvatagouda Chandanagouda,BJP,664638,55.17,Veena Kashappanavar,INC,496451,41.21,168187,1.68L,13.96
+S29_17,Khammam,Telangana,Nama Nageswr Rao,Telangana Rashtra Samithi,567459,49.78,Renuka Chowdhury,INC,399397,35.04,168062,1.68L,14.74
+S04_28,Munger,Bihar,Rajiv Ranjan Singh (Lalan Singh),Janata Dal  (United),528762,51.03,Nilam Devi,INC,360825,34.82,167937,1.68L,16.21
+S24_25,Bareilly,Uttar Pradesh,Santosh Kumar Gangwar,BJP,565270,52.91,Bhagwat Saran Gangwar,Samajwadi Party,397988,37.25,167282,1.67L,15.66
+S24_36,Rae Bareli,Uttar Pradesh,Sonia Gandhi,INC,534918,55.8,Dinesh Pratap Singh,BJP,367740,38.36,167178,1.67L,17.44
+S24_5,Nagina,Uttar Pradesh,Girish Chandra,Bahujan Samaj Party,568378,56.31,Dr. Yashwant Singh,BJP,401546,39.78,166832,1.67L,16.53
+S24_59,Gonda,Uttar Pradesh,Kirti Vardhan Singh (Raja Bhaiya),BJP,508190,55.01,Vinod Kumar Alias Pandit Singh,Samajwadi Party,341830,37,166360,1.66L,18.01
+S01_10,Eluru,Andhra Pradesh,Kotagiri Sridhar,Yuvajana Sramika Rythu Congress Party,676809,50.97,Magantti Venkateswara Rao Babu,Telugu Desam,510884,38.47,165925,1.66L,12.5
+S04_34,Sasaram (Sc),Bihar,Chhedi Paswan,BJP,494800,50.76,Meira Kumar,INC,329055,33.76,165745,1.66L,17
+S07_6,Sonipat,Haryana,Ramesh Chander Kaushik,BJP,587664,52.03,Bhupinder Singh Hooda,INC,422800,37.43,164864,1.65L,14.6
+S13_44,Sangli,Maharashtra,Sanjaykaka Patil,BJP,508995,42.77,Vishal Prakashbapu Patil,Swabhimani Paksha,344643,28.96,164352,1.64L,13.81
+S19_13,Patiala,Punjab,Preneet Kaur,INC,532027,45.17,Surjit Singh Rakhra,Shiromani Akali Dal,369309,31.35,162718,1.63L,13.82
+S24_68,Lalganj,Uttar Pradesh,Sangeeta Azad,Bahujan Samaj Party,518820,54.01,Neelam Sonker,BJP,357223,37.19,161597,1.62L,16.82
+S24_29,Dhaurahra,Uttar Pradesh,Rekha Verma,BJP,512905,48.21,Arshad Iliyas Siddiqui,Bahujan Samaj Party,352294,33.12,160611,1.61L,15.09
+S11_9,Alathur,Kerala,Ramya Haridas,INC,533815,52.4,Dr. P.k.biju,Communist Party Of India  (Marxist),374847,36.8,158968,1.59L,15.6
+S13_42,Solapur,Maharashtra,Dr. Jai Sidheshwar Shivachary Mahaswamiji,BJP,524985,48.41,Shinde Sushilkumar Sambhajirao,INC,366377,33.78,158608,1.59L,14.63
+S24_45,Jalaun,Uttar Pradesh,Bhanu Pratap Singh Verma,BJP,581763,51.49,Ajay Singh (Pankaj),Bahujan Samaj Party,423386,37.47,158377,1.58L,14.02
+S26_1,Sarguja,Chhattisgarh,Renuka Singh Saruta,BJP,663711,51.82,Khel Sai Singh,INC,505838,39.5,157873,1.58L,12.32
+S22_9,Krishnagiri,Tamil Nadu,Dr. A. Chellakumar,INC,611298,52.64,K.p.munusamy,All India Anna Dravida Munnetra Kazhagam,454533,39.14,156765,1.57L,13.5
+S02_1,Arunachal West,Arunachal Pradesh,Kiren Rijiju,BJP,204553,63.43,Nabam Tuki,INC,47954,14.87,156599,1.57L,48.56
+S13_23,Bhiwandi,Maharashtra,Kapil Moreshwar Patil,BJP,523583,52.09,Taware Suresh Kashinath,INC,367254,36.54,156329,1.56L,15.55
+S12_25,Dhar,Madhya Pradesh,Chattarsingh Darbar,BJP,722147,53.73,Girwal Dinesh,INC,566118,42.12,156029,1.56L,11.61
+S24_43,Kanpur,Uttar Pradesh,Satyadev Pachauri,BJP,468937,55.63,Sriprakash Jaiswal,INC,313003,37.13,155934,1.56L,18.5
+S13_35,Baramati,Maharashtra,Supriya Sule,Nationalist Congress Party,686714,52.63,Kanchan Rahul Kool,BJP,530940,40.69,155774,1.56L,11.94
+S25_23,Kolkata Dakshin,West Bengal,Mala Roy,All India Trinamool Congress,573119,47.5,Chandra Kumar Bose,BJP,417927,34.64,155192,1.55L,12.86
+S22_34,Virudhunagar,Tamil Nadu,Manickam Tagore B. ,INC,470883,43.81,"Alagarsamy, R.",Desiya Murpokku Dravida Kazhagam,316329,29.43,154554,1.55L,14.38
+S01_14,Narasaraopet,Andhra Pradesh,Lavu Sri Krishna Devarayalu,Yuvajana Sramika Rythu Congress Party,745089,51.83,Rayapati Sambasivarao,Telugu Desam,591111,41.12,153978,1.54L,10.71
+S24_67,Bansgaon,Uttar Pradesh,Kamlesh Paswan,BJP,546673,56.41,Sadal Prasad,Bahujan Samaj Party,393205,40.57,153468,1.53L,15.84
+S18_15,Kendrapara,Odisha,Anubhav Mohanty,Biju Janata Dal,628939,50.87,Baijayant Panda,BJP,476355,38.53,152584,1.53L,12.34
+S15_1,Shillong,Meghalaya,Vincent H. Pala,INC,419689,53.52,Jemino Mawthoh,United Democratic Party,267256,34.08,152433,1.52L,19.44
+S04_38,Gaya (Sc),Bihar,Vijay Kumar,Janata Dal  (United),467007,48.79,Jitan Ram Manjhi,Hindustani Awam Morcha (Secular),314581,32.86,152426,1.52L,15.93
+S13_30,Mumbai South Central,Maharashtra,Rahul Ramesh Shewale,Shivsena,424913,53.3,Eknath M. Gaikwad,INC,272774,34.21,152139,1.52L,19.09
+S06_13,Junagadh,Gujarat,Chudasama Rajeshbhai Naranbhai,BJP,547952,54.51,Vansh Punjabhai Bhimabhai,INC,397767,39.57,150185,1.5L,14.94
+S18_13,Kandhamal,Odisha,Achyutananda Samanta,Biju Janata Dal,461679,49.01,Mahameghabahan Aira Kharabela Swain,BJP,312463,33.17,149216,1.49L,15.84
+S01_18,Kurnool,Andhra Pradesh,Sanjeev Kumar,Yuvajana Sramika Rythu Congress Party,602554,50.98,Kotla Jaya Surya Prakash Reddy,Telugu Desam,453665,38.38,148889,1.49L,12.6
+S11_18,Kollam,Kerala,N.K. Premachandran,Revolutionary Socialist Party,499677,51.61,K.n.balagopal,Communist Party Of India  (Marxist),350821,36.24,148856,1.49L,15.37
+S01_22,Nellore,Andhra Pradesh,Adala Prabhakara Reddy,Yuvajana Sramika Rythu Congress Party,683830,53.13,Beeda Masthan Rao,Telugu Desam,535259,41.59,148571,1.49L,11.54
+S04_39,Nawada,Bihar,Chandan Singh,Lok Jan Shakti Party,495684,52.59,Vibha Devi,Rashtriya Janata Dal,347612,36.88,148072,1.48L,15.71
+S10_24,Bangalore North,Karnataka,D.V. Sadananda Gowda,BJP,824500,52.87,Krishna Byregowda,INC,676982,43.41,147518,1.48L,9.46
+S04_32,Arrah,Bihar,R.K. Singh,BJP,566480,52.42,Raju Yadav,Communist Party Of India  (Marxist-leninist)  (Liberation),419195,38.79,147285,1.47L,13.63
+S22_15,Salem,Tamil Nadu,Parthiban S.R.,Dravida Munnetra Kazhagam,606302,48.29,Saravanan.k.r.s,All India Anna Dravida Munnetra Kazhagam,459376,36.59,146926,1.47L,11.7
+S12_3,Gwalior,Madhya Pradesh,Vivek Narayan Shejwalkar,BJP,627250,52.44,Ashok Singh,INC,480408,40.16,146842,1.47L,12.28
+S29_16,Mahabubabad,Telangana,Kavitha Malothu,Telangana Rashtra Samithi,462109,46.98,Balaram Naik Porika,INC,315446,32.07,146663,1.47L,14.91
+S22_26,Cuddalore,Tamil Nadu,T.R.V.S.  Ramesh,Dravida Munnetra Kazhagam,522160,50.05,Dr. R. Govindasamy,Pattali Makkal Katchi,378177,36.25,143983,1.44L,13.8
+S26_5,Bilaspur,Chhattisgarh,Arun Sao,BJP,634559,52.47,Atal Shrivastav,INC,492796,40.75,141763,1.42L,11.72
+S01_19,Anantapur,Andhra Pradesh,Talari Rangaiah,Yuvajana Sramika Rythu Congress Party,695208,51.79,J.c. Pavan Reddy,Telugu Desam,553780,41.26,141428,1.41L,10.53
+S10_16,Hassan,Karnataka,Prajwal Revanna,Janata Dal  (Secular),676606,52.96,Manju A,BJP,535282,41.9,141324,1.41L,11.06
+S10_10,Haveri,Karnataka,Udasi S.C. ,BJP,683660,53.97,D.r. Patil,INC,542778,42.85,140882,1.41L,11.12
+S01_20,Hindupur,Andhra Pradesh,Kuruva Gorantla Madhav,Yuvajana Sramika Rythu Congress Party,706602,52.79,Kristappa . Nimmala,Telugu Desam,565854,42.27,140748,1.41L,10.52
+S19_3,Khadoor Sahib,Punjab,Jasbir Singh Gill (Dimpa),INC,459710,43.95,Bibi Jagir Kaur,Shiromani Akali Dal,319137,30.51,140573,1.41L,13.44
+S03_6,Barpeta,Assam,Abdul Khaleque,INC,645173,44.23,Kumar Deepak Das,Asom Gana Parishad,504866,34.61,140307,1.4L,9.62
+S22_32,Madurai,Tamil Nadu,Venkatesan S.,Communist Party Of India  (Marxist),447075,44,Raj Satyen V.v.r,All India Anna Dravida Munnetra Kazhagam,307680,30.28,139395,1.39L,13.72
+S10_21,Mysore,Karnataka,Prathap Simha,BJP,688974,52.27,C.h.vijayashankar,INC,550327,41.75,138647,1.39L,10.52
+S03_8,Mangaldoi,Assam,Dilip Saikia,BJP,735469,48.83,Bhubaneswar Kalita,INC,596924,39.63,138545,1.39L,9.2
+S04_20,Saran,Bihar,Rajiv Pratap Rudy,BJP,499342,53.03,Chandrika Roy,Rashtriya Janata Dal,360913,38.33,138429,1.38L,14.7
+S01_25,Chittoor,Andhra Pradesh,N. Reddeppa,Yuvajana Sramika Rythu Congress Party,686792,52.05,Naramalli Siva Prasad,Telugu Desam,549521,41.65,137271,1.37L,10.4
+S04_9,Araria,Bihar,Pradeep Kumar Singh,BJP,618434,52.87,Sarfaraz Alam,Rashtriya Janata Dal,481193,41.14,137241,1.37L,11.73
+S13_5,Buldhana,Maharashtra,Jadhav Prataprao Ganpatrao,Shivsena,521977,46.59,Dr. Rajendra Bhaskarrav Shingne,Nationalist Congress Party,388690,34.69,133287,1.33L,11.9
+S24_31,Hardoi,Uttar Pradesh,Jai Prakash,BJP,568143,53.72,Usha Verma,Samajwadi Party,435669,41.2,132474,1.32L,12.52
+S11_11,Chalakudy,Kerala,Benny Behanan,INC,473444,47.81,Innocent,Communist Party Of India  (Marxist),341170,34.45,132274,1.32L,13.36
+S13_29,Mumbai North Central,Maharashtra,Poonam Mahajan,BJP,486672,53.97,Dutt Priya Sunil,INC,356667,39.55,130005,1.3L,14.42
+S24_56,Bahraich,Uttar Pradesh,Akshaibar Lal,BJP,525982,53.14,Shabbir Balmiki,Samajwadi Party,397230,40.13,128752,1.29L,13.01
+S22_13,Viluppuram,Tamil Nadu,Ravikumar D.,Dravida Munnetra Kazhagam,559585,49.28,Vadivel Ravanan S,Pattali Makkal Katchi,431517,38,128068,1.28L,11.28
+S06_19,Dahod,Gujarat,Jashvantsinh Sumanbhai Bhabhor,BJP,561760,52.84,Katara Babubhai Khimabhai,INC,434164,40.84,127596,1.28L,12
+S13_40,Osmanabad,Maharashtra,Omprakash Bhupalsinh (Pawan Rajenimbalkar),Shivsena,596640,49.52,Ranajagjitsinha Padmasinha Patil,Nationalist Congress Party,469074,38.94,127566,1.28L,10.58
+S22_35,Ramanathapuram,Tamil Nadu,K. Navaskani,Indian Union Muslim League,469943,44.08,Nainar Nagenthran,BJP,342821,32.16,127122,1.27L,11.92
+S25_24,Kolkata Uttar,West Bengal,Bandyopadhyay Sudip,All India Trinamool Congress,474891,49.96,Rahul (Biswajit) Sinha,BJP,347796,36.59,127095,1.27L,13.37
+S13_9,Ramtek,Maharashtra,Krupal Balaji Tumane,Shivsena,597126,49.9,Kishore Uttamrao Gajbhiye,INC,470343,39.3,126783,1.27L,10.6
+S13_45,Satara,Maharashtra,Udayanraje Pratapsinhmaharaj Bhonsle,Nationalist Congress Party,579026,51.91,Narendra Annasaheb Patil,Shivsena,452498,40.57,126528,1.27L,11.34
+S10_20,Mandya,Karnataka,Sumalatha Ambareesh,Independent,703660,51.02,Nikhil Kumaraswamy,Janata Dal  (Secular),577784,41.89,125876,1.26L,9.13
+S12_4,Guna,Madhya Pradesh,Krishna Pal Singh (Dr. K.P.  Yadav),BJP,614049,52.11,Jyotiraditya M. Scindia,INC,488500,41.45,125549,1.26L,10.66
+S24_22,Etah,Uttar Pradesh,Rajveer Singh (Raju Bhaiya),BJP,545348,54.56,Ku. Devendra Singh Yadav,Samajwadi Party,422678,42.28,122670,1.23L,12.28
+S24_70,Ghosi,Uttar Pradesh,Atul Kumar Singh,Bahujan Samaj Party,573829,50.3,Harinarayan,BJP,451261,39.56,122568,1.23L,10.74
+S01_8,Rajahmundry,Andhra Pradesh,Margani Bharat,Yuvajana Sramika Rythu Congress Party,582024,46.55,Maganti Roopa,Telugu Desam,460390,36.82,121634,1.22L,9.73
+S18_14,Cuttack,Odisha,Bhartruhari Mahtab,Biju Janata Dal,524592,49.51,Prakash Mishra,BJP,403391,38.07,121201,1.21L,11.44
+S22_37,Tenkasi,Tamil Nadu,Dhanush M. Kumar,Dravida Munnetra Kazhagam,476156,44.69,Dr.krishnasamy.k,All India Anna Dravida Munnetra Kazhagam,355870,33.4,120286,1.2L,11.29
+S13_38,Shirdi,Maharashtra,Sadashiv Kisan Lokhande,Shivsena,486820,47.29,Kamble Bhausaheb Malhari,INC,366625,35.62,120195,1.2L,11.67
+S24_75,Ghazipur,Uttar Pradesh,Afzal Ansari,Bahujan Samaj Party,566082,51.2,Manoj Sinha,BJP,446690,40.4,119392,1.19L,10.8
+S10_1,Chikkodi,Karnataka,Annasaheb Shankar Jolle,BJP,645017,52.98,Prakash Babanna Hukkeri,INC,526140,43.21,118877,1.19L,9.77
+S13_14,Yavatmal-washim,Maharashtra,Bhavana Pundlikrao Gawali,Shivsena,542098,46.17,Thakre Manikrao Govindrao,INC,424159,36.12,117939,1.18L,10.05
+S24_39,Pratapgarh,Uttar Pradesh,Sangam Lal Gupta,BJP,436291,47.7,Ashok Tripathi,Bahujan Samaj Party,318539,34.83,117752,1.18L,12.87
+S10_6,Raichur,Karnataka,Raja Amareshwara Naik,BJP,598337,53.21,B. V Naik,INC,480621,42.75,117716,1.18L,10.46
+S04_33,Buxar,Bihar,Ashwini Kumar Choubey,BJP,473053,47.94,Jagadanand Singh,Rashtriya Janata Dal,355444,36.02,117609,1.18L,11.92
+S04_18,Siwan,Bihar,Kavita Singh,Janata Dal  (United),448473,45.54,Hena Shahab,Rashtriya Janata Dal,331515,33.66,116958,1.17L,11.88
+S10_7,Bidar,Karnataka,Bhagwanth Khuba,BJP,585471,52.41,Eshwar B. Khandre,INC,468637,41.95,116834,1.17L,10.46
+S24_24,Aonla,Uttar Pradesh,Dharmendra Kashyap,BJP,537675,51.07,Ruchivira,Bahujan Samaj Party,423932,40.27,113743,1.14L,10.8
+S12_1,Morena,Madhya Pradesh,Narendra Singh Tomar,BJP,541689,47.63,Ramniwas Rawat,INC,428348,37.66,113341,1.13L,9.97
+S24_71,Salempur,Uttar Pradesh,Ravinder,BJP,467241,50.73,R S Kushwaha,Bahujan Samaj Party,354764,38.52,112477,1.12L,12.21
+S26_6,Rajnandgaon,Chhattisgarh,Santosh Pandey,BJP,662387,50.68,Bhola Ram Sahu,INC,550421,42.11,111966,1.12L,8.57
+S25_31,Kanthi,West Bengal,Adhikari Sisir,All India Trinamool Congress,711872,49.98,Dr. Debasish Samanta,BJP,600204,42.14,111668,1.12L,7.84
+S25_14,Bangaon,West Bengal,Shantanu Thakur,BJP,687622,48.85,Mamata Thakur,All India Trinamool Congress,576028,40.92,111594,1.12L,7.93
+S20_12,Tonk-sawai Madhopur,Rajasthan,Sukhbir Singh Jaunapuria,BJP,644319,52.24,Namonarayan,INC,533028,43.21,111291,1.11L,9.03
+S19_12,Sangrur,Punjab,Bhagwant Mann,Aam Aadmi Party,413561,37.4,Kewal Singh Dhillon,INC,303350,27.43,110211,1.1L,9.97
+S24_53,Barabanki,Uttar Pradesh,Upendra Singh Rawat,BJP,535917,46.39,Ram Sagar Rawat,Samajwadi Party,425777,36.85,110140,1.1L,9.54
+S24_7,Rampur,Uttar Pradesh,Mohammad Azam Khan,Samajwadi Party,559177,52.71,Jayaprada Nahata,BJP,449180,42.34,109997,1.1L,10.37
+S25_17,Barasat,West Bengal,Dr. Kakoli Ghoshdastidar,All India Trinamool Congress,648084,46.47,Mrinal Kanti Debnath,BJP,538101,38.58,109983,1.1L,7.89
+S25_32,Ghatal,West Bengal,Adhikari Deepak (Dev),All India Trinamool Congress,717959,48.22,Bharati Ghosh,BJP,609986,40.97,107973,1.08L,7.25
+S25_41,Bolpur,West Bengal,Asit Kumar Mal,All India Trinamool Congress,699171,47.85,Das Ramprasad,BJP,592769,40.57,106402,1.06L,7.28
+S11_14,Kottayam,Kerala,Thomas Chazhikadan,Kerala Congress  (M),421046,46.25,V.n. Vasavan,Communist Party Of India  (Marxist),314787,34.58,106259,1.06L,11.67
+S24_60,Domariyaganj,Uttar Pradesh,Jagdambika Pal,BJP,492253,49.96,Aftab Alam,Bahujan Samaj Party,386932,39.27,105321,1.05L,10.69
+S25_25,Howrah,West Bengal,Prasun Banerjee,All India Trinamool Congress,576711,47.18,Rantidev Sengupta,BJP,473016,38.7,103695,1.04L,8.48
+S18_8,Jajpur,Odisha,Sarmistha Sethi,Biju Janata Dal,544020,49.81,Amiya Kanta Mallick,BJP,442327,40.5,101693,1.02L,9.31
+S24_30,Sitapur,Uttar Pradesh,Rajesh Verma,BJP,514528,48.33,Nakul Dubey,Bahujan Samaj Party,413695,38.86,100833,1.01L,9.47
+S24_32,Misrikh,Uttar Pradesh,Ashok Kumar Rawat,BJP,534429,52.05,Dr Neelu Satyarthi,Bahujan Samaj Party,433757,42.25,100672,1.01L,9.8
+S13_31,Mumbai   South,Maharashtra,Arvind Ganpat Sawant,Shivsena,421937,52.64,Deora Milind Murli,INC,321870,40.15,100067,1L,12.49
+S11_20,Thiruvananthapuram,Kerala,Dr. Shashi Tharoor,INC,416131,41.19,Kummanam Rajasekharan,BJP,316142,31.3,99989,99.99K,9.89
+S19_2,Amritsar,Punjab,Gurjeet Singh Aujla,INC,445032,51.78,Hardeep Singh Puri,BJP,345406,40.19,99626,99.63K,11.59
+S27_1,Rajmahal,Jharkhand,Vijay Kumar Hansdak,Jharkhand Mukti Morcha,507830,48.47,Hemlal Murmu,BJP,408635,39,99195,99.2K,9.47
+S25_27,Srerampur,West Bengal,Kalyan Banerjee,All India Trinamool Congress,637707,45.5,Debjit Sarkar,BJP,539171,38.47,98536,98.54K,7.03
+S24_6,Moradabad,Uttar Pradesh,Dr. S.T.  Hasan,Samajwadi Party,649416,50.65,Kunwar Sarvesh Kumar,BJP,551538,43.01,97878,97.88K,7.64
+S20_10,Karauli-dholpur,Rajasthan,Manoj Rajoria,BJP,526443,52.75,Sanjay Kumar,INC,428761,42.96,97682,97.68K,9.79
+S12_14,Mandla,Madhya Pradesh,Faggan Singh Kulaste,BJP,737266,48.59,Kamal Singh Maravi,INC,639592,42.15,97674,97.67K,6.44
+S13_48,Hatkanangle,Maharashtra,Dhairyasheel Sambhajirao Mane,Shivsena,585776,46.78,Raju Anna Shetti,Swabhimani Paksha,489737,39.11,96039,96.04K,7.67
+S24_55,Ambedkar Nagar,Uttar Pradesh,Ritesh Pandey,Bahujan Samaj Party,564118,51.75,Mukut Bihari,BJP,468238,42.95,95880,95.88K,8.8
+S13_1,Nandurbar,Maharashtra,Dr. Heena Vijaykumar Gavit,BJP,639136,49.86,Adv. K. C. Padavi,INC,543507,42.4,95629,95.63K,7.46
+S10_5,Gulbarga,Karnataka,Dr.  Umesh G. Jadhav,BJP,620192,52.14,Mallikarjun Kharge,INC,524740,44.12,95452,95.45K,8.02
+S29_2,Peddapalle,Telangana,Venkatesh Netha Borlakunta,Telangana Rashtra Samithi,441321,45.49,Agam Chandrasekhar,INC,346141,35.68,95180,95.18K,9.81
+S18_20,Berhampur,Odisha,Chandra Sekhar Sahu,Biju Janata Dal,443843,44.84,Bhrugu Baxipatra,BJP,348999,35.26,94844,94.84K,9.58
+S11_2,Kannur,Kerala,K. Sudhakaran,INC,529741,50.27,P. K. Sreemathi Teacher,Communist Party Of India  (Marxist),435182,41.29,94559,94.56K,8.98
+S24_21,Mainpuri,Uttar Pradesh,Mulayam Singh Yadav,Samajwadi Party,524926,53.75,Prem Singh Shakya,BJP,430537,44.09,94389,94.39K,9.66
+S19_8,Fatehgarh Sahib,Punjab,Amar Singh,INC,411651,41.75,Darbara Singh Guru,Shiromani Akali Dal,317753,32.23,93898,93.9K,9.52
+S11_10,Thrissur,Kerala,T.N. Prathapan,INC,415089,39.84,Rajaji Mathew Thomas,Communist Party Of India,321456,30.85,93633,93.63K,8.99
+S22_18,Tiruppur,Tamil Nadu,Subbarayan K. ,Communist Party Of India,508725,45.44,"Anandan, M.s.m.",All India Anna Dravida Munnetra Kazhagam,415357,37.1,93368,93.37K,8.34
+S24_2,Kairana,Uttar Pradesh,Pradeep Kumar,BJP,566961,50.44,Tabassum Begum,Samajwadi Party,474801,42.24,92160,92.16K,8.2
+S12_24,Ratlam,Madhya Pradesh,Guman Singh Damor,BJP,696103,49.7,Kantilal Bhuria,INC,605467,43.23,90636,90.64K,6.47
+S26_9,Mahasamund,Chhattisgarh,Chunni Lal Sahu,BJP,616580,50.44,Dhanendra Sahu,INC,526069,43.04,90511,90.51K,7.4
+S24_34,Mohanlalganj,Uttar Pradesh,Kaushal Kishore,BJP,629748,49.62,C. L. Verma,Bahujan Samaj Party,539519,42.51,90229,90.23K,7.11
+S29_3,Karimnagar,Telangana,Bandi Sanjay Kumar,BJP,498276,43.42,Boianapalli Vinod Kumar,Telangana Rashtra Samithi,408768,35.62,89508,89.51K,7.8
+S25_38,Bardhaman Purba,West Bengal,Sunil Kumar Mondal,All India Trinamool Congress,640834,44.52,Paresh Chandra Das,BJP,551523,38.32,89311,89.31K,6.2
+S01_5,Anakapalli,Andhra Pradesh,Dr. Beesetti Venkata Satyavathi,Yuvajana Sramika Rythu Congress Party,586226,47.33,Adari Anand Kumar,Telugu Desam,497034,40.13,89192,89.19K,7.2
+S25_34,Medinipur,West Bengal,Dilip Ghosh,BJP,685433,48.62,Manas Ranjan Bhunia,All India Trinamool Congress,596481,42.31,88952,88.95K,6.31
+S25_42,Birbhum,West Bengal,Satabdi Roy,All India Trinamool Congress,654077,45.13,Dudh Kumar Mondal,BJP,565153,38.99,88924,88.92K,6.14
+S13_22,Palghar,Maharashtra,Rajendra Dhedya Gavit,Shivsena,580479,48.3,Baliram Sukur Jadhav,Bahujan Vikas Aaghadi,491596,40.9,88883,88.88K,7.4
+S13_43,Madha,Maharashtra,Ranjeetsinha Hindurao Naik- Nimbalkar,BJP,586314,48.2,Sanjaymama Vitthalrao Shinde,Nationalist Congress Party,500550,41.15,85764,85.76K,7.05
+S11_5,Kozhikode,Kerala,M.K. Raghavan,INC,493444,45.85,A.pradeep Kumar,Communist Party Of India  (Marxist),408219,37.93,85225,85.23K,7.92
+S11_3,Vadakara,Kerala,K. Muraleedharan,INC,526755,49.43,P.jayarajan,Communist Party Of India  (Marxist),442092,41.49,84663,84.66K,7.94
+S04_35,Karakat,Bihar,Mahabali Singh,Janata Dal  (United),398408,45.86,Upendra Kushwaha,Rashtriya Lok Samta Party,313866,36.13,84542,84.54K,9.73
+S25_7,Maldaha Uttar,West Bengal,Khagen Murmu,BJP,509524,37.61,Mausam Noor,All India Trinamool Congress,425236,31.39,84288,84.29K,6.22
+S19_9,Faridkot,Punjab,Mohammad Sadique,INC,419065,42.98,Gulzar Singh Ranike,Shiromani Akali Dal,335809,34.44,83256,83.26K,8.54
+S26_3,Janjgir-champa,Chhattisgarh,Guharam Ajgalley,BJP,572790,45.91,Ravi Parasram Bhardwaj,INC,489535,39.24,83255,83.26K,6.67
+S03_12,Jorhat,Assam,Topon Kumar Gogoi,BJP,543288,51.35,Sushanta Borgohain,INC,460635,43.54,82653,82.65K,7.81
+S19_1,Gurdaspur,Punjab,Sunny Deol,BJP,558719,50.61,Sunil Jakhar,INC,476260,43.14,82459,82.46K,7.47
+S03_2,Silchar,Assam,Rajdeep Roy,BJP,499414,52.59,Sushmita Dev,INC,417818,43.99,81596,81.6K,8.6
+S24_73,Jaunpur,Uttar Pradesh,Shyam Singh Yadav,Bahujan Samaj Party,521128,50.08,Krishna Pratap Singh K.p.,BJP,440192,42.3,80936,80.94K,7.78
+S25_10,Baharampur,West Bengal,Adhir Ranjan Chowdhury,INC,591106,45.47,Apurba Sarkar (David),All India Trinamool Congress,510410,39.26,80696,80.7K,6.21
+S05_1,North Goa,Goa,Shripad Yesso Naik,BJP,244844,57.12,Girish Raya Chodankar,INC,164597,38.4,80247,80.25K,18.72
+S10_18,Chitradurga,Karnataka,A. Narayanaswamy,BJP,626195,50.26,B N Chandrappa,INC,546017,43.82,80178,80.18K,6.44
+S20_11,Dausa,Rajasthan,Jaskaur Meena,BJP,548733,51.63,Savita Meena,INC,470289,44.25,78444,78.44K,7.38
+S25_37,Bishnupur,West Bengal,Khan Saumitra,BJP,657019,46.25,Shyamal Santra,All India Trinamool Congress,578972,40.75,78047,78.05K,5.5
+S29_11,Mahbubnagar,Telangana,Manne Srinivas Reddy,Telangana Rashtra Samithi,411402,41.78,Aruna D.k,BJP,333573,33.88,77829,77.83K,7.9
+S13_12,Gadchiroli-chimur,Maharashtra,Ashok Mahadeorao Nete,BJP,519968,45.5,Dr. Namdeo Dalluji Usendi,INC,442442,38.72,77526,77.53K,6.78
+S22_33,Theni,Tamil Nadu,Raveendranath Kumar P.,All India Anna Dravida Munnetra Kazhagam,504813,43.02,"Elangovan, E.v.k.s.",INC,428120,36.48,76693,76.69K,6.54
+S19_7,Ludhiana,Punjab,Ravneet Singh Bittu,INC,383795,36.66,Simarjeet Singh Bains,Lok Insaaf Party,307423,29.36,76372,76.37K,7.3
+S14_2,Outer Manipur,Manipur,Lorho S. Pfoze,Naga Peoples Front,363527,42.37,Houlim Shokhopao Mate,BJP,289745,33.77,73782,73.78K,8.6
+S25_28,Hooghly,West Bengal,Locket Chatterjee,BJP,671448,46.06,Dr. Ratna De (Nag),All India Trinamool Congress,598086,41.03,73362,73.36K,5.03
+S04_37,Aurangabad,Bihar,Sushil Kumar Singh,BJP,431541,45.83,Upendra Prasad,Hindustani Awam Morcha (Secular),358934,38.12,72607,72.61K,7.71
+S27_10,Singhbhum,Jharkhand,Geeta Kora,INC,431815,49.11,Laxman Giluwa,BJP,359660,40.9,72155,72.16K,8.21
+S10_25,Bangalore Central,Karnataka,P.C. Mohan,BJP,602853,50.35,Rizwan Arshad,INC,531885,44.43,70968,70.97K,5.92
+S29_4,Nizamabad,Telangana,Arvind Dharmapuri,BJP,480584,45.22,Kalvakuntla Kavitha,Telangana Rashtra Samithi,409709,38.55,70875,70.88K,6.67
+S22_10,Dharmapuri,Tamil Nadu,Dnv Senthilkumar S. ,Dravida Munnetra Kazhagam,574988,47.01,Anbumani Ramadoss,Pattali Makkal Katchi,504235,41.22,70753,70.75K,5.79
+S09_2,Srinagar,Jammu & Kashmir,Farooq Abdullah,Jammu & Kashmir National Conference,106750,57.14,Aga Syed Mohsin,Peoples Democratic Party,36700,19.64,70050,70.05K,37.5
+S02_2,Arunachal East,Arunachal Pradesh,Tapir Gao,BJP,153883,52.38,Lowangcha Wanglat,INC,83935,28.57,69948,69.95K,23.81
+S24_4,Bijnor,Uttar Pradesh,Malook Nagar,Bahujan Samaj Party,561045,50.97,Raja Bharatendra Singh,BJP,491104,44.61,69941,69.94K,6.36
+S18_4,Keonjhar,Odisha,Chandrani Murmu,Biju Janata Dal,526359,44.75,Ananta Nayak,BJP,460156,39.12,66203,66.2K,5.63
+S26_2,Raigarh,Chhattisgarh,Gomati Sai,BJP,658335,48.76,Laljeet Singh Rathia,INC,592308,43.87,66027,66.03K,4.89
+S24_54,Faizabad,Uttar Pradesh,Lallu Singh,BJP,529021,48.66,Anand Sen,Samajwadi Party,463544,42.64,65477,65.48K,6.02
+S24_41,Etawah,Uttar Pradesh,Dr. Ram Shankar Katheria,BJP,522119,50.8,Kamlesh Kumar,Samajwadi Party,457682,44.53,64437,64.44K,6.27
+S15_2,Tura,Meghalaya,Agatha K. Sangma,National People's Party,304455,52.22,Dr. Mukul Sangma,INC,240425,41.24,64030,64.03K,10.98
+S18_1,Bargarh,Odisha,Suresh Pujari,BJP,581245,46.58,Prasanna Acharya,Biju Janata Dal,517306,41.45,63939,63.94K,5.13
+S24_9,Amroha,Uttar Pradesh,Kunwar Danish Ali,Bahujan Samaj Party,601082,51.41,Kanwar Singh Tanwar,BJP,537834,46,63248,63.25K,5.41
+S25_12,Krishnanagar,West Bengal,Mahua Moitra,All India Trinamool Congress,614872,45,Kalyan Chaubey,BJP,551654,40.37,63218,63.22K,4.63
+S29_8,Secundrabad,Telangana,G. Kishan Reddy,BJP,384780,42.05,Talasani Sai Kiran Yadav,Telangana Rashtra Samithi,322666,35.26,62114,62.11K,6.79
+S11_16,Mavelikkara,Kerala,Kodikunnil Suresh,INC,440415,45.36,Chittayam Gopakumar,Communist Party Of India,379277,39.06,61138,61.14K,6.3
+S25_5,Raiganj,West Bengal,Debasree Chaudhuri,BJP,511652,40.06,Agarwal Kanaialal,All India Trinamool Congress,451078,35.32,60574,60.57K,4.74
+S01_11,Machilipatnam,Andhra Pradesh,Balashowry Vallabhaneni,Yuvajana Sramika Rythu Congress Party,571436,46.02,Konakalla Narayana Rao,Telugu Desam,511295,41.18,60141,60.14K,4.84
+S24_48,Banda,Uttar Pradesh,R.K. Singh Patel,BJP,477926,46.2,Shyama Charan Gupta,Samajwadi Party,418988,40.5,58938,58.94K,5.7
+S29_1,Adilabad,Telangana,Soyam Bapu Rao,BJP,377374,35.48,Godam Nagesh,Telangana Rashtra Samithi,318814,29.97,58560,58.56K,5.51
+S13_36,Shirur,Maharashtra,Dr. Amol Ramsing Kolhe,Nationalist Congress Party,635830,49.17,Adhalrao Shivaji Dattatrey,Shivsena,577347,44.65,58483,58.48K,4.52
+S04_11,Katihar,Bihar,Dulal Chandra Goswami,Janata Dal  (United),559423,50.05,Tariq Anwar,INC,502220,44.93,57203,57.2K,5.12
+S10_9,Bellary,Karnataka,Y. Devendrappa,BJP,616388,50.44,V. S. Ugrappa,INC,560681,45.89,55707,55.71K,4.55
+S24_37,Amethi,Uttar Pradesh,Smriti Irani,BJP,468514,49.71,Rahul Gandhi,INC,413394,43.86,55120,55.12K,5.85
+S24_80,Robertsganj,Uttar Pradesh,Pakauri Lal Kol,Apna Dal (Soneylal),447914,45.32,Bhai Lal,Samajwadi Party,393578,39.82,54336,54.34K,5.5
+S25_1,Cooch Behar,West Bengal,Nisith Pramanik,BJP,731594,47.98,Adhikary Paresh Chandra,All India Trinamool Congress,677363,44.43,54231,54.23K,3.55
+S25_16,Dum Dum,West Bengal,Sougata Ray,All India Trinamool Congress,512062,42.51,Samik Bhattacharya,BJP,459060,38.11,53002,53K,4.4
+S19_5,Hoshiarpur,Punjab,Som Parkash,BJP,421320,42.52,Dr. Raj Kumar Chabbewal,INC,372790,37.63,48530,48.53K,4.89
+S01_3,Vizianagaram,Andhra Pradesh,Bellana Chandra Sekhar,Yuvajana Sramika Rythu Congress Party,578418,47.49,Ashok Gajapathi Raju Pusapati,Telugu Desam,530382,43.55,48036,48.04K,3.94
+S27_2,Dumka,Jharkhand,Sunil Soren,BJP,484923,47.26,Shibu Soren,Jharkhand Mukti Morcha,437333,42.63,47590,47.59K,4.63
+U02_1,Chandigarh,Chandigarh,Kirron Kher,BJP,231188,50.64,Pawan Kumar Bansal,INC,184218,40.35,46970,46.97K,10.29
+S19_6,Anandpur Sahib,Punjab,Manish Tewari,INC,428045,39.57,Professor Prem Singh Chandumajra,Shiromani Akali Dal,381161,35.24,46884,46.88K,4.33
+S13_13,Chandrapur,Maharashtra,Balubhau (Suresh Narayan Dhanorkar),INC,559507,45.18,Ahir Hansraj Gangaram,BJP,514744,41.56,44763,44.76K,3.62
+S11_17,Pathanamthitta,Kerala,Anto Antony,INC,380927,37.11,Veena George,Communist Party Of India  (Marxist),336684,32.8,44243,44.24K,4.31
+S24_78,Bhadohi,Uttar Pradesh,Ramesh Chand,BJP,510029,49.07,Rangnath Mishra,Bahujan Samaj Party,466414,44.87,43615,43.62K,4.2
+S18_12,Nabarangpur,Odisha,Ramesh Chandra Majhi,Biju Janata Dal,391234,33.91,Pradeep Kumar Majhi,INC,348334,30.19,42900,42.9K,3.72
+S13_17,Parbhani,Maharashtra,Jadhav Sanjay (Bandu) Haribhau,Shivsena,538941,43.02,Rajesh Uttamrao Vitekar,Nationalist Congress Party,496742,39.65,42199,42.2K,3.37
+S11_1,Kasaragod,Kerala,Rajmohan Unnithan,INC,474961,43.18,K. P. Sathishchandran,Communist Party Of India  (Marxist),434523,39.5,40438,40.44K,3.68
+S13_16,Nanded,Maharashtra,Prataprao Patil Chikhalikar,BJP,486806,43.1,Ashok Shankarrao Chavan,INC,446658,39.55,40148,40.15K,3.55
+S01_7,Amalapuram,Andhra Pradesh,Chinta Anuradha,Yuvajana Sramika Rythu Congress Party,485313,39.43,Ganti Harish Madhur (Balayogi),Telugu Desam,445347,36.18,39966,39.97K,3.25
+S04_31,Pataliputra,Bihar,Ram Kripal Yadav,BJP,509557,47.28,Misha Bharti,Rashtriya Janata Dal,470236,43.63,39321,39.32K,3.65
+S26_10,Bastar,Chhattisgarh,Deepak Baij,INC,402527,44.1,Baidu Ram Kashyap,BJP,363545,39.83,38982,38.98K,4.27
+S24_50,Kaushambi,Uttar Pradesh,Vinod Kumar Sonkar,BJP,383009,39.31,Indrajeet Saroj,Samajwadi Party,344287,35.33,38722,38.72K,3.98
+S10_8,Koppal,Karnataka,Karadi Sanganna Amarappa,BJP,586783,49.3,K.rajashekar Basavaraj Hitnal,INC,548386,46.07,38397,38.4K,3.23
+S03_1,Karimganj,Assam,Kripanath Mallah,BJP,473046,44.62,Radheshyam Biswas,All India United Democratic Front,434657,41,38389,38.39K,3.62
+S11_19,Attingal,Kerala,Adoor Prakash,INC,380995,37.91,Dr. A. Sampath,Communist Party Of India  (Marxist),342748,34.11,38247,38.25K,3.8
+S03_5,Kokrajhar,Assam,Naba Kumar Sarania,Independent,484560,32.75,Pramila Rani Brahma,Bodoland Peoples Front,446774,30.2,37786,37.79K,2.55
+S12_16,Chhindwara,Madhya Pradesh,Nakul Kamal Nath,INC,587305,47.06,Nathansaha Kawreti,BJP,549769,44.05,37536,37.54K,3.01
+S13_7,Amravati,Maharashtra,Navnit Ravi Rana,Independent,510947,45.93,Adsul Anandrao Vithoba,Shivsena,473996,42.61,36951,36.95K,3.32
+S24_62,Sant Kabir Nagar,Uttar Pradesh,Praveen Kumar Nishad,BJP,467543,43.97,Bheeshma Shankar,Bahujan Samaj Party,431794,40.61,35749,35.75K,3.36
+S18_9,Dhenkanal,Odisha,Mahesh Sahoo,Biju Janata Dal,522884,46.21,Rudra Narayan Pany,BJP,487472,43.08,35412,35.41K,3.13
+S04_10,Kishanganj,Bihar,Dr. Mohammad Jawed,INC,367017,33.32,Syed Mahmood Ashraf,Janata Dal  (United),332551,30.19,34466,34.47K,3.13
+S25_6,Balurghat,West Bengal,Sukanta Majumdar,BJP,539317,45.02,Arpita Ghosh,All India Trinamool Congress,506024,42.24,33293,33.29K,2.78
+S01_9,Narsapuram,Andhra Pradesh,Kanumuru Raghu Rama Krishna Raju,Yuvajana Sramika Rythu Congress Party,447594,38.11,V.v. Siva Rama Raju (Kalavapudi Siva),Telugu Desam,415685,35.39,31909,31.91K,2.72
+S13_32,Raigad,Maharashtra,Tatkare Sunil Dattatray,Nationalist Congress Party,486968,47.49,Anant Geete,Shivsena,455530,44.42,31438,31.44K,3.07
+S24_61,Basti,Uttar Pradesh,Harish Chandra Alias Harish Dwivedi,BJP,471162,44.68,Ram Prasad Chaudhary,Bahujan Samaj Party,440808,41.8,30354,30.35K,2.88
+S09_1,Baramulla,Jammu & Kashmir,Mohammad Akbar Lone,Jammu & Kashmir National Conference,133426,29.29,Raja Aijaz Ali,Jammu & Kashmir People Conference,103193,22.65,30233,30.23K,6.64
+S18_7,Bhadrak,Odisha,Manjulata Mandal,Biju Janata Dal,512305,41.86,Avimanyu Sethi,BJP,483502,39.51,28803,28.8K,2.35
+S24_20,Firozabad,Uttar Pradesh,Dr. Chandra Sen Jadon,BJP,495819,46.09,Akshay Yadav,Samajwadi Party,467038,43.41,28781,28.78K,2.68
+S18_11,Kalahandi,Odisha,Basanta Kumar Panda,BJP,433074,35.26,Puspendra Singh Deo,Biju Janata Dal,406260,33.08,26814,26.81K,2.18
+S26_4,Korba,Chhattisgarh,Jyotsna Charandas Mahant,INC,523410,46.03,Jyoti Nand Dubey,BJP,497061,43.72,26349,26.35K,2.31
+S01_6,Kakinada,Andhra Pradesh,Vanga Geethaviswanath,Yuvajana Sramika Rythu Congress Party,537630,43.54,Chalamalasetty Sunil,Telugu Desam,511892,41.46,25738,25.74K,2.08
+S29_13,Nalgonda,Telangana,Uttam Kumar Reddy Nalamada,INC,526028,44.74,Vemireddy Narasimha Reddy,Telangana Rashtra Samithi,500346,42.56,25682,25.68K,2.18
+S18_5,Mayurbhanj,Odisha,Bishweswar Tudu,BJP,483812,42.06,Dr Debashis Marndi,Biju Janata Dal,458556,39.86,25256,25.26K,2.2
+S18_18,Bhubaneswar,Odisha,Aparajita Sarangi,BJP,486991,48.45,Arup Mohan Patnaik,Biju Janata Dal,463152,46.07,23839,23.84K,2.38
+S24_11,Baghpat,Uttar Pradesh,Dr. Satyapal Singh,BJP,525789,50.32,Jayant Chaudhary,Rashtriya Lok Dal,502287,48.07,23502,23.5K,2.25
+S24_1,Saharanpur,Uttar Pradesh,Haji Fazlur Rehman,Bahujan Samaj Party,514139,41.74,Raghav Lakhanpal,BJP,491722,39.92,22417,22.42K,1.82
+S19_11,Bathinda,Punjab,Harsimrat Kaur Badal,Shiromani Akali Dal,492824,41.04,Amrinder Singh Raja Warring,INC,471052,39.23,21772,21.77K,1.81
+S18_10,Bolangir,Odisha,Sangeeta Kumari Singh Deo,BJP,498086,38.12,Kalikesh Narayan Singh Deo,Biju Janata Dal,478570,36.62,19516,19.52K,1.5
+S19_4,Jalandhar,Punjab,Santokh Singh Chaudhary,INC,385712,37.85,Charanjit Singh Atwal,Shiromani Akali Dal,366221,35.94,19491,19.49K,1.91
+S24_23,Badaun,Uttar Pradesh,Dr. Sanghmitra Maurya,BJP,511352,47.3,Dharmendra Yadav,Samajwadi Party,492898,45.59,18454,18.45K,1.71
+S14_1,Inner Manipur,Manipur,Dr. Rajkumar Ranjan Singh,BJP,263632,34.72,Oinam Nabakishore Singh,INC,245877,32.38,17755,17.76K,2.34
+S03_10,Nowgong,Assam,Pradyut Bordoloi,INC,739724,49.53,Sri Rupak Sharma,BJP,722972,48.41,16752,16.75K,1.12
+S17_1,Nagaland,Nagaland,Tokheho Yepthomi,Nationalist Democratic Progressive Party,500510,49.73,K L Chishi,INC,484166,48.11,16344,16.34K,1.62
+S01_15,Bapatla,Andhra Pradesh,Nandigam Suresh,Yuvajana Sramika Rythu Congress Party,598257,47.24,Malyadri Sriram,Telugu Desam,582192,45.97,16065,16.07K,1.27
+S24_72,Ballia,Uttar Pradesh,Virendra Singh,BJP,469114,47.4,Sanatan Pandey,Samajwadi Party,453595,45.83,15519,15.52K,1.57
+S25_15,Barrackpore,West Bengal,Arjun Singh,BJP,472994,42.82,Dinesh Trivedi,All India Trinamool Congress,458137,41.48,14857,14.86K,1.34
+S24_38,Sultanpur,Uttar Pradesh,Maneka Sanjai Gandhi,BJP,459196,45.91,"Chandra Bhadra Singh ""Ssonu""",Bahujan Samaj Party,444670,44.45,14526,14.53K,1.46
+S29_10,Chevella,Telangana,Dr. G. Ranjith Reddy,Telangana Rashtra Samithi,528148,40.62,Konda Vishweshwar Reddy,INC,513831,39.52,14317,14.32K,1.1
+S24_76,Chandauli,Uttar Pradesh,Dr. Mahendra Nath Pandey,BJP,510733,47.07,Sanjay Singh Chauhan,Samajwadi Party,496774,45.79,13959,13.96K,1.28
+S10_19,Tumkur,Karnataka,G.S. Basavaraj,BJP,596127,47.89,H. D. Devegowda,Janata Dal  (Secular),582788,46.82,13339,13.34K,1.07
+S18_6,Balasore,Odisha,Pratap Chandra Sarangi,BJP,483858,41.79,Rabindra Kumar Jena,Biju Janata Dal,470902,40.67,12956,12.96K,1.12
+S21_1,Sikkim,Sikkim,Indra Hang Subba,Sikkim Krantikari Morcha,166922,47.46,Dek Bahadur Katwal,Sikkim Democratic Front,154489,43.92,12433,12.43K,3.54
+S24_42,Kannauj,Uttar Pradesh,Subrat Pathak,BJP,563087,49.37,Dimple Yadav,Samajwadi Party,550734,48.29,12353,12.35K,1.08
+S25_33,Jhargram,West Bengal,Kunar Hembram,BJP,626583,44.56,Birbaha Saren,All India Trinamool Congress,614816,43.72,11767,11.77K,0.84
+S18_17,Puri,Odisha,Pinaki Misra,Biju Janata Dal,538321,47.4,Dr Sambit Patra,BJP,526607,46.37,11714,11.71K,1.03
+S11_8,Palakkad,Kerala,V.K. Sreekandan,INC,399274,38.83,M B Rajesh,Communist Party Of India  (Marxist),387637,37.7,11637,11.64K,1.13
+S09_4,Ladakh,Jammu & Kashmir,Jamyang Tsering Namgyal,BJP,42914,33.94,Sajjad Hussain,Independent,31984,25.3,10930,10.93K,8.64
+S29_7,Malkajgiri,Telangana,Anumula Revanth Reddy,INC,603748,38.63,Rajashekar Reddy Marri,Telangana Rashtra Samithi,592829,37.93,10919,10.92K,0.7
+S11_15,Alappuzha,Kerala,A.M. Ariff,Communist Party Of India  (Marxist),445970,40.96,Adv. Shanimol Osman,INC,435496,40,10474,10.47K,0.96
+S27_12,Lohardaga,Jharkhand,Sudarshan Bhagat,BJP,371595,45.45,Sukhdeo Bhagat,INC,361232,44.18,10363,10.36K,1.27
+U04_1,Daman & Diu,Daman & Diu,Lalubhai Babubhai Patel,BJP,37597,42.98,Ketan Dahyabhai Patel,INC,27655,31.62,9942,9942,11.36
+S05_2,South Goa,Goa,Cosme Francisco Caitano Sardinha,INC,201561,47.47,Adv. Narendra Sawaikar,BJP,191806,45.18,9755,9755,2.29
+S18_3,Sambalpur,Odisha,Nitesh Ganga Deb,BJP,473770,42.13,Nalini Kanta Pradhan,Biju Janata Dal,464608,41.32,9162,9162,0.81
+U03_1,Dadra And Nagar Haveli,Dadra & Nagar Haveli,Delkar Mohanbhai Sanjibhai,Independent,90421,45.44,Patel Natubhai Gomanbhai,BJP,81420,40.92,9001,9001,4.52
+S01_12,Vijayawada,Andhra Pradesh,Kesineni Srinivas (Nani),Telugu Desam,575498,45.04,Potluri.v.prasad ( P V P ),Yuvajana Sramika Rythu Congress Party,566772,44.36,8726,8726,0.68
+S25_8,Maldaha Dakshin,West Bengal,Abu Hasem Khan Chowdhury (Dalu),INC,444270,34.73,Sreerupa Mitra Chaudhury,BJP,436048,34.09,8222,8222,0.64
+S16_1,Mizoram,Mizoram,C. Lalrosanga,Mizo National Front,224286,44.89,Lalnghinglova Hmar,Independent,216146,43.26,8140,8140,1.63
+S07_7,Rohtak,Haryana,Arvind Kumar Sharma,BJP,573845,47.01,Deepender Singh Hooda,INC,566342,46.4,7503,7503,0.61
+S26_11,Kanker,Chhattisgarh,Mohan Mandavi,BJP,546233,47.12,Biresh Thakur,INC,539319,46.53,6914,6914,0.59
+S09_3,Anantnag,Jammu & Kashmir,Hasnain Masoodi,Jammu & Kashmir National Conference,40180,32.17,Ghulam Ahmad Mir,INC,33504,26.83,6676,6676,5.34
+S01_2,Srikakulam,Andhra Pradesh,Kinjarapu Ram Mohan Naidu,Telugu Desam,534544,46.19,Duvvada Srinivas,Yuvajana Sramika Rythu Congress Party,527891,45.61,6653,6653,0.58
+S24_3,Muzaffarnagar,Uttar Pradesh,Sanjeev Kumar Balyan,BJP,573780,49.46,Ajit Singh,Rashtriya Lok Dal,567254,48.9,6526,6526,0.56
+S29_5,Zahirabad,Telangana,B.B. Patil,Telangana Rashtra Samithi,434244,41.58,Madan Mohan Rao,INC,428015,40.98,6229,6229,0.6
+S24_58,Shrawasti,Uttar Pradesh,Ram Shiromani,Bahujan Samaj Party,441771,44.31,Daddan Mishra,BJP,436451,43.78,5320,5320,0.53
+S29_14,Bhongir,Telangana,Komati Reddy Venkat Reddy,INC,532795,43.94,Dr. Boora Narsaiah Goud,Telangana Rashtra Samithi,527576,43.51,5219,5219,0.43
+S24_10,Meerut,Uttar Pradesh,Rajendra Agarwal,BJP,586184,48.19,Haji Mohammad Yaqoob,Bahujan Samaj Party,581455,47.8,4729,4729,0.39
+S13_19,Aurangabad,Maharashtra,Imtiaz Jaleel Syed,All India Majlis-e-ittehadul Muslimeen,389042,32.47,Chandrakant Khaire,Shivsena,384550,32.09,4492,4492,0.38
+S01_4,Visakhapatnam,Andhra Pradesh,M.V.V. Satyanarayana,Yuvajana Sramika Rythu Congress Party,436906,35.24,Bharat Mathukumilli,Telugu Desam,432492,34.89,4414,4414,0.35
+S01_13,Guntur,Andhra Pradesh,Jayadev Galla,Telugu Desam,587918,43.5,Modugula Venugopala Reddy,Yuvajana Sramika Rythu Congress Party,583713,43.19,4205,4205,0.31
+S18_21,Koraput,Odisha,Saptagiri Sankar Ulaka,INC,371129,34.36,Kausalya Hikaka,Biju Janata Dal,367516,34.02,3613,3613,0.34
+S22_27,Chidambaram,Tamil Nadu,Thirumaavalavan Thol,Viduthalai Chiruthaigal Katchi,500229,43.38,Chandrasekar P,All India Anna Dravida Munnetra Kazhagam,497010,43.1,3219,3219,0.28
+S25_39,Bardhaman Durgapur,West Bengal,S.S. Ahluwalia,BJP,598376,41.76,Dr. Mamtaz Sanghamita,All India Trinamool Congress,595937,41.59,2439,2439,0.17
+S10_22,Chamarajanagar,Karnataka,V. Srinivas Prasad,BJP,568537,44.74,R. Dhruvanarayana,INC,566720,44.6,1817,1817,0.14
+S04_36,Jahanabad,Bihar,Chandeshwar Prasad,Janata Dal  (United),335584,40.82,Surendra Prasad Yadav,Rashtriya Janata Dal,333833,40.61,1751,1751,0.21
+S27_11,Khunti,Jharkhand,Arjun Munda,BJP,382638,45.97,Kali Charan Munda,INC,381193,45.8,1445,1445,0.17
+U01_1,Andaman & Nicobar Islands,Andaman & Nicobar Islands,Kuldeep Rai Sharma,INC,95308,45.98,Vishal Jolly,BJP,93901,45.3,1407,1407,0.68
+S25_29,Arambagh,West Bengal,Aparupa Poddar (Afrin Ali),All India Trinamool Congress,649929,44.15,Tapan Kumar Ray,BJP,648787,44.08,1142,1142,0.07
+U06_1,Lakshadweep,Lakshadweep,Mohammed Faizal Pp,Nationalist Congress Party,22851,48.61,Hamdullah Sayeed,INC,22028,46.86,823,823,1.75
+S24_74,Machhlishahr,Uttar Pradesh,Bholanath (B.P. Saroj),BJP,488397,47.19,Tribhuvan Ram (T.ram),Bahujan Samaj Party,488216,47.17,181,181,0.02

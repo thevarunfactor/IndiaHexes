@@ -1,0 +1,230 @@
+<html>
+<meta charset="utf-8">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-queue/1.2.3/queue.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.theme.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="autocomplete/easy-autocomplete.min.css">
+<script src="https://d3js.org/d3-color.v1.min.js"></script>
+<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="autocomplete/jquery.easy-autocomplete.min.js"></script>
+
+<script src="constNames.js"></script>
+
+<style>
+.input_box {
+  width: 100%;
+  max-width: 200px;
+  border: 1px solid red;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+.tooltip {
+  position: absolute;
+  padding: 8px;
+  text-align: left;
+  font: 2vw Helvetica, Arial, sans-serif!important;
+  background: rgba(0, 0, 0, .87);
+  color: #fff;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  }
+svg {display: block; width: 100%; margin: 0 auto;}
+</style>
+</head>
+<body>
+  <center>
+  <div class = "container">   
+<input id="constName" class="input_box"> </div><br/>
+<!-- <div class="container">
+  <select class="seatDropdown" id = "seatType">
+  <option value="All" selected>All seats</option>
+  <option value="Reserved">Reserved seats</option>
+</select><br/><br/>
+</div> -->
+  <div class="container" id="map_container"><br/></div>
+  </div>
+</center>
+<script>
+var width = 780,
+    height = 640;
+/*var legendColor = ['orange','steelblue','yellow'];
+var partyList = ['BJP','Congress','Others'];*/
+
+//Below we define our responsive map container
+var main_chart_svg = d3.select("#map_container")
+        .append("svg")
+         .attr("preserveAspectRatio", "xMinYMin meet")
+   .attr("viewBox", "0 0 "+ width+" "+height)
+   .attr({
+            "width":width,
+            "height":height
+        });
+//Define tooltip        
+var div = d3.select("body").append("div")	
+    .attr("class", "tooltip")				
+    .style("opacity", 0);
+var constType;
+var marginPC = d3.map();
+var tooltip_content = [];
+var data;
+//Queue function will call ready function only after processing the CSV
+queue()
+    .defer(d3.csv, "results.csv",data)
+    .await(ready);
+
+//Main function where we draw the map
+function ready(error, data) {
+
+  if (error) throw error;
+//We create a D3 map function which will return the winning party when we give the unique constituency code as input 
+  d3.map(data, function(d) {marginPC.set(d.concat, +d.marginPC)});	/* create the data map */
+    var colorScale = d3.scale.linear()
+    .domain([0,53])
+    .range([0,1]);
+
+ //Load the India hexagons SVG
+ d3.xml("tiles2.svg", "image/svg+xml", function(error, xml) {		/* embed the SVG map */
+    if (error) throw error;
+
+ var svgMap = xml.getElementsByTagName("svg")[0];			/* set svgMap to root */
+india = main_chart_svg.node().appendChild(svgMap);		/* India map */
+ var constID;
+var options = {
+  data: constNames,
+  placeholder: "Search by constituency",
+  getValue: "label",
+  list: {
+  match: {
+     enabled: true
+   },
+    onSelectItemEvent: function() {
+      constID = $("#constName").getSelectedItemData().value;
+       d3.select(india).selectAll("polygon")
+    .filter(function() {
+      data.forEach(function(d){
+        if(constID==d.concat){
+          return mousefn(d.concat,data)
+        }
+      });    
+    })
+    .style("opacity", 0.5)
+
+    }
+  },
+  theme: "round",
+};
+ 
+//DUMMY
+//Code for user autocomplete (JQuery).
+/*$('#constName').autocomplete(
+  {
+    source: constNames, 
+  //When a constituency is selected by the user, it gets filtered and highlighted
+  select: function(event, ui)
+  {
+  	  
+  	  $("#constName").val(ui.item.label);
+
+    d3.select(india).selectAll("polygon")
+    .filter(function() {
+    	data.forEach(function(d){
+    		if(ui.item.value==d.concat){
+    			return mousefn(d.concat,data)
+    		}
+    	});    
+    })
+    .style("opacity", 0.5)
+
+  }, 
+});*/
+$("#constName").easyAutocomplete(options);
+//Set colours for hexagons
+d3.select(india).selectAll("polygon")  
+        .style("fill", function() {
+    var tempParty;
+    var tempID=this.id;
+    var tempMargin = marginPC.get(this.id);
+    data.forEach(function(d){
+      if(d.concat==tempID){
+        tempParty = d.winParty;
+      }
+    })
+    var colourGet="black";
+
+    if(tempMargin){
+    if(tempParty=="BJP"){colourGet = d3.interpolateOranges(colorScale(tempMargin))}
+    else if (tempParty=="INC"){colourGet = d3.interpolateBlues(colorScale(tempMargin))}
+    else colourGet = d3.interpolateGreys(colorScale(tempMargin));
+    }
+    return colourGet;
+  })
+  .style("opacity", 0.6)
+  .on('mouseover', function () {
+    return mousefn(this.id, data)
+    
+  })
+    .on('mouseout', function (){
+      return mouseoutfn(this.id);
+    })
+    //.attr({"width":width/1.5,"height":height/1.5}); 
+ });
+}
+/*function onlyreserved(id){  
+  d3.select(india).selectAll("polygon")
+    .filter(function() {
+      data.forEach(function(d){
+        if(d.constType=="SC" or d.constType=="ST")
+});
+    });
+  }*/
+function mousefn(tempID,data)
+{
+  //Set tooltip content
+		data.forEach(function(d){
+			if (d.concat == tempID) {
+				tooltip_content['Constituency'] = d.constName;
+         tooltip_content['State'] = d.stateName;
+				tooltip_content['Winner'] = d.winner;
+        tooltip_content['WinnerParty'] = d.winParty;
+				tooltip_content['Margin'] = d.absMarginText;
+        tooltip_content['RunnerParty']=d.runParty;
+        
+			}
+		})		
+				let posID = "#"+tempID;
+				let pos = $(posID).position();
+  				$(posID).css({ opacity:1 });	
+		  	     div.transition()		
+                .duration(200)		
+                .style("opacity", 1);		
+            div	.html("<b>Constituency:</b> " +tooltip_content['Constituency']+ "<br/>"+"<b>State: </b>"+tooltip_content['State']+"</br>"+"<b>Winner: </b>"+tooltip_content['Winner']+"<br/><b>Winning party:</b> "+tooltip_content['WinnerParty']+"<br/>"+"<b>Margin: </b>"+tooltip_content['Margin']+"<br/><b>Runner-up party : </b>"+tooltip_content['RunnerParty']+"<br/>")	
+                .style("left", (pos.left+20) + "px")	
+                .style("top", (pos.top+10) + "px");
+}
+function mouseoutfn(tempID)
+{
+	  div.transition()		
+                .duration(500)		
+                .style("opacity", 0);
+      	let posID = "#"+tempID;
+		let pos = $(posID).position();
+  		$(posID).css({ opacity:0.5 });	
+}
+
+</script>
+</body>
+</html>
+
